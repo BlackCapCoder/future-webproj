@@ -4,23 +4,22 @@ body{
 }
 
 #header-nattjobb{
-    color: white;
-    text-align: justify;
-    position: absolute;
-    top: 60px;
-    left: 400px;
-    text-decoration-line: underline;
-    border: 5px; 
-    letter-spacing: 3px;
-    
+  color: white;
+  text-align: justify;
+  position: absolute;
+  top: 60px;
+  left: 400px;
+  text-decoration-line: underline;
+  border: 5px; 
+  letter-spacing: 3px;
 }
 
 #cutoffbackground{
-    position: absolute;
-    left: 200px;
-    top: 0px;
-    height: 110%;
-    z-index: -1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  height: 100%;
+  z-index: -1;
 }
 
 #lykkebar{
@@ -61,4 +60,12 @@ body{
         left: 2px;
     }
 }
-    
+
+main {
+  width: 100vw;
+  height: 100vh;
+  background: url('bilder/taxiNatt.png');
+  background-size: auto 100%;
+  background-position-x: right;
+  background-repeat: no-repeat;
+}
