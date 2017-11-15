@@ -33,7 +33,7 @@ body{
   position: absolute;
   top: 0;
   left: 0; right: 0;
-  height: 38vh;
+  height: 44vh;
   transition: height 0.5s;
   background: url(bilder/EntrepreneurshipJourney.jpg) no-repeat;
   background-size: auto 100vh;
