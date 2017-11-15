@@ -1,32 +1,32 @@
 body{
-    margin: auto;
+  margin: auto;
 }
 
 #button1:link {
-    background-color: lightskyblue;
-    color: white;
-    padding: 14px 25px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    position: absolute;
-    left: 3%;
-    top: 35vh;
+  background-color: lightskyblue;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  position: absolute;
+  left: 3%;
+  top: 35vh;
 }
 
 #button2:link {
-    background-color: lightskyblue;
-    color: white;
-    padding: 14px 25px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    position: absolute;
-    right: 30px;
-    top: calc(100vh - 60px);
-    margin: auto;
-    opacity: 0;
-    transition: opacity 0.3s;
+  background-color: lightskyblue;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  position: absolute;
+  right: 30px;
+  top: calc(100vh - 60px);
+  margin: auto;
+  opacity: 0;
+  transition: opacity 0.3s;
 }
 
 #textbox{
@@ -40,13 +40,12 @@ body{
 }
 
 #text1{
-    /* text-align: center; */
-    color: white;
-    position: absolute;
-    top: 9vh;
-    left: 3%;
-    width: 80vw;
-    font-size: 23px;
+  color: white;
+  position: absolute;
+  top: 9vh;
+  left: 3%;
+  width: 80vw;
+  font-size: 23px;
 }
 #textbox:hover{
     height: 100vh;
@@ -57,10 +56,7 @@ body{
 }
 
 #wrapper {
-  /* width: 90vw; */
-  /* height: 90vh; */
   left: 50%;
-  /* top: 50%; */
   position: absolute;
   transform: translate(-50%, -0%);
 }
