@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(60,60,60);
+    overflow: hidden;
+}
+
+#header-nattjobb{
+    color: white;
+    text-align: justify;
+    position: absolute;
+    top: 60px;
+    left: 400px;
+    text-decoration-line: underline;
+    border: 5px; 
+    letter-spacing: 3px;
+    
+}
+
+#cutoffbackground{
+    position: absolute;
+    left: 200px;
+    top: 0px;
+    height: 110%;
+    z-index: -1;
+}
+
+#lykkebar{
+    position: absolute;
+    width: 200px;
+    height: 25px;
+    left: 10px;
+    bottom: -50px;
+    background-color: grey;
+    border: ridge 5px;
+    overflow: hidden;
+}
+
+#lykkebar-header{
+    color: white;
+    position: absolute;
+    bottom: 50px;
+    left: 440px;
+    text-align: center;
+}
+
+#redbar{
+    position: absolute;
+    width: 195px;
+    height: 20px;
+    left: 2px;
+    top: 3px;
+    background-color: red;
+    animation: redbarMoves 20s linear;
+}
+
+@keyframes redbarMoves{
+    0%{
+        left: -200px;
+    }
+    100%{
+        left: 2px;
+    }
+}
+    
