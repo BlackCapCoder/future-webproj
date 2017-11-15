@@ -22,19 +22,17 @@ body{
   z-index: -1;
 }
 
-#lykkebar{
-  position: absolute;
+#lykkebar {
   width: 211px;
   height: 25px;
-  left: 30px;
-  bottom: 30px;
   /* bottom: -50px; */
-  background-color: rgba(0,0,0,0.8);
-  border: ridge 3px;
+  background-color: rgba(0,0,0,0.3);
+  border: solid dimgray 1px;
   overflow: hidden;
+  border-radius: 4px;
 }
 
-#lykkebar-header{
+#lykkebar-header {
   color: white;
   position: absolute;
   bottom: 50px;
@@ -45,22 +43,25 @@ body{
 #redbar{
   position: absolute;
   width: 211px;
-  height: 19px;
-  left: 3px;
-  top: 3px;
-  background: red;
-  box-shadow: 0 0 30px red;
+  height: 18px;
+  left: 53.5px;
+  bottom: 4.5px;
+  background: lime;
   clip-path: url(#prgClip);
-  animation: redbarMoves 20s linear;
+  animation: redbarMoves 10s ease-out;
 }
 
 @keyframes redbarMoves{
-    0%{
-        width: 0;
-    }
-    100%{
-        width: 204px;
-    }
+  0%{
+    width: 0;
+    background: red;
+    box-shadow: 0 0 30px red;
+  }
+  100%{
+    width: 204px;
+    background: lime;
+    box-shadow: 0 0 30px lime;
+  }
 }
 
 main {
@@ -70,4 +71,23 @@ main {
   background-size: auto 100%;
   background-position-x: right;
   background-repeat: no-repeat;
+}
+
+#bar {
+  position: absolute;
+  left: 20px;
+  bottom: 15px;
+}
+#luck-label {
+  color: #bbb;
+  font-family: monospace;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 14px;
+  margin-right: 3px;
+  text-shadow: 1px 1px 1px #222;
+}
+#luck-label, #lykkebar {
+  display: inline-block;
+  vertical-align: middle;
 }
