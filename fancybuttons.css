@@ -1,0 +1,23 @@
+.menu {
+  text-align: center;
+  /* padding-top: 10px; */
+}
+.menu > ul {
+  display: flex;
+  justify-content: center;
+}
+.menu ul li a {
+  list-style: none;
+  text-decoration: none;
+  color: white;
+  padding: 14px 20px;
+  display: inline-block;
+}
+
+.menu ul li {
+  display: block;
+  /* float: left; */
+  background-color: lightskyblue;
+  margin: 10px;
+  border-radius: 3px;
+}
