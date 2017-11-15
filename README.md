@@ -1,8 +1,5 @@
 [Open the website](https://blackcapcoder.github.io/future-webproj/forside.html)
 
-![](bilder/ilu1.png)
-![](bilder/ilu2.png)
-
 # Gjennomføringsplan
 
 ## Auftragstaktikk
@@ -17,3 +14,9 @@ Vi deler koden på Github slik at vi kan oppnå bedre samarbeid og tilgang på f
 ### Gjennomførtbart
 Vi anser dette som gjennomførtbart da vi har klart dette hver dag i uken før.
 Gruppens samhold og kommunikasjon blir bedre og bedre.
+
+# Struktur
+
+![](bilder/ilu1.png)
+![](bilder/ilu2.png)
+
