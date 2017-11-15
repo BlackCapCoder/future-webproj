@@ -30,16 +30,31 @@ p {
     padding: 5px;
 }
 
-h1 {
-    text-align: center;
-}
-
 #taxinatt {
     /* Full height */
     height: 100%; 
-    
+
     /* Center and scale the image nicely */
     background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.title {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 40px;
+}
+
+.wrapper {
+  width: 70vw;
+  margin-left: 15%;
+  margin-top: 50px;
+}
+
+.menu {
+  text-align: center;
+}
+.menu > ul {
+  display: inline-block;
 }
