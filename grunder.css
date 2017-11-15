@@ -103,12 +103,12 @@ body{
 
 /*START OF konkurs2*/
 #k2text2{
-   opacity 0;
+   opacity: 0;
    left: 50%;
    transition: opacity 0.5s;
 }
 
-#k2button2:hover ~ k2text2{
+#k2button2:hover > k2text2{
   opacity 1.0;
 }
 /*END OF konkurs2*/
