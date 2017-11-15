@@ -2,7 +2,8 @@ body{
   margin: auto;
 }
 
-#button1:link {
+/*START OF grunder1*/
+#g1button1:link {
   background-color: lightskyblue;
   color: white;
   padding: 14px 25px;
@@ -14,7 +15,7 @@ body{
   top: 35vh;
 }
 
-#button2:link {
+#g1button2:link {
   background-color: lightskyblue;
   color: white;
   padding: 14px 25px;
@@ -29,7 +30,7 @@ body{
   transition: opacity 0.3s;
 }
 
-#textbox{
+#g1textbox{
   position: absolute;
   top: 0;
   left: 0; right: 0;
@@ -39,7 +40,7 @@ body{
   background-size: auto 100vh;
 }
 
-#text1{
+#g1text{
   color: white;
   position: absolute;
   top: 9vh;
@@ -47,21 +48,52 @@ body{
   width: 80vw;
   font-size: 23px;
 }
-#textbox:hover{
+#g1textbox:hover{
     height: 100vh;
 }
 
-#textbox:hover #button2 {
+#g1textbox:hover #g1button2 {
     opacity: 1.0;
 }
 
-#wrapper {
+#g1wrapper {
   left: 50%;
   position: absolute;
   transform: translate(-50%, -0%);
 }
 
-#dummy {
+#g1img {
   height: 100vh;
   visibility: hidden;
 }
+/*END OF grunder1*/
+
+/*START OF konkurs1*/
+#k1button:link {
+    background-color: lightskyblue;
+    color: white;
+    padding: 18px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    top: 15vh;
+}
+
+#k1text{
+    position: absolute;
+    left: 3%;
+    color: white;
+    font-size: 34px;
+}
+
+#k1img{
+    opacity: 0.7;
+    z-index: -1;
+    max-width: 100%;
+    height: auto;
+    position: fixed;
+}
+
+/*END OF konkurs1*/
