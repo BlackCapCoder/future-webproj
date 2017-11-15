@@ -34,3 +34,10 @@ p {
   margin-left: 15%;
   margin-top: 50px;
 }
+
+#hat {
+  position: absolute;
+  right: 50px;
+  bottom: 0px;
+  height: 30vh;
+}
