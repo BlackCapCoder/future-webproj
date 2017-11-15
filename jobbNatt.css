@@ -28,7 +28,8 @@ body{
     width: 200px;
     height: 25px;
     left: 10px;
-    bottom: -50px;
+    /* bottom: -50px; */
+    bottom: 50px;
     background-color: grey;
     border: ridge 5px;
     overflow: hidden;
