@@ -1,6 +1,6 @@
 body{
-    background-color: rgb(60,60,60);
-    overflow: hidden;
+  background-color: rgb(60,60,60);
+  overflow: hidden;
 }
 
 #header-nattjobb{
@@ -23,33 +23,33 @@ body{
 }
 
 #lykkebar{
-    position: absolute;
-    width: 200px;
-    height: 25px;
-    left: 10px;
-    /* bottom: -50px; */
-    bottom: 50px;
-    background-color: grey;
-    border: ridge 5px;
-    overflow: hidden;
+  position: absolute;
+  width: 200px;
+  height: 25px;
+  left: 30px;
+  bottom: 30px;
+  /* bottom: -50px; */
+  background-color: grey;
+  border: ridge 5px;
+  overflow: hidden;
 }
 
 #lykkebar-header{
-    color: white;
-    position: absolute;
-    bottom: 50px;
-    left: 440px;
-    text-align: center;
+  color: white;
+  position: absolute;
+  bottom: 50px;
+  left: 440px;
+  text-align: center;
 }
 
 #redbar{
-    position: absolute;
-    width: 195px;
-    height: 20px;
-    left: 2px;
-    top: 3px;
-    background-color: red;
-    animation: redbarMoves 20s linear;
+  position: absolute;
+  width: 195px;
+  height: 20px;
+  left: 2px;
+  top: 3px;
+  background-color: red;
+  animation: redbarMoves 20s linear;
 }
 
 @keyframes redbarMoves{
