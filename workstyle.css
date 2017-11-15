@@ -13,14 +13,12 @@ body {
   background: url(bilder/day.jpg);
   background-size: cover;
   background-position: 100% 0%;
-  cursor: pointer;
 }
 .br {
   clip-path: polygon(0 100%, 100% 100%, 100% 0);
   background: url(bilder/night.jpg);
   background-size: cover;
   background-position: 0% 100%;
-  cursor: pointer;
 }
 
 .tl:hover, .br:hover {
@@ -37,4 +35,5 @@ body {
   top: 50%;
   transform: translate(-50%, -50%);
   text-shadow: 0 0 10px black;
+  pointer-events: none;
 }
