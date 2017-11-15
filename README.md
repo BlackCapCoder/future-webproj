@@ -1,5 +1,8 @@
 [Open the website](https://blackcapcoder.github.io/future-webproj/forside.html)
 
+![](bilder/struct1.png)
+![](bilder/struct2.png)
+
 # Gjennomføringsplan
 
 ## Auftragstaktikk
