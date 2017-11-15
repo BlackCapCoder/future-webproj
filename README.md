@@ -4,7 +4,7 @@
 
 # Gjennomføringsplan
 
-##Auftragstaktikk
+## Auftragstaktikk
 
 Gruppen har bestemt å fordele arbeidsoppgavene i små grupper i to og to. Vi gjør dette med å et felles mål, men ditt bestemmes med stor frihet av undergruppene. Til slutt går vi sammen og legger all kode til en fil.
 
