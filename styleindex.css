@@ -45,6 +45,10 @@ p {
   right: 50px;
   bottom: 0px;
   height: 30vh;
+  transition: 0.3s ease;
+}
+#hat:hover {
+  transform: rotate(14deg) scale(1.07);
 }
 
 #trans-bot {
