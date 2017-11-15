@@ -10,9 +10,8 @@ body{
     text-decoration: none;
     display: inline-block;
     position: absolute;
-    left: 150px;
-    top: 340px;
-    margin: auto;
+    left: 3%;
+    top: 35%;
 }
 
 #button2:link {
@@ -23,32 +22,35 @@ body{
     text-decoration: none;
     display: inline-block;
     position: absolute;
-    left: 1250px;
-    top: 700px;
+    right: 30px;
+    bottom: 20px;
     margin: auto;
     opacity: 0;
+    transition: opacity 0.3s;
 }
 
 #textbox{
-    width: 1400px;
-    height: 300px;
-    transition: opacity, height 0.5s;
-    padding: 50px;
-    background: url(bilder/EntrepreneurshipJourney.jpg) no-repeat left fixed;
-    background-size: contain;
+  width: 100%;
+  height: 38vh;
+  transition: height 0.5s;
+  padding: 50px;
+  background: url(bilder/EntrepreneurshipJourney.jpg) no-repeat left fixed;
+  background-size: auto 100%;
 }
 
 #text1{
-    text-align: center;
+    /* text-align: center; */
     color: white;
     position: absolute;
-    top: 100px;
+    top: 9%;
+    left: 3%;
+    width: 80vw;
     font-size: 23px;
 }
 #textbox:hover{
-    height: 820px;
+    height: 100vh;
 }
 
-#textbox:hover #button2 { 
-    opacity: 1.0; 
+#textbox:hover #button2 {
+    opacity: 1.0;
 }

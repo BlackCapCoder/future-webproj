@@ -1,0 +1,17 @@
+.tl, .br {
+  position: absolute;
+  width: 0; height: 0;
+  top: 0; left: 0;
+  z-index: -1;
+}
+
+.tl {
+  border-top:   100vh solid yellow;
+  border-right: 100vw solid transparent;
+  border-image: url('bilder/ilu1.png');
+}
+.br {
+  /* border-bottom: 100vh solid darkblue; */
+  /* border-left:   100vw solid transparent; */
+  /* border-image: url('bilder/sign.png'); */
+}
