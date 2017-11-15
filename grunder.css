@@ -4,30 +4,44 @@ body{
 
 /*START OF grunder1*/
 #g1button1:link {
+  list-style: none;
   background-color: lightskyblue;
   color: white;
-  padding: 14px 25px;
+  padding: 14px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   position: absolute;
+  margin: 10px;
+  transition: 0.3s ease;
+  border-radius: 3px;
   left: 3%;
   top: 35vh;
 }
 
 #g1button2:link {
+  list-style: none;
   background-color: lightskyblue;
   color: white;
-  padding: 14px 25px;
+  padding: 14px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   position: absolute;
   right: 30px;
   top: calc(100vh - 60px);
-  margin: auto;
+  margin: 10px;
+  border-radius: 3px;
   opacity: 0;
-  transition: opacity 0.3s;
+  transition: opacity 0.3s ease;
+}
+
+#g1button1:hover, #g1button2:hover {
+  box-shadow: 0 0 12px lightskyblue;
+  font-size: 18px;
+  padding: 17px 24px;
+  transform: translateY(1.5px);
+  margin: 4.5px;
 }
 
 #g1textbox{
