@@ -24,13 +24,13 @@ body{
 
 #lykkebar{
   position: absolute;
-  width: 200px;
+  width: 211px;
   height: 25px;
   left: 30px;
   bottom: 30px;
   /* bottom: -50px; */
-  background-color: grey;
-  border: ridge 5px;
+  background-color: rgba(0,0,0,0.8);
+  border: ridge 3px;
   overflow: hidden;
 }
 
@@ -44,20 +44,22 @@ body{
 
 #redbar{
   position: absolute;
-  width: 195px;
-  height: 20px;
-  left: 2px;
+  width: 211px;
+  height: 19px;
+  left: 3px;
   top: 3px;
-  background-color: red;
+  background: red;
+  box-shadow: 0 0 30px red;
+  clip-path: url(#prgClip);
   animation: redbarMoves 20s linear;
 }
 
 @keyframes redbarMoves{
     0%{
-        left: -200px;
+        width: 0;
     }
     100%{
-        left: 2px;
+        width: 204px;
     }
 }
 
