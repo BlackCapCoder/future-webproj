@@ -1,7 +1,7 @@
 [Open the website](https://blackcapcoder.github.io/future-webproj/forside.html)
 
-![](bilder/struct1.png)
-![](bilder/struct2.png)
+![](bilder/ilu1.png)
+![](bilder/ilu2.png)
 
 # Gjennomføringsplan
 
