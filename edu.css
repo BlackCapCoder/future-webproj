@@ -1,0 +1,42 @@
+#sign {
+  width: 60vh;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  position: relative;
+}
+
+#sign > img {
+  width: 100%;
+}
+
+.dir {
+  position: absolute;
+  color: white;
+  font-family: arial;
+  font-size: 6vh;
+  font-weight: bolder;
+  text-transform: uppercase;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 50%;
+}
+
+.box {
+  position: absolute;
+}
+#link-IT {
+  transform: translate(-50%, -50%) matrix(1,0.15,0,1,0,0);
+  top: 23.5%;
+  left: 52%;
+  width: 72%;
+  height: 12vh;
+}
+#link-art {
+  transform: translate(-50%, -50%) matrix(1,-0.10,0,1,0,0);
+  top: 49%;
+  left: 50%;
+  width: 75%;
+  height: 12.5vh;
+}
