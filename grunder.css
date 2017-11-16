@@ -172,3 +172,4 @@ h2{
 .menu > ul {
   flex-direction: column !important;
 }
+.menu ul li a { width: 300px; }
