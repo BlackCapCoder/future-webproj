@@ -180,14 +180,14 @@ h2{
 }
 .menu ul li a { width: 300px; }
 
-#lemon {
+.thumb {
   height: 60px;
   position: absolute;
   transform: translateX(-70px);
   opacity: 0;
   transition: 0.4s ease-out;
 }
-#lemon-cont:hover #lemon {
+.menu li:hover .thumb {
   opacity: 1;
   transform: translateX(-70px) rotate(-10deg) scale(1.1);
 }
