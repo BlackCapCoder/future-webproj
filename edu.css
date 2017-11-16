@@ -40,8 +40,8 @@
   width: 75%;
   height: 12.5vh;
 }
-#tworoads{
-    position: absolute;
-    width: 100%;
-    
+#tworoads {
+  position: absolute;
+  left: 0; top: 0;
+  width: 100%;
 }
