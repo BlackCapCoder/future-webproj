@@ -7,7 +7,9 @@
 Gruppen har bestemt å fordele arbeidsoppgavene i små grupper i to og to. Vi gjør dette med å et felles mål, men ditt bestemmes med stor frihet av undergruppene. Til slutt går vi sammen og legger all kode til en fil.
 
 ### Arbeidsplan
-Møte på skolen kl 12 hverdag og jobbe til  kl 14-16. Her møtes vi og planlegger agendaen for dagen før vi går hver undergruppe og kode. Møtes sammen til slutt hvor vi vil dele, diskutere og hjelpe hverandre med kodene.
+Møte på skolen kl 12 hverdag og jobbe til  kl 14-18. Her møtes vi og planlegger agendaen for dagen før vi koder i undergruppene. Møtes sammen til slutt hvor vi vil dele, diskutere og hjelpe hverandre med kodene.
+
+Første utkast av prosjektet bør være ferdig til onsdag 22. november slik at vi kan opptimalisere det de siste dagene.
 
 Vi deler koden på Github slik at vi kan oppnå bedre samarbeid og tilgang på filene. 
 
