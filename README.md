@@ -16,13 +16,13 @@ Vi anser dette som gjennomførtbart da vi har klart dette hver dag i uken før.
 Gruppens samhold og kommunikasjon blir bedre og bedre.
 
 # Første utkast
-![](bilder/ilu6.png)
+![](bilder/drawing.6png)
 
 # Struktur
 
 ![](bilder/drawing1.png)
 ![](bilder/drawing2.png)
-![](bilder/dawing3.png)
+![](bilder/drrawing3.png)
 ![](bilder/drawing4.png)
 ![](bilder/drawing5.png)
 ![](bilder/drawing7.png)
