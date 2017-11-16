@@ -2,12 +2,16 @@
   width: 60vh;
   position: absolute;
   left: 50%;
-  transform: translateX(-55%);
+  transform: translateX(-50%);
   position: relative;
 }
 
 #sign > img {
   width: 100%;
+  position: absolute;
+  top: 40%;
+  
+  
 }
 
 .dir {
