@@ -153,12 +153,17 @@ h2{
   font-family: monospace;
   font-size: 30px;
 }
+#k2button2 {
+  position: relative;
+}
 #k2text2 {
   opacity: 0;
   /* left: 50%; */
   transition: opacity 0.5s;
   position: absolute;
-  transform: translateX(-15%);
+  text-align: center;
+  left: 50%;
+  transform: translateX(-50%);
   flex-direction: column;
 }
 
