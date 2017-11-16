@@ -34,7 +34,7 @@ body{
   margin: 10px;
   border-radius: 3px;
   opacity: 0;
-  transition: opacity 0.3s ease, 0.3s ease;
+  transition: 0.3s ease;
   font-family: monospace;
 }
 
