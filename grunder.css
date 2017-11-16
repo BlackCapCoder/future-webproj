@@ -183,3 +183,7 @@ h2{
 
 /*START OF suksess*/
 /*END OF suksess*/
+
+.menu > ul {
+  flex-direction: column !important;
+}
