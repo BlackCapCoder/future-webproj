@@ -17,6 +17,7 @@ body{
   border-radius: 3px;
   left: 3%;
   top: 35vh;
+  font-family: monospace;
 }
 
 #g1button2:link {
@@ -34,6 +35,7 @@ body{
   border-radius: 3px;
   opacity: 0;
   transition: opacity 0.3s ease;
+  font-family: monospace;
 }
 
 #g1button1:hover, #g1button2:hover {
@@ -61,6 +63,7 @@ body{
   left: 3%;
   width: 80vw;
   font-size: 23px;
+  font-family: monospace;
 }
 #g1textbox:hover{
     height: 100vh;
@@ -96,6 +99,7 @@ body{
     border-radius: 3px;
     left: 50%;
     top: 15vh;
+    font-family: monospace;
 }
 
 #k1button:hover{
@@ -111,6 +115,7 @@ body{
     left: 3%;
     color: white;
     font-size: 34px;
+    font-family: monospace;
 }
 
 #k1img{
