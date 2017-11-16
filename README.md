@@ -15,6 +15,9 @@ Vi deler koden på Github slik at vi kan oppnå bedre samarbeid og tilgang på f
 Vi anser dette som gjennomførtbart da vi har klart dette hver dag i uken før.
 Gruppens samhold og kommunikasjon blir bedre og bedre.
 
+# Første utkast
+![](bilder/ilu6.png)
+
 # Struktur
 
 ![](bilder/ilu1.png)
@@ -22,5 +25,4 @@ Gruppens samhold og kommunikasjon blir bedre og bedre.
 ![](bilder/ilu3.png)
 ![](bilder/ilu4.png)
 ![](bilder/ilu5.png)
-![](bilder/ilu6.png)
 ![](bilder/ilu7.png)
