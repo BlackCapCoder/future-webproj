@@ -20,9 +20,9 @@ Gruppens samhold og kommunikasjon blir bedre og bedre.
 
 # Struktur
 
-![](bilder/ilu1.png)
-![](bilder/ilu2.png)
-![](bilder/ilu3.png)
-![](bilder/ilu4.png)
-![](bilder/ilu5.png)
-![](bilder/ilu7.png)
+![](bilder/drawing1.png)
+![](bilder/drawing2.png)
+![](bilder/drawing3.png)
+![](bilder/drawing4.png)
+![](bilder/drawing5.png)
+![](bilder/drawing7.png)
