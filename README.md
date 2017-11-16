@@ -27,5 +27,5 @@ Gruppens samhold og kommunikasjon blir bedre og bedre.
 ![](bilder/drawing2.png)
 ![](bilder/drrawing3.png)
 ![](bilder/drawing4.png)
-![](bilder/drawing5.png)
+
 
