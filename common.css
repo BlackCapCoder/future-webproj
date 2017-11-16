@@ -1,3 +1,7 @@
+* {
+  font-family: monospace;
+}
+
 #home {
   position: absolute;
   bottom: 10px;

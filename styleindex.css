@@ -62,3 +62,7 @@ p {
   height: 30px;
   margin-top: 40px;
 }
+
+.text p {
+  font-family: Arial;
+}
