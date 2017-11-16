@@ -34,12 +34,12 @@ body{
   margin: 10px;
   border-radius: 3px;
   opacity: 0;
-  transition: opacity 0.3s ease;
+  transition: opacity 0.3s ease, 0.3s ease;
   font-family: monospace;
 }
 
 #g1button1:hover, #g1button2:hover {
-  box-shadow: 0 0 12px lightskyblue;
+  box-shadow: 0 0 12px lightskyblue; important!
   font-size: 18px;
   padding: 17px 24px;
   transform: translateY(1.5px);
