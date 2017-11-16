@@ -12,6 +12,9 @@ body{
   text-decoration-line: underline;
   border: 5px; 
   letter-spacing: 3px;
+  text-shadow: 1px 1px 1px #222;
+  font-family: monospace;
+  font-size: 40px;
 }
 
 #lykkebar {
