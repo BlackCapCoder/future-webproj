@@ -156,6 +156,10 @@ body{
     position: relative;
     left: 40px;
 }
+.button:hover{
+    background-color: yellow;
+    
+}
 /*END OF grunder2*/
 
 /*START OF konkurs2*/
