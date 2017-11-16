@@ -13,11 +13,14 @@ Gruppen har bestemt å fordele arbeidsoppgavene i små grupper i to og to. Vi gj
 ### Arbeidsplan
 Møtes på skolen kl 12 hverdag og jobbe til  kl 14-16. Her møtes vi og finner en plass hvor vi kan kode. Underveis vil vi dele, diskutere og hjelpe hverandre med kodene.
 
+Første utkast av prosjektet bør være ferdig 22.nov slik at det kan finpusses de resterende dagene.
+
 Vi deler koden på Github slik at vi kan oppnå bedre samarbeid og tilgang på filene. 
 
 ### Gjennomførtbart
 Vi anser dette som gjennomførtbart da vi har klart dette hver dag i uken før.
 Gruppens samhold og kommunikasjon blir bedre og bedre.
+
 
 # Første utkast
 ![](bilder/drawing6.png)
