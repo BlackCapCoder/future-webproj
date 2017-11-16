@@ -159,6 +159,7 @@ h2{
   transition: opacity 0.5s;
   position: absolute;
   transform: translateX(-15%);
+  flex-direction: column;
 }
 
 #k2button2:hover #k2text2 {
