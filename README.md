@@ -18,6 +18,9 @@ Gruppens samhold og kommunikasjon blir bedre og bedre.
 # Første utkast
 ![](bilder/drawing6.png)
 
+# Skisse Grunder
+![](bilder/drawing7.png)
+
 # Struktur
 
 ![](bilder/drawing1.png)
@@ -25,4 +28,4 @@ Gruppens samhold og kommunikasjon blir bedre og bedre.
 ![](bilder/drrawing3.png)
 ![](bilder/drawing4.png)
 ![](bilder/drawing5.png)
-![](bilder/drawing7.png)
+
