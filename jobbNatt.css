@@ -36,7 +36,7 @@ body{
   position: absolute;
   width: 0px;
   height: 18px;
-  left: 57.5px;
+  left: 53.5px;
   bottom: 4.5px;
   background: lime;
   clip-path: url(#prgClip);
@@ -108,7 +108,7 @@ main {
   position: absolute;
   width: 211px;
   height: 18px;
-  left: 74.5px;
+  left: 69.5px;
   bottom: 4.5px;
   background: lime;
   clip-path: url(#prgClip);
@@ -140,4 +140,14 @@ main {
 #success-label, #successbar {
   display: inline-block;
   vertical-align: middle;
+}
+
+#workinfo{
+    position: absolute;
+    left: 300px;
+    top: 150px;
+    color: rgb(180,180,180);
+    text-shadow: 1px 1px 1px #222;
+    text-align: center;
+    
 }
