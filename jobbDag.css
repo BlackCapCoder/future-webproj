@@ -1,6 +1,8 @@
 body{
-    background-color: rgb(135,206,250);
+    background-color: rgb(137,196,244);
     overflow: hidden;
+    margin: 0;
+    padding: 0;
   }
   
   #header-nattjobb{
@@ -8,25 +10,17 @@ body{
     text-align: justify;
     position: absolute;
     top: 60px;
-    left: 400px;
-    text-decoration-line: underline;
+    left: 250px;
+    text-decoration-line: none;
     border: 5px; 
     letter-spacing: 3px;
-  }
-  
-  #cutoffbackground{
-    position: absolute;
-    right: 0px;
-    top: 0px;
-    height: 100%;
-    z-index: -1;
   }
   
   #lykkebar {
     width: 211px;
     height: 25px;
     /* bottom: -50px; */
-    background-color: rgba(247, 247, 247, 0.30);
+    background-color: rgba(0,0,0,0.3);
     border: solid dimgray 1px;
     overflow: hidden;
     border-radius: 4px;
@@ -42,22 +36,22 @@ body{
   
   #redbar{
     position: absolute;
-    width: 211px;
+    width: 0px;
     height: 18px;
-    left: 53.5px;
+    left: 53px;
     bottom: 4.5px;
     background: lime;
     clip-path: url(#prgClip);
-    animation: redbarMoves 10s ease-out;
+    animation: redbarMoves 150s ease-out;
   }
   
   @keyframes redbarMoves{
-    0%{
+    100%{
       width: 0;
       background: red;
       box-shadow: 0 0 30px red;
     }
-    100%{
+    0%{
       width: 204px;
       background: lime;
       box-shadow: 0 0 30px lime;
@@ -67,16 +61,16 @@ body{
   main {
     width: 100vw;
     height: 100vh;
-    background: url('bilder/taxiNatt.png');
+    background: url('bilder/matbutikk.png');
     background-size: auto 100%;
-    background-position-x: right;
+    background-position: right;
     background-repeat: no-repeat;
   }
   
   #bar {
     position: absolute;
-    left: 20px;
-    bottom: 15px;
+    left: 225px;
+    bottom: 500px;
   }
   #luck-label {
     color: #bbb;
@@ -92,3 +86,82 @@ body{
     vertical-align: middle;
   }
   
+  
+  
+  #bar2 {
+    position: absolute;
+    left: 207px;
+    bottom: 450px;
+  }
+  
+  #successbar {
+      overflow: hidden;
+    width: 211px;
+    height: 25px;
+    /* bottom: -50px; */
+    background-color: rgba(0,0,0,0.3);
+    border: solid dimgray 1px;
+    overflow: hidden;
+    border-radius: 4px;
+  }
+  
+  #yellowbar{
+    position: absolute;
+    width: 211px;
+    height: 18px;
+    left: 70px;
+    bottom: 4.5px;
+    background: lime;
+    clip-path: url(#prgClip);
+    animation: yellowbarMoves 100s ease-out;
+  }
+  
+  @keyframes yellowbarMoves{
+    0%{
+      width: 0;
+      background: red;
+      box-shadow: 0 0 30px red;
+    }
+    100%{
+      width: 204px;
+      background: lime;
+      box-shadow: 0 0 30px lime;
+    }
+  }
+  
+  #success-label {
+    color: #bbb;
+    font-family: monospace;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+    margin-right: 3px;
+    text-shadow: 1px 1px 1px #222;
+  }
+  #success-label, #successbar {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  #p1 {
+    color: white;
+    text-align: justify;
+    position: absolute;
+    top: 300px;
+    left: 250px;
+    text-decoration-line: none;
+    border: 5px; 
+    letter-spacing: 3px;
+  }
+
+  #p2 {
+    color: white;
+    text-align: justify;
+    position: absolute;
+    top: 125px;
+    left: 250px;
+    text-decoration-line: none;
+    border: 5px; 
+    letter-spacing: 3px;
+    margin-top: 225px;
+  }
