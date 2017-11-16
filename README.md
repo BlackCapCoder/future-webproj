@@ -24,11 +24,16 @@ Gruppens samhold og kommunikasjon blir bedre og bedre.
 # Skisse Jobb
 ![](bilder/drawing4.png)
 
-# Struktur
-
-![](bilder/drawing1.png)
-![](bilder/drawing2.png)
+# Skisse Utdanning
 ![](bilder/drrawing3.png)
+
+# Struktur
+![](bilder/drawing2.png)
+
+# Arbeidsfordeling
+![](bilder/drawing1.png)
+
+
 
 
 
