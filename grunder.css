@@ -101,7 +101,7 @@ body{
 #k1button:hover{
   box-shadow: 0 0 12px lightskyblue;
   font-size: 18px;
-  padding: 17px 24px;
+  padding: 20px 30px;
   transform: translateY(1.5px);
   margin: 4.5px;
 }
