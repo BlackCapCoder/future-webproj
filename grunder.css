@@ -3,7 +3,7 @@ body{
 }
 
 /*START OF grunder1*/
-#g1button1:link {
+#g1button1 {
   list-style: none;
   background-color: lightskyblue;
   color: white;
@@ -20,7 +20,7 @@ body{
   font-family: monospace;
 }
 
-#g1button2:link {
+#g1button2 {
   list-style: none;
   background-color: lightskyblue;
   color: white;
@@ -86,7 +86,7 @@ body{
 /*END OF grunder1*/
 
 /*START OF konkurs1*/
-#k1button:link {
+#k1button {
     background-color: lightskyblue;
     color: white;
     padding: 18px 28px;
