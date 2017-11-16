@@ -21,11 +21,19 @@ Gruppens samhold og kommunikasjon blir bedre og bedre.
 # Skisse Grunder
 ![](bilder/drawing7.png)
 
-# Struktur
-
-![](bilder/drawing1.png)
-![](bilder/drawing2.png)
-![](bilder/drrawing3.png)
+# Skisse Jobb
 ![](bilder/drawing4.png)
+
+# Skisse Utdanning
+![](bilder/drrawing3.png)
+
+# Struktur
+![](bilder/drawing2.png)
+
+# Arbeidsfordeling
+![](bilder/drawing1.png)
+
+
+
 
 
