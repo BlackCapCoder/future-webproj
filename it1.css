@@ -1,0 +1,25 @@
+#header {
+  margin-left: -10px;
+  margin-top: -10px;
+  width: calc(100% + 20px);
+  background-image: url(bilder/code.jpg);
+  background-size: cover;
+  max-height: 30vh;
+}
+#dummy {
+  visibility: hidden;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 40px;
+  margin: 20px 0 10px 0;
+}
+h2 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 16px;
+  margin: 0;
+  margin-bottom: 20px;
+}
