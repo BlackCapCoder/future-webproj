@@ -39,7 +39,7 @@ body{
 }
 
 #g1button1:hover, #g1button2:hover {
-  box-shadow: 0 0 12px lightskyblue; important!
+  box-shadow: 0 0 12px lightskyblue;
   font-size: 18px;
   padding: 17px 24px;
   transform: translateY(1.5px);
