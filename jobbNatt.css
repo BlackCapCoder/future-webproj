@@ -14,14 +14,6 @@ body{
   letter-spacing: 3px;
 }
 
-#cutoffbackground{
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  height: 100%;
-  z-index: -1;
-}
-
 #lykkebar {
   width: 211px;
   height: 25px;
@@ -42,22 +34,22 @@ body{
 
 #redbar{
   position: absolute;
-  width: 211px;
+  width: 0px;
   height: 18px;
   left: 53.5px;
   bottom: 4.5px;
   background: lime;
   clip-path: url(#prgClip);
-  animation: redbarMoves 10s ease-out;
+  animation: redbarMoves 600s ease-out;
 }
 
 @keyframes redbarMoves{
-  0%{
+  100%{
     width: 0;
     background: red;
     box-shadow: 0 0 30px red;
   }
-  100%{
+  0%{
     width: 204px;
     background: lime;
     box-shadow: 0 0 30px lime;
@@ -69,8 +61,9 @@ main {
   height: 100vh;
   background: url('bilder/taxiNatt.png');
   background-size: auto 100%;
-  background-position-x: right;
+  background-position: 150px;
   background-repeat: no-repeat;
+    
 }
 
 #bar {
@@ -88,6 +81,63 @@ main {
   text-shadow: 1px 1px 1px #222;
 }
 #luck-label, #lykkebar {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+
+
+#bar2 {
+  position: absolute;
+  left: 300px;
+  bottom: 15px;
+}
+
+#successbar {
+    overflow: hidden;
+  width: 211px;
+  height: 25px;
+  /* bottom: -50px; */
+  background-color: rgba(0,0,0,0.3);
+  border: solid dimgray 1px;
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+#yellowbar{
+  position: absolute;
+  width: 211px;
+  height: 18px;
+  left: 69.5px;
+  bottom: 4.5px;
+  background: lime;
+  clip-path: url(#prgClip);
+  animation: yellowbarMoves 400s ease-out;
+}
+
+@keyframes yellowbarMoves{
+  0%{
+    width: 0;
+    background: red;
+    box-shadow: 0 0 30px red;
+  }
+  100%{
+    width: 204px;
+    background: lime;
+    box-shadow: 0 0 30px lime;
+  }
+}
+
+#success-label {
+  color: #bbb;
+  font-family: monospace;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 14px;
+  margin-right: 3px;
+  text-shadow: 1px 1px 1px #222;
+}
+#success-label, #successbar {
   display: inline-block;
   vertical-align: middle;
 }
