@@ -32,7 +32,7 @@ Gruppens samhold og kommunikasjon blir bedre og bedre.
 ![](bilder/drawing4.png)
 
 # Skisse Utdanning
-![](bilder/drrawing3.png)
+![](bilder/drawing3.png)
 
 # Struktur
 ![](bilder/drawing2.png)
