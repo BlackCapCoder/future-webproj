@@ -6,12 +6,12 @@ body{
     font-family: Arial, Helvetica, sans-serif;
   }
   
-  #header-nattjobb{
+  #header-dagjobb{
     color: white;
     text-align: justify;
     position: absolute;
-    top: 60px;
-    left: 200px;
+    top: 10%;
+    left: 15%;
     text-decoration-line: none;
     border: 5px; 
     letter-spacing: 3px;
@@ -39,8 +39,8 @@ body{
     position: absolute;
     width: 0px;
     height: 18px;
-    left: 58.5px;
-    bottom: 4.5px;
+    left: 20%;
+    bottom: 15%;
     background: lime;
     clip-path: url(#prgClip);
     animation: redbarMoves 150s ease-out;
@@ -70,8 +70,8 @@ body{
   
   #bar {
     position: absolute;
-    left: 225px;
-    bottom: 500px;
+    left: 10%;
+    bottom: 50%;
   }
   #luck-label {
     color: #bbb;
@@ -91,8 +91,8 @@ body{
   
   #bar2 {
     position: absolute;
-    left: 207px;
-    bottom: 450px;
+    left: 10%;
+    bottom: 45%;
   }
   
   #successbar {
@@ -110,7 +110,7 @@ body{
     position: absolute;
     width: 211px;
     height: 18px;
-    left: 75px;
+    left: 25%;
     bottom: 4.5px;
     background: lime;
     clip-path: url(#prgClip);
@@ -148,8 +148,8 @@ body{
     color: white;
     text-align: justify;
     position: absolute;
-    top: 300px;
-    left: 200px;
+    top: 25%;
+    left: 10%;
     text-decoration-line: none;
     border: 5px; 
     letter-spacing: 3px;
