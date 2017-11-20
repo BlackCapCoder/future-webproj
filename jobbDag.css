@@ -45,12 +45,12 @@ body{
     bottom: 15%;
     background: lime;
     clip-path: url(#prgClip);
-    animation: redbarMoves 75s ease-out;
+    animation: redbarMoves 7.5s ease-out forwards;
   }
   
   @keyframes redbarMoves{
     100%{
-      width: 0;
+      width: 110px;
       background: red;
       box-shadow: 0 0 30px red;
     }
@@ -93,7 +93,7 @@ body{
   
   #bar2 {
     position: absolute;
-    left: 10%;
+    left: 9%;
     bottom: 45%;
   }
   
@@ -116,20 +116,29 @@ body{
     bottom: 4.5px;
     background: lime;
     clip-path: url(#prgClip);
-    animation: yellowbarMoves 50s ease-out;
+    animation: yellowbarMoves 5s ease-out forwards;
   }
   
   @keyframes yellowbarMoves{
     0%{
-      width: 0;
+      width: 0px;
       background: red;
       box-shadow: 0 0 30px red;
     }
     100%{
-      width: 204px;
+      width: 94px;
       background: lime;
       box-shadow: 0 0 30px lime;
     }
+  }
+
+  @keyframes visibility {
+      from{
+          visibility: hidden;
+      }
+      to {
+          visibility: visible;
+      }
   }
   
   #success-label {
@@ -155,4 +164,19 @@ body{
     text-decoration-line: none;
     border: 5px; 
     letter-spacing: 3px;
+  }
+
+  #tekstBtn {
+    color: white;
+    text-align: justify;
+    position: absolute;
+    bottom: 15%;
+    left: 5%;
+    width: 50%;
+    text-decoration-line: none;
+    border: 5px; 
+    letter-spacing: 3px;
+    font-size: 1em;
+    visibility: hidden;
+    animation: visibility 1s 7.5s 1 forwards;
   }
