@@ -173,6 +173,64 @@ h2{
 /*END OF konkurs2*/
 
 /*START OF suksess*/
+#waveCont{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 10%;
+}
+#waveCont > div{
+  background-image: url(bilder/wave-hi.png);
+  background-repeat: repeat-x;
+  background-size: contain;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+#wave1{
+  z-index: 2;
+  opacity: .4;
+  animation: wave 70s linear infinite;
+  -webkit-animation: wave 90s linear infinite;
+}
+div#wave2{
+  opacity: .7;
+  height: 90%;
+  background-position: 3%;
+  animation: wave 50s linear infinite;
+  -webkit-animation: wave 80s linear infinite reverse;
+}
+@keyframes wave{
+  0% {background-position: 0%;}
+  100% {background-position: 100%;}
+}
+
+#pyacht{
+    bottom: 55px;
+    position: absolute;
+}
+
+#person{
+    position: absolute;
+    background-image: url(bilder/person.png);
+    left: 20px;
+    z-index: 2;
+    opacity: 0;
+    transition: 0.3s ease;
+}
+
+pyacht:hover person{
+    left: 30px;
+    opacity: 1;
+}
+
+#yacht{
+    left: 0;
+    z-index: 1;
+}
 /*END OF suksess*/
 
 .menu > ul {
