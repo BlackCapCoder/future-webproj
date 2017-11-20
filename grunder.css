@@ -222,7 +222,7 @@ div#wave2{
     transition: 0.3s ease;
 }
 
-pyacht:hover person{
+#pyacht:hover #person{
     left: 30px;
     opacity: 1;
 }
