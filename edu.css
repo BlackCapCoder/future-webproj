@@ -1,14 +1,17 @@
 #sign {
-  width: 50vh;
+  width: 500px;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
   position: relative;
-  top: 110px;
+  
 }
 
 #sign > img {
+  position; absolute;
+  top: 10vw;
   width: 100%;
+  
 
  
 }

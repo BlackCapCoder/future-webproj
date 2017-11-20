@@ -1,9 +1,10 @@
 body{
-    background-color: rgb(137,196,244);
+    background-color: rgb(34, 167, 240);
     overflow: hidden;
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
   }
   
   #header-dagjobb{
@@ -15,6 +16,7 @@ body{
     text-decoration-line: none;
     border: 5px; 
     letter-spacing: 3px;
+    font-size: 2em;
   }
   
   #lykkebar {
@@ -39,11 +41,11 @@ body{
     position: absolute;
     width: 0px;
     height: 18px;
-    left: 20%;
+    left: 21%;
     bottom: 15%;
     background: lime;
     clip-path: url(#prgClip);
-    animation: redbarMoves 150s ease-out;
+    animation: redbarMoves 75s ease-out;
   }
   
   @keyframes redbarMoves{
@@ -110,11 +112,11 @@ body{
     position: absolute;
     width: 211px;
     height: 18px;
-    left: 25%;
+    left: 26%;
     bottom: 4.5px;
     background: lime;
     clip-path: url(#prgClip);
-    animation: yellowbarMoves 100s ease-out;
+    animation: yellowbarMoves 50s ease-out;
   }
   
   @keyframes yellowbarMoves{
@@ -149,7 +151,7 @@ body{
     text-align: justify;
     position: absolute;
     top: 25%;
-    left: 10%;
+    left: 5%;
     text-decoration-line: none;
     border: 5px; 
     letter-spacing: 3px;
