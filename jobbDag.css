@@ -72,7 +72,7 @@ body{
   
   #bar {
     position: absolute;
-    left: 10%;
+    left: 5%;
     bottom: 50%;
   }
   #luck-label {
@@ -93,8 +93,8 @@ body{
   
   #bar2 {
     position: absolute;
-    left: 9%;
-    bottom: 45%;
+    left: 25%;
+    bottom: 50%;
   }
   
   #successbar {
