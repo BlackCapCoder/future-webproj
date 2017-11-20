@@ -152,18 +152,15 @@ main {
     color: rgb(180,180,180);
     text-align: center;
     animation: workinfoFadein 3s ease-in;
-    pointer-events: all;
 }
 
 @keyframes workinfoFadein{
     0%{
-      pointer-events: none;
-      color: rgb(60,60,60);
+        color: rgb(60,60,60);
     }
     100%{
-      pointer-events: none;
-      color: rgb(180,180,180);
-      text-shadow: 1px 1px 1px #222;
+        color: rgb(180,180,180);
+        text-shadow: 1px 1px 1px #222;
     }
 }
 
@@ -192,7 +189,6 @@ main {
   border-radius: 3px;
   font-family: monospace;
   animation: menuFadein 10s ease-in;
-  pointer-events: all;
 }
 
 .menu ul li {
@@ -205,21 +201,17 @@ main {
   padding: 17px 24px;
   transform: translateY(1.5px);
   margin: 4.5px;
-  animation: menuFadein 10s ease-in;
-  pointer-events: all;
+    animation: menuFadein 10s ease-in;
 }
 
 @keyframes menuFadein{
     0%{
         color: rgb(60,60,60);
-      pointer-events: none;
     }
     80%{
        color: rgb(60,60,60);
-      pointer-events: none;
     }
     100%{
         display: block;
-      pointer-events: none;
     }
 }
