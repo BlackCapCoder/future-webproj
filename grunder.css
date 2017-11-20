@@ -3,6 +3,9 @@ body {
 }
 
 /*START OF grunder1*/
+#bodyIDG1{
+  background-color: rgb(60,60,60);
+}
 #g1button1 {
   list-style: none;
   background-color: lightskyblue;
