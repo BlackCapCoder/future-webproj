@@ -8,7 +8,7 @@
 
 - Fra Wikipedia
 
-Gruppen har bestemt å fordele arbeidsoppgavene i små grupper i to og to. Vi gjør dette med å et felles mål, men veien ditt bestemmes med stor frihet av undergruppene. Til slutt går vi sammen og legger all kode til en fil.
+<s>Gruppen har bestemt å fordele arbeidsoppgavene i små grupper i to og to. Vi gjør dette med å et felles mål, men veien ditt bestemmes med stor frihet av undergruppene. Til slutt går vi sammen og legger all kode til en fil.</s>
 
 ### Arbeidsplan
 Møtes på skolen kl 12 hverdag og jobbe til kl 14-16. <s>Her møtes vi og finner en plass hvor vi kan kode. Underveis vil vi dele, diskutere og hjelpe hverandre med kodene.</s>
