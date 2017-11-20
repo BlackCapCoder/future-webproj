@@ -1,9 +1,10 @@
 #sign {
   width: 50vh;
   position: absolute;
-  left: 50%;
+  left: 47%;
   transform: translateX(-50%);
   position: relative;
+  top: 210px;
 }
 
 #sign > img {
