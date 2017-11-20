@@ -154,6 +154,15 @@ main {
     animation: workinfoFadein 3s ease-in;
 }
 
+#workinfo2{
+    position: absolute;
+    left: 370px;
+    top: 350px;
+    color: rgb(180,180,180);
+    text-align: center;
+    animation: workinfoFadein2 8s ease-in;
+}
+
 @keyframes workinfoFadein{
     0%{
         color: rgb(60,60,60);
@@ -163,6 +172,20 @@ main {
         text-shadow: 1px 1px 1px #222;
     }
 }
+
+@keyframes workinfoFadein2{
+    0%{
+        color: rgb(60,60,60);
+    }
+    80%{
+        color: rgb(60,60,60);
+    }
+    100%{
+        color: rgb(180,180,180);
+        text-shadow: 1px 1px 1px #222;
+    }
+}
+
 
 /* Buttons */
 
