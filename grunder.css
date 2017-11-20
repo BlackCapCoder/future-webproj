@@ -191,3 +191,9 @@ h2{
   opacity: 1;
   transform: translateX(-70px) rotate(-10deg) scale(1.1);
 }
+.menu ul {
+  width: 0;
+}
+.menu ul li {
+  margin-left: 25vw;
+}
