@@ -86,6 +86,9 @@ body {
 /*END OF grunder1*/
 
 /*START OF konkurs1*/
+#k1wrapper{
+    background-color: #0af;
+}
 #k1button {
     background-color: lightskyblue;
     color: white;
