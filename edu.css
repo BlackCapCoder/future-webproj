@@ -9,7 +9,9 @@
 
 #sign > img {
   position; absolute;
+  top: 10vw;
   width: 100%;
+  
 
  
 }
