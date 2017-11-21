@@ -28,12 +28,12 @@ body {
 #text {
   position: absolute;
   color: white;
-  font-family: monospace;
+  font-family: "Arial black";
   text-transform: uppercase;
   font-size: 3vw;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-  text-shadow: 0 0 10px black;
+  text-shadow: 0 0 10px rgba(0,0,0,0.6);
   pointer-events: none;
 }
