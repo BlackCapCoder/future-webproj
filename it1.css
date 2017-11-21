@@ -19,6 +19,13 @@ body {
   height: 100vh;
   overflow: hidden;
 }
+.mid {
+  position: absolute;
+  width: 100vw;
+  left: 0;
+  top: 50%;
+  transform: translate-Y(-50%);
+}
 
 h1 {
   text-transform: uppercase;
