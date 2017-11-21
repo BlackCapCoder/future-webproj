@@ -276,3 +276,7 @@ div#wave2{
 .menu > ul {
   display: inline-table !important; 
 }
+
+#milk {
+  filter: invert(1);
+}
