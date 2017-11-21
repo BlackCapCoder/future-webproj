@@ -215,7 +215,7 @@ div#wave2{
 .menu > ul {
   flex-direction: column !important;
 }
-.menu ul li a { width: 300px; }
+.menu ul li a { width: 350px; }
 
 .thumb {
   height: 60px;
