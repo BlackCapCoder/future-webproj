@@ -230,6 +230,7 @@ div#wave2{
 #person{
   position: absolute;
   background-image: url(bilder/champagne-toast-animated-gif-2.gif);
+  background-size: cover;
   left: 20px;
   z-index: 5;
   opacity: 0;
