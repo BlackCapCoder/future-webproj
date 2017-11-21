@@ -262,3 +262,7 @@ div#wave2{
   display: inline-block;
   text-align: center;
 }
+
+.menu > ul {
+  display: inline-table !important; 
+}
