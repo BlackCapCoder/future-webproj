@@ -216,6 +216,17 @@ div#wave2{
   50%{bottom: 65px;}
   100%{bottom: 55px;}
 }
+
+#sbackground{
+    position: absolute;
+    z-index: -5;
+    height: 100%;
+    width: 100%;
+    background: yellow; /* For browsers that do not support gradients */
+    background: radial-gradient(yellow 3%, white 17%, lightskyblue 60%); /* Standard syntax */
+    background-repeat: no-repeat;
+}
+
 /*END OF suksess*/
 
 .menu > ul {
