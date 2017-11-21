@@ -12,6 +12,9 @@
 h1, h2 {
   font-weight: lighter;
 }
+p {
+  font-size: 17px;
+}
 
 /*
 *:hover:after{content:'fuck';color:red;font-family:"Arial Black";font-size:20px;-webkit-animation: lorem 1s linear infinite;}
