@@ -93,7 +93,7 @@ body {
 #k1button {
     background-color: lightskyblue;
     color: white;
-    padding: 18px 28px;
+    padding: 28px 38px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -109,16 +109,16 @@ body {
 #k1button:hover{
   box-shadow: 0 0 12px lightskyblue;
   font-size: 18px;
-  padding: 20px 30px;
+  padding: 30px 40px;
   transform: translateY(1.5px);
   margin: 4.5px;
 }
 
 #k1text{
     position: absolute;
-    left: 3%;
+    left: 20%;
     color: white;
-    font-size: 34px;
+    font-size: 44px;
     font-family: monospace;
 }
 
