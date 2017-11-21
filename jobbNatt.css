@@ -1,6 +1,7 @@
 body{
   background-color: rgb(60,60,60);
   overflow: hidden;
+  margin: 0;
 }
 
 #header-nattjobb{
@@ -64,9 +65,8 @@ main {
   height: 100vh;
   background: url('bilder/taxiNatt.png');
   background-size: auto 100%;
-  background-position: 150px;
   background-repeat: no-repeat;
-    
+  background-position-x: 100%;
 }
 
 #bar {
@@ -237,4 +237,40 @@ main {
     100%{
         display: block;
     }
+}
+
+#headlights {
+  position: absolute;
+  top: 47.5%; right: 4vh;
+  width: 72vh;
+  height: 9vh;
+  transform: rotate(3deg);
+}
+#headlights > #left, #headlights > #right {
+  background: red;
+  width: 10%;
+  height: 100%;
+  position: absolute;
+  border-radius: 1000px;
+  box-shadow: 0 0 50px tomato;
+  animation: headlights 2s ease infinite;
+}
+#headlights > #left {
+  left: 0;
+}
+#headlights > #right {
+  right: 0;
+}
+@keyframes headlights {
+  0%{
+    filter: blur(3.3vh);
+  }
+  50%{
+    filter: blur(3.5vh);
+    width: 13%;
+    height: 110%;
+  }
+  100%{
+    filter: blur(3.3vh);
+  }
 }
