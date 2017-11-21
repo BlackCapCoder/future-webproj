@@ -61,5 +61,11 @@
   width: 17%;
   top: 40%;
   left: 75%;
+  transition:0,3 ease;
 }
-  
+#bobross: hover{
+  width: 25%
+}
+#computer: hover{
+  width:40%;
+}
