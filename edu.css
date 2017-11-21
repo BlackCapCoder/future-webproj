@@ -67,5 +67,6 @@
   width: 25%
 }
 #computer:hover{
+  position: fixed;
   width:40%;
 }
