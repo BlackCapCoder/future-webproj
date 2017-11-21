@@ -273,8 +273,11 @@ div#wave2{
 }
 .menu ul li a {
   width: 350px;
-  background: deepskyblue !important;
+  background: rgba(0,64,255,0.6) !important;
   margin-bottom: 12px !important;
+}
+.menu ul li a:hover {
+  box-shadow: 0 0 15px rgba(0,0,255,0.6);
 }
 
 .thumb {
