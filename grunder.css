@@ -233,6 +233,12 @@ div#wave2{
 #yacht{
     left: 0;
     z-index: 1;
+    animation: updown 10s linear infinite;
+}
+
+@keyframes updown {
+    0%{bottom: 55px;}
+    100%{bottom: 65px;}
 }
 /*END OF suksess*/
 
