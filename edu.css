@@ -32,7 +32,7 @@
   transform: translate(-50%, -50%) matrix(1,0.15,0,1,0,0);
   top: 12.1vw;
   left: 50%;
-  width: 71%;
+  width: 20%;
   height: 12vh;
 }
 
@@ -40,7 +40,7 @@
   transform: translate(-50%, -50%) matrix(1,-0.10,0,1,0,0);
   top: 19.2vw;
   left: 50%;
-  width: 75%;
+  width: 19%;
   height: 12.5vh;
 }
 #tworoads {
