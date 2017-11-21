@@ -18,7 +18,6 @@ body {
 #g1button2 {
   position: absolute;
   left: 20%;
-  bottom: 3%;
   top: calc(96vh - 85px);
   opacity: 0;
   transition: 0.3s ease;
