@@ -246,6 +246,7 @@ div#wave2{
 #yacht{
   left: 0;
   z-index: 1;
+  border-radius: 0 0 0 16%;
 }
 
 @keyframes updown {
