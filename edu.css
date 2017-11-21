@@ -50,5 +50,8 @@
 #computer {
   position: absolute;
   z-index: 5;
-  
+  width: 15;
+  top:40%;
+  left:20%;
+
 }
