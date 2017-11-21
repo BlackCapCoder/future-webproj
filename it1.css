@@ -24,7 +24,7 @@ body {
   width: 100vw;
   left: 0;
   top: 50%;
-  transform: translate-Y(-50%);
+  transform: translateY(-50%);
 }
 
 h1 {
