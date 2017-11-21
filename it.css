@@ -44,3 +44,7 @@ h2 {
 .menu > ul {
   padding-left: 0;
 }
+
+.two {
+  filter: hue-rotate(240deg);
+}
