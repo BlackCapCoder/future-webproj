@@ -206,8 +206,7 @@ h2{
 #wave1{
   z-index: 2;
   opacity: .4;
-  animation: wave 70s linear infinite;
-  -webkit-animation: wave 90s linear infinite;
+  animation: wave 70s linear infinite reverse;
 }
 div#wave2{
   opacity: .7;
@@ -231,7 +230,7 @@ div#wave2{
   position: absolute;
   background-image: url(bilder/champagne-toast-animated-gif-2.gif);
   background-size: cover;
-  left: 20px;
+  left: 50px;
   z-index: 5;
   opacity: 0;
   transition: 0.3s ease;
@@ -240,7 +239,7 @@ div#wave2{
 }
 
 #imgbox:hover #person{
-  left: 30px;
+  left: 60px;
   opacity: 1;
 }
 
