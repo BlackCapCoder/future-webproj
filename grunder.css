@@ -114,7 +114,28 @@ body {
 /*END OF grunder2*/
 
 /*START OF konkurs2*/
-h2{
+#k2background{
+    background-image: url(bilder/domstol.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -5;
+}
+
+#k2wrapper{
+    left: 35%;
+    top: 30%;
+    width: 500px;
+    height: 250px;
+    border: 1px solid black;
+    background-color: white;
+    position: fixed;
+    opacity: 0.8;
+}
+
+#h2{
   text-align: center;
   font-family: monospace;
   font-size: 30px;
@@ -126,7 +147,7 @@ h2{
   opacity: 0;
   /* left: 50%; */
   transition: opacity 0.5s;
-  color: white;
+  color: black;
   position: absolute;
   text-align: center;
   left: 50%;
@@ -136,14 +157,6 @@ h2{
 
 #k2button2:hover #k2text2 {
   opacity: 1.0;
-}
-
-#k2img{
-  opacity: 0.8;
-  z-index: -1;
-  max-width: 100%;
-  height: auto;
-  position: fixed;
 }
 /*END OF konkurs2*/
 
