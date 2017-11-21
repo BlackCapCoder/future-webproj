@@ -64,9 +64,10 @@
   transition:0,3 ease;
 }
 #bobross:hover{
+  position: absolute;
   width: 25%
 }
 #computer:hover{
-  position: fixed;
-  width:40%;
+  position: relative;
+  width:30%;
 }
