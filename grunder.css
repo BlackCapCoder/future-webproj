@@ -17,7 +17,8 @@ body {
 
 #g1button2 {
   position: absolute;
-  right: 5px;
+  left: 20%;
+  bottom: 3%;
   top: calc(96vh - 85px);
   opacity: 0;
   transition: 0.3s ease;
@@ -114,7 +115,28 @@ body {
 /*END OF grunder2*/
 
 /*START OF konkurs2*/
-h2{
+#k2background{
+    background-image: url(bilder/domstol.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -5;
+}
+
+#k2wrapper{
+    left: 35%;
+    top: 30%;
+    width: 500px;
+    height: 250px;
+    border: 1px solid black;
+    background-color: white;
+    position: fixed;
+    opacity: 0.8;
+}
+
+#h2{
   text-align: center;
   font-family: monospace;
   font-size: 30px;
@@ -124,9 +146,8 @@ h2{
 }
 #k2text2 {
   opacity: 0;
-  /* left: 50%; */
   transition: opacity 0.5s;
-  color: white;
+  color: black;
   position: absolute;
   text-align: center;
   left: 50%;
@@ -136,14 +157,6 @@ h2{
 
 #k2button2:hover #k2text2 {
   opacity: 1.0;
-}
-
-#k2img{
-  opacity: 0.8;
-  z-index: -1;
-  max-width: 100%;
-  height: auto;
-  position: fixed;
 }
 /*END OF konkurs2*/
 
@@ -226,8 +239,6 @@ div#wave2{
   background-repeat: no-repeat;
   background-size: 100vh 100vh;
   background-color: lightskyblue;
-  /* For browsers that do not support gradients */
-  /* background: yellow;  */
   animation: sunset 30s ease infinite reverse;
 }
 
