@@ -182,7 +182,7 @@ div#wave2{
 }
 
 #imgbox{
-  left: 50px;
+  left: 13vw;
   bottom: 55px;
   position: absolute;
   animation: updown 2s linear infinite;
@@ -245,4 +245,12 @@ div#wave2{
 
 #milk {
   filter: invert(1);
+}
+
+.text {
+  width: 70%;
+  text-align: center;
+  position: absolute;
+  left: 15%;
+  top: 15%;
 }
