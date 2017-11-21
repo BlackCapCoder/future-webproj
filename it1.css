@@ -19,7 +19,7 @@ body {
   height: 100vh;
   overflow: hidden;
 }
-.mid {
+#mid {
   position: absolute;
   width: 100vw;
   left: 0;
