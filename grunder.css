@@ -2,10 +2,11 @@ body {
   margin: auto;
 }
 
-#bodyIdG{
+#bodyIdG1{
+  background-color: rgb(65,65,65);
+}
+#bodyIdG2{
   background-color: rgb(15,15,50);
-/*START OF grunder1*/
-
 }
 #g1button1 {
   position: absolute;
