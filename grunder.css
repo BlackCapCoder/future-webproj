@@ -223,6 +223,7 @@ div#wave2{
 #imgbox{
     bottom: 55px;
     position: absolute;
+    animation: updown 10s linear infinite;
 }
 
 #person{
@@ -242,7 +243,6 @@ div#wave2{
 #yacht{
     left: 0;
     z-index: 1;
-    animation: updown 10s linear infinite;
 }
 
 @keyframes updown {
