@@ -100,8 +100,8 @@ body {
     margin: 10px;
     transition: 0.3s ease;
     border-radius: 3px;
-    left: 30%;
-    top: 50vh;
+    left: 50%;
+    top: 10vh;
     font-family: monospace;
 }
 
