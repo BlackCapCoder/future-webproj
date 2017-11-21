@@ -214,14 +214,13 @@ div#wave2{
   height: 90%;
   background-position: 3%;
   animation: wave 50s linear infinite;
-  -webkit-animation: wave 80s linear infinite reverse;
 }
 @keyframes wave{
   0% {background-position: 0%;}
   100% {background-position: 100%;}
 }
 
-#pyacht{
+#imgbox{
     bottom: 55px;
     position: absolute;
 }
