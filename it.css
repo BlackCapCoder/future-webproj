@@ -50,3 +50,11 @@ h2 {
 .two {
   filter: hue-rotate(240deg);
 }
+
+.bore {
+  padding: 6px 0;
+  /* background: rgba(0,0,0,0.01); */
+  /* text-shadow: 0 0 0 black; */
+  /* color: rgba(32,128,255,0.7); */
+  /* opacity: 0.8; */
+}
