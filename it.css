@@ -39,6 +39,8 @@ h2 {
   font-size: 16px;
   margin: 0;
   margin-bottom: 20px;
+  font-style: italic;
+  color: dimgray;
 }
 
 .menu > ul {
