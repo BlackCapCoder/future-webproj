@@ -218,13 +218,17 @@ div#wave2{
 }
 
 #sbackground{
-    position: absolute;
-    z-index: -5;
-    height: 100%;
-    width: 100%;
-    background: yellow; /* For browsers that do not support gradients */
-    background: radial-gradient(yellow 3%, white 17%, lightskyblue 60%); /* Standard syntax */
-    background-repeat: no-repeat;
+  position: absolute;
+  z-index: -5;
+  height: 100%;
+  width: 100%;
+  background: radial-gradient(yellow 7%, white 24%, lightskyblue 52%); /* Standard syntax */
+  background-repeat: no-repeat;
+  background-size: 100vh 100vh;
+  background-position: center;
+  background-color: lightskyblue;
+  /* For browsers that do not support gradients */
+  /* background: yellow;  */
 }
 
 /*END OF suksess*/
