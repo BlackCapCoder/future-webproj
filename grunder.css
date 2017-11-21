@@ -11,14 +11,14 @@ body {
 #g1button1 {
   position: absolute;
   transition: 0.3s ease;
-  left: 3%;
-  top: 35vh;
+  left: 20%;
+  top: 33vh;
 }
 
 #g1button2 {
   position: absolute;
-  left: 3%;
-  top: calc(100vh - 105px);
+  right: 5px;
+  top: calc(96vh - 85px);
   opacity: 0;
   transition: 0.3s ease;
   font-family: monospace;
@@ -28,10 +28,14 @@ body {
   position: absolute;
   top: 0;
   left: 0; right: 0;
-  height: 44vh;
+  height: 47vh;
   transition: height 0.5s;
   background: url(bilder/EntrepreneurshipJourney.jpg) no-repeat;
   background-size: auto 100vh;
+  clip-path: polygon( 0% 0%, 100% 0%, 100% 89%, 97.6% 87%, 92.6% 87%, 87% 96%, 83% 90%, 75.2% 93%
+                    , 69% 87%, 60.5% 94%, 52.5% 90%, 46.5% 96%, 39.8% 90%, 30% 99%, 23.3% 90%
+                    , 17% 94%, 4.9% 87%, 0% 93%);
+  margin-top: 3vh;
 }
 
 #g1text{
@@ -44,7 +48,8 @@ body {
   font-family: monospace;
 }
 #g1textbox:hover{
-  height: 100vh;
+  height: 94vh;
+  clip-path: none;
 }
 
 #g1textbox:hover #g1button2 {
