@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+  overflow-y: hidden;
+}
 #sign2 {
   width: 120px;
   position: absolute;
@@ -7,7 +11,7 @@
 }
 
 #sign > img {
-  position; absolute;
+  position: absolute;
   top: 5vw;
   width: 28%;
 }
@@ -22,7 +26,7 @@
   position: absolute;
   transform: translate(-50%, -50%);
   left: 50%;
-  top: 50%;
+  top: 45%;
   transition: 0.2s ease;
 }
 .box .dir:hover {
@@ -48,7 +52,7 @@
   height: 12.5vh;
 }
 #tworoads {
-  position: absolute;
+  /* position: absolute; */
   left: 0; top: 0;
   width: 100%;
 }
@@ -73,4 +77,15 @@
 }
 #computer:hover{
   width:20%;
+}
+
+#blur {
+  background: url("bilder/TwoRoads2.jpg");
+  width: 100vw;
+  height: 200vw;
+  background-position: 50% 100%;
+  background-size: 100vw 100vw;
+  transform: translateY(-4px) scaleY(-1);
+  background-repeat: no-repeat;
+  /* filter: blur(5px); */
 }
