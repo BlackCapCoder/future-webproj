@@ -230,12 +230,14 @@ div#wave2{
     position: absolute;
     background-image: url(bilder/person.png);
     left: 20px;
-    z-index: 2;
+    z-index: 5;
     opacity: 0;
     transition: 0.3s ease;
+    width: 200px; height: 200px;
+    top: 0;
 }
 
-#pyacht:hover #person{
+#imgbox:hover #person{
     left: 30px;
     opacity: 1;
 }
