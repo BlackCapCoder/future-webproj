@@ -138,14 +138,14 @@ body {
     padding: 20px;
     font-family: monospace;
     font-size: 44pX;
-    color: black;
+    color: white;
     text-align: center;
 }
 .info{
     font-family: monospace;
     font-size: 20px;
     text-align: center;
-    color: black;
+    color: white;
     margin: 1rem;
 }
 
