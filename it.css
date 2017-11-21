@@ -19,6 +19,20 @@ body {
   height: 100vh;
   overflow: hidden;
 }
+body.two { filter: none; }
+body:before {
+  content: '';
+  z-index: -1;
+  background: url(bilder/binary.jpg);
+  position: absolute;
+  left: 0; right: 0; top: 0; bottom: 0;
+  opacity: 0.08;
+  filter: invert(1) brightness(1.3) grayscale(0.4) hue-rotate(240deg) blur(0px);
+}
+body.two:before {
+  /* opacity: 0.2; */
+  filter: invert(1) brightness(1.3) grayscale(0.4) hue-rotate(160deg) blur(0px);
+}
 #mid {
   position: absolute;
   width: 100vw;

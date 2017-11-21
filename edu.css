@@ -23,6 +23,10 @@
   transform: translate(-50%, -50%);
   left: 50%;
   top: 50%;
+  transition: 0.2s ease;
+}
+.box .dir:hover {
+  font-size: 6.5vh !important;
 }
 
 .box {
