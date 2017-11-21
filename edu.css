@@ -69,7 +69,6 @@
 }
 #computer:hover{
   position: relative;
-  width:30%;
-  top:20%;
-  left:0%;
+  width:max20%;
+
 }
