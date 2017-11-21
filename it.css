@@ -42,9 +42,6 @@ h2 {
   font-style: italic;
   color: dimgray;
 }
-h1, h2 {
-  font-weight: lighter;
-}
 
 .menu > ul {
   padding-left: 0;
