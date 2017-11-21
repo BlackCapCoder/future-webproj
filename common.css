@@ -16,5 +16,5 @@ p {
   font-size: 17px;
 }
 
-*:hover:after,*:hover:before,*:hover *:after{content:'fuck';color:red;font-family:"Arial Black";font-size:20px;-webkit-animation:lorem 1s linear infinite;}
-@keyframes lorem{0%{transform:rotate(0deg);}100%{transform:rotate(360deg);}}*:hover:before{color:hotpink;}
+/**:hover:after,*:hover:before,*:hover *:after{content:'fuck';color:red;font-family:"Arial Black";font-size:20px;-webkit-animation:lorem 1s linear infinite;}
+@keyframes lorem{0%{transform:rotate(0deg);}100%{transform:rotate(360deg);}}*:hover:before{color:hotpink;}*/
