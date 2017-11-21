@@ -70,11 +70,11 @@ body {
   font-family: monospace;
 }
 #g1textbox:hover{
-    height: 100vh;
+  height: 100vh;
 }
 
 #g1textbox:hover #g1button2 {
-    opacity: 1.0;
+  opacity: 1.0;
 }
 
 #g1wrapper {
@@ -91,19 +91,19 @@ body {
 
 /*START OF konkurs1*/
 #k1button {
-    background-color: lightskyblue;
-    color: white;
-    padding: 28px 38px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    position: relative;
-    margin: 10px;
-    transition: 0.3s ease;
-    border-radius: 3px;
-    left: 50%;
-    top: 18vh;
-    font-family: monospace;
+  background-color: lightskyblue;
+  color: white;
+  padding: 28px 38px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  position: relative;
+  margin: 10px;
+  transition: 0.3s ease;
+  border-radius: 3px;
+  left: 50%;
+  top: 18vh;
+  font-family: monospace;
 }
 
 #k1button:hover{
@@ -115,19 +115,19 @@ body {
 }
 
 #k1text{
-    position: absolute;
-    left: 20%;
-    color: white;
-    font-size: 44px;
-    font-family: monospace;
+  position: absolute;
+  left: 20%;
+  color: white;
+  font-size: 44px;
+  font-family: monospace;
 }
 
 #k1img{
-    opacity: 0.7;
-    z-index: -1;
-    max-width: 100%;
-    height: auto;
-    position: fixed;
+  opacity: 0.7;
+  z-index: -1;
+  max-width: 100%;
+  height: auto;
+  position: fixed;
 }
 
 /*END OF konkurs1*/
@@ -135,18 +135,18 @@ body {
 /*START OF grunder2*/
 
 .overskrift1{
-    padding: 20px;
-    font-family: monospace;
-    font-size: 44pX;
-    color: white;
-    text-align: center;
+  padding: 20px;
+  font-family: monospace;
+  font-size: 44pX;
+  color: white;
+  text-align: center;
 }
 .info{
-    font-family: monospace;
-    font-size: 20px;
-    text-align: center;
-    color: white;
-    margin: 1rem;
+  font-family: monospace;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  margin: 1rem;
 }
 
 /*END OF grunder2*/
@@ -177,11 +177,11 @@ h2{
 }
 
 #k2img{
-    opacity: 0.8;
-    z-index: -1;
-    max-width: 100%;
-    height: auto;
-    position: fixed;
+  opacity: 0.8;
+  z-index: -1;
+  max-width: 100%;
+  height: auto;
+  position: fixed;
 }
 /*END OF konkurs2*/
 
@@ -221,36 +221,37 @@ div#wave2{
 }
 
 #imgbox{
-    bottom: 55px;
-    position: absolute;
-    animation: updown 2s linear infinite;
+  left: 50px;
+  bottom: 55px;
+  position: absolute;
+  animation: updown 2s linear infinite;
 }
 
 #person{
-    position: absolute;
-    background-image: url(bilder/person.png);
-    left: 20px;
-    z-index: 5;
-    opacity: 0;
-    transition: 0.3s ease;
-    width: 200px; height: 200px;
-    top: 0;
+  position: absolute;
+  background-image: url(bilder/person.png);
+  left: 20px;
+  z-index: 5;
+  opacity: 0;
+  transition: 0.3s ease;
+  width: 200px; height: 200px;
+  top: 0;
 }
 
 #imgbox:hover #person{
-    left: 30px;
-    opacity: 1;
+  left: 30px;
+  opacity: 1;
 }
 
 #yacht{
-    left: 0;
-    z-index: 1;
+  left: 0;
+  z-index: 1;
 }
 
 @keyframes updown {
-    0%{bottom: 55px;}
-    50%{bottom: 65px;}
-    100%{bottom: 55px;}
+  0%{bottom: 55px;}
+  50%{bottom: 65px;}
+  100%{bottom: 55px;}
 }
 /*END OF suksess*/
 
