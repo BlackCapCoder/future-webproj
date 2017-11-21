@@ -16,11 +16,9 @@ p {
   font-size: 17px;
 }
 
-/*
+
 *:hover:after{content:'fuck';color:red;font-family:"Arial Black";font-size:20px;-webkit-animation: lorem 1s linear infinite;}
 @keyframes lorem {
   0%   {transform:rotate(0deg);}
-  0%   {transform:rotate(180deg);}
   100% {transform:rotate(360deg);}
 }
-*/
