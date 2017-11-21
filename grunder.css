@@ -223,7 +223,7 @@ div#wave2{
 #imgbox{
     bottom: 55px;
     position: absolute;
-    animation: updown 10s linear infinite;
+    animation: updown 2s linear infinite;
 }
 
 #person{
@@ -247,7 +247,8 @@ div#wave2{
 
 @keyframes updown {
     0%{bottom: 55px;}
-    100%{bottom: 65px;}
+    50%{bottom: 65px;}
+    100%{bottom: 55px;}
 }
 /*END OF suksess*/
 
