@@ -8,46 +8,19 @@ body {
 
 }
 #g1button1 {
-  list-style: none;
-  background-color: lightskyblue;
-  color: white;
-  padding: 14px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
   position: absolute;
-  margin: 10px;
   transition: 0.3s ease;
-  border-radius: 3px;
   left: 3%;
   top: 35vh;
-  font-family: monospace;
 }
 
 #g1button2 {
-  list-style: none;
-  background-color: lightskyblue;
-  color: white;
-  padding: 14px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
   position: absolute;
   left: 3%;
   top: calc(100vh - 105px);
-  margin: 10px;
-  border-radius: 3px;
   opacity: 0;
   transition: 0.3s ease;
   font-family: monospace;
-}
-
-#g1button1:hover, #g1button2:hover {
-  box-shadow: 0 0 12px lightskyblue;
-  font-size: 18px;
-  padding: 17px 24px;
-  transform: translateY(1.5px);
-  margin: 4.5px;
 }
 
 #g1textbox{
@@ -91,27 +64,10 @@ body {
 
 /*START OF konkurs1*/
 #k1button {
-  background-color: lightskyblue;
-  color: white;
   padding: 28px 38px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
   position: relative;
-  margin: 10px;
-  transition: 0.3s ease;
-  border-radius: 3px;
   left: 50%;
   top: 18vh;
-  font-family: monospace;
-}
-
-#k1button:hover{
-  box-shadow: 0 0 12px lightskyblue;
-  font-size: 18px;
-  padding: 30px 40px;
-  transform: translateY(1.5px);
-  margin: 4.5px;
 }
 
 #k1text{

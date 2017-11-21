@@ -6,7 +6,7 @@
   justify-content: center;
   flex-direction: row;
 }
-.menu ul li a {
+.menu ul li a, .fancybtn {
   list-style: none;
   text-decoration: none;
   color: white;
@@ -25,7 +25,7 @@
   display: block;
 }
 
-.menu a:hover {
+.menu a:hover, .fancybtn:hover {
   box-shadow: 0 0 12px lightskyblue;
   font-size: 18px;
   padding: 17px 24px;
