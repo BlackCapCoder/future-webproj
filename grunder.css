@@ -34,7 +34,7 @@ body {
   display: inline-block;
   position: absolute;
   left: 3%;
-  top: calc(100vh - 60px);
+  top: calc(100vh - 105px);
   margin: 10px;
   border-radius: 3px;
   opacity: 0;
