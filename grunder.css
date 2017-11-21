@@ -97,18 +97,23 @@ body {
 /*START OF grunder2*/
 
 .overskrift1{
-  padding: 20px;
-  font-family: monospace;
-  font-size: 44pX;
+  padding-top: 110px;
+  margin-bottom: 25px;
+  font-size: 46px;
   color: white;
   text-align: center;
+  text-transform: uppercase;
+  font-family: arial;
+  text-shadow: 0 0 40px rgba(255,255,255,0.2);
 }
 .info{
   font-family: monospace;
-  font-size: 20px;
+  font-size: 18px;
+  font-style: italic;
   text-align: center;
   color: white;
-  margin: 1rem;
+  opacity: 0.7;
+  padding-bottom: 15px;
 }
 
 /*END OF grunder2*/
@@ -266,7 +271,11 @@ div#wave2{
 .menu > ul {
   flex-direction: column !important;
 }
-.menu ul li a { width: 350px; }
+.menu ul li a {
+  width: 350px;
+  background: deepskyblue !important;
+  margin-bottom: 12px !important;
+}
 
 .thumb {
   height: 60px;
