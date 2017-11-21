@@ -17,7 +17,8 @@ body {
 
 #g1button2 {
   position: absolute;
-  right: 5px;
+  left: 20%;
+  bottom: 3%;
   top: calc(96vh - 85px);
   opacity: 0;
   transition: 0.3s ease;
@@ -145,7 +146,6 @@ body {
 }
 #k2text2 {
   opacity: 0;
-  /* left: 50%; */
   transition: opacity 0.5s;
   color: black;
   position: absolute;
@@ -235,13 +235,11 @@ div#wave2{
   z-index: -5;
   height: 100%;
   width: 100%;
-  background: radial-gradient(yellow 7%, white 24%, lightskyblue 52%); /* Standard syntax */
+  background: radial-gradient(yellow 7%, white 24%, lightskyblue 52%);
   background-repeat: no-repeat;
   background-size: 100vh 100vh;
   background-position: center;
   background-color: lightskyblue;
-  /* For browsers that do not support gradients */
-  /* background: yellow;  */
 }
 
 /*END OF suksess*/
