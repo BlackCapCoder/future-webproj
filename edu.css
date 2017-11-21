@@ -51,10 +51,9 @@
 #computer {
   position: absolute;
   z-index: 5;
-  width: 17%;
+  width: 20%;
   top:45%;
   left:10%;
-  transition: width 3s ease;
 }
 #bobross {
   position: absolute;
@@ -62,11 +61,15 @@
   width: 17%;
   top: 26%;
   left: 75%;
-  transition: width 3s ease;
+  transition:0,3 ease;
 }
 #bobross:hover{
-  width: 20%;
+  position: absolute;
+  width: 25%
 }
 #computer:hover{
-  width: 20%;
+  position: relative;
+  width:30%;
+  top:20%;
+  left:0%;
 }
