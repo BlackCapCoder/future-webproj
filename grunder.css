@@ -222,14 +222,34 @@ div#wave2{
   z-index: -5;
   height: 100%;
   width: 100%;
-  background: radial-gradient(yellow 7%, white 24%, lightskyblue 52%); /* Standard syntax */
+  background: radial-gradient(yellow 7%, white 24%, lightskyblue 52%);
   background-repeat: no-repeat;
   background-size: 100vh 100vh;
-  background-position: center;
   background-color: lightskyblue;
   /* For browsers that do not support gradients */
   /* background: yellow;  */
+  animation: sunset 30s ease infinite reverse;
 }
+
+@keyframes sunset{
+  0% {
+    filter: none;
+    background-size: 100vh 100vh;
+    background-position: 50% 50%;
+  }
+  50% {
+    filter: saturate(0.6) sepia(1);
+    background-size: 200vh 200vh;
+    background-position: 13% 0%;
+  }
+  100% {
+    filter: none;
+    background-size: 100vh 100vh;
+    background-position: 50% 50%;
+  }
+}
+
+
 
 /*END OF suksess*/
 
