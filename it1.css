@@ -5,12 +5,19 @@
   background-image: url(bilder/code.jpg);
   background-size: cover;
   max-height: 30vh;
+  box-shadow: 0 0 12px black;
 }
 #dummy {
   visibility: hidden;
 }
 #header.bot {
-  background-position-y: 100%; 
+  background-position-y: 100%;
+  position: absolute;
+  bottom: 0;
+}
+body {
+  height: 100vh;
+  overflow: hidden;
 }
 
 h1 {
