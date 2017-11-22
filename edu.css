@@ -68,12 +68,16 @@ body {
   position: absolute;
   z-index: 5;
   width: 17%;
-  top: 26%;
+  top: 29%;
   left: 75%;
   transition: width 3s ease;
 }
 #bobross:hover{
   width: 20%
+}
+#bobross:hover ~ #bobross-qoute{
+  display:block;
+    
 }
 #computer:hover{
   width:20%;
@@ -88,4 +92,14 @@ body {
   transform: translateY(-4px) scaleY(-1);
   background-repeat: no-repeat;
   /* filter: blur(5px); */
+}
+#bobross-qoute{
+    position: absolute;
+    background-color: white;
+    padding: 1.5rem;
+    font-size: 2rem;
+    border-radius: 20px;
+    left: 67%;
+    top: 10%;
+    display:none;
 }
