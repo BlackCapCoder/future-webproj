@@ -83,4 +83,7 @@ p {
 #heinrich{
   position: absolute;
   width: 200px;
+  z-index: 2;
+  left: 200px;
+  top: 300px;
 }
