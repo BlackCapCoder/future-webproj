@@ -1,13 +1,17 @@
-.canvas, .eclipse, body {
-  height: 100%;
+.canvas, .cloud, .cloud::after, .eclipse, .moon, .star, .sun {
+  position: absolute;
 }
 
-.cloud::after, .cloud::before {
+.canvas, .cloud, .eclipse, .star, .star::after, .star::before, .wind {
+  animation-iteration-count: infinite;
+}
+
+.cloud::after, .cloud::before, .star::after, .star::before, .wind::after, .wind::before {
   content: '';
 }
 
-.canvas, .cloud, .eclipse, .star {
-  animation-iteration-count: infinite;
+.canvas, .eclipse, body {
+  height: 100%;
 }
 
 .canvas, .eclipse, .wind {
@@ -29,7 +33,6 @@ body {
   width: 100%;
   border: 1px solid #000;
   margin: 0 auto;
-  position: absolute;
   animation-delay: 1s;
   background: #70c4c6;
   animation-name: daylight;
@@ -61,7 +64,6 @@ body {
 
 .eclipse {
   width: 100%;
-  position: absolute;
   left: 60%;
   top: 20%;
   animation-name: time;
@@ -72,17 +74,17 @@ body {
 .moon, .sun {
   width: 70px;
   height: 70px;
-  position: absolute;
 }
 
 .sun {
+  box-shadow: 0 0 10px #ff0;
   border-radius: 50%;
   background-color: #ffa;
   top: -35px;
   left: -35px;
 }
 
-.cloud, .cloud::after, .cloud::before, .moon, .star {
+.cloud, .cloud::after, .cloud::before, .moon, .star, .star::after, .star::before {
   border-radius: 50%;
   background-color: #fff;
 }
@@ -109,7 +111,6 @@ body {
 .cloud {
   width: 50px;
   height: 45px;
-  position: absolute;
   top: 20px;
   left: -5%;
   animation-name: cloud;
@@ -128,7 +129,6 @@ body {
 .cloud::after {
   width: 20px;
   height: 20px;
-  position: absolute;
   right: -10px;
   top: 17px;
 }
@@ -153,7 +153,6 @@ body {
 .star {
   width: 4px;
   height: 4px;
-  position: absolute;
   top: 50px;
   left: 100px;
   animation-name: fader;
@@ -161,12 +160,14 @@ body {
 }
 
 .star::after, .star::before {
-  content: '';
-  border-radius: 50%;
-  background-color: #fff;
   position: absolute;
   animation-name: blinker;
   animation-duration: 20s;
+}
+
+.wind, .wind::after, .wind::before {
+  background-color: #eee;
+  position: absolute;
 }
 
 .star::before {
@@ -174,12 +175,10 @@ body {
   height: 3px;
   left: 20px;
   top: 20px;
-  animation-iteration-count: infinite;
 }
 
 .star::after, .wind {
   height: 2px;
-  animation-iteration-count: infinite;
 }
 
 .star::after {
@@ -210,18 +209,13 @@ body {
 
 .wind {
   width: 150px;
-  background-color: #eee;
-  position: absolute;
   top: 30%;
   animation-name: wind;
   animation-duration: 8s;
 }
 
 .wind::after, .wind::before {
-  content: '';
   height: 1px;
-  background-color: #eee;
-  position: absolute;
 }
 
 .wind::before {
@@ -254,7 +248,7 @@ body {
 
   15% {
     background-color: #524b64;
-    filter: sepia(0.0);
+    filter: sepia(0);
   }
 
   40%, 70% {
@@ -263,7 +257,7 @@ body {
 
   80% {
     background-color: #e2b553;
-    filter: sepia(0.4);
+    filter: sepia(.4);
   }
 }
 
@@ -330,27 +324,11 @@ body {
 
 @keyframes wind {
   0% {
-    left: -8%;
-    opacity: 0;
+    left: -50vw;
   }
 
-  15% {
-    opacity: 1;
-  }
-
-  70% {
-    left: 30%;
-    opacity: 1;
-  }
-
-  80% {
-    left: 70%;
-    opacity: 0;
-  }
-
-  90% {
-    left: 90%;
-    opacity: 0;
+  99% {
+    left: 108vw;
   }
 
   100% {
@@ -360,8 +338,7 @@ body {
 }
 
 .wrapper {
-  display: none;
-  background: rgba(255,255,255,0.95);
+  background: rgba(255,255,255,.95);
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
@@ -371,12 +348,14 @@ body {
   z-index: 5;
   text-align: center;
   border-radius: 6px;
+  max-width: 700px;
 }
 
 .title {
   text-transform: uppercase;
   padding-bottom: 20px;
 }
+
 .text {
   padding-bottom: 10px;
 }
