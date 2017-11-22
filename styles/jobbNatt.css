@@ -63,7 +63,7 @@ body{
 main {
   width: 100vw;
   height: 100vh;
-  background: url('bilder/taxiNatt.png');
+  background: url('../bilder/taxiNatt.png');
   background-size: auto 100%;
   background-repeat: no-repeat;
   background-position-x: 100%;
