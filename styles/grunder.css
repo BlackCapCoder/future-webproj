@@ -19,7 +19,7 @@ body {
 #g1button2 {
   position: absolute;
   left: 20%;
-  top: calc(96vh - 100px);
+  top: calc(96vh - 150px);
   opacity: 0;
   transition: 0.3s ease;
   font-family: monospace;
