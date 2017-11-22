@@ -68,10 +68,20 @@ body { overflow-x: hidden; }
   }
 }
 
-h1, h2 { text-align: center; }
 h1 { margin-top: 15vh; }
 
 body {
   background: url(../bilder/gallery.jpg) no-repeat;
   background-size: cover;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+#wrapper {
+  max-width: 40vw;
+  left: 50%;
+  position: absolute;
+  transform: translateX(-50%);
 }
