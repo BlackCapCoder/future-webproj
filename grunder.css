@@ -351,6 +351,7 @@ div#wave2{
   position: absolute;
   left: 15%;
   top: 15%;
+  animation: nighttext 60s ease infinite;
 }
 
 #stars {
@@ -376,5 +377,25 @@ div#wave2{
   }
   100% {
     opacity: 0;
+  }
+}
+@keyframes nighttext {
+  0% {
+    color: black;
+  }
+  30% {
+    color: black;
+  }
+  40% {
+    color: white;
+  }
+  60% {
+    color: white;
+  }
+  75% {
+    color: black;
+  }
+  100% {
+    color: black;
   }
 }
