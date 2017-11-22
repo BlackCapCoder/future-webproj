@@ -103,3 +103,10 @@ body {
     top: 10%;
     display:none;
 }
+#grass {
+    position: absolute;
+    z-index: 5;
+    width: 10%;
+    top: 46%;
+    left: 45%;   
+}
