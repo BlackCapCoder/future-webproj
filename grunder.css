@@ -143,10 +143,9 @@ body {
 }
 
 #h2{
-  width: 50vw;
+  left: 50%;
   margin: 10px;
   padding: 8px;
-  text-align: center;
   font-family: monospace;
   font-size: 30px;
 }
