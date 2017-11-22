@@ -400,3 +400,14 @@ div#wave2{
     color: black;
   }
 }
+
+#options a:hover:after {
+  content: 'Nikolai';
+  color: red;
+}
+#options {
+  position: absolute;
+  top: 25vh;
+  left: 50%;
+  transform: translateX(-50%);
+}
