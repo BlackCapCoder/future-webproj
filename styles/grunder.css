@@ -132,15 +132,16 @@ body {
 }
 
 #k2wrapper{
-    left: 35%;
-    top: 30%;
-    width: 600px;
-    height: 360px;
-    border: 1px solid black;
-    background-color: white;
-    position: fixed;
-    opacity: 0.9;
-   text-align: center;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 600px;
+  height: 360px;
+  border: 1px solid black;
+  background-color: white;
+  position: fixed;
+  opacity: 0.9;
+  text-align: center;
 }
 
 #k2h2{
