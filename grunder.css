@@ -1,5 +1,6 @@
 body {
   margin: auto;
+  background: black;
 }
 
 #bodyIdG1{
@@ -240,28 +241,56 @@ div#wave2{
   z-index: -5;
   height: 100%;
   width: 100%;
-  background: radial-gradient(yellow 7%, white 24%, lightskyblue 52%);
-  background-repeat: no-repeat;
   background-size: 100vh 100vh;
   background-color: lightskyblue;
-  animation: sunset 30s ease infinite reverse;
+  animation: sunset 30s ease infinite;
 }
 
 @keyframes sunset{
   0% {
     filter: none;
+    background: radial-gradient(yellow 7%, white 24%, lightskyblue 52%);
+    background-repeat: no-repeat;
     background-size: 100vh 100vh;
     background-position: 50% 50%;
+    background-color: lightskyblue;
+    opacity: 1;
+  }
+  25% {
+    background: radial-gradient(yellow 2%, white 24%, lightskyblue 52%);
+    background-repeat: no-repeat;
+    filter: saturate(0.6) sepia(1);
+    background-size: 400vh 400vh;
+    background-position: -50vh 30vh;
+    background-color: lightskyblue;
+    opacity: 1;
   }
   50% {
-    filter: saturate(0.6) sepia(1);
+    background: radial-gradient(yellow 2%, white 24%, lightskyblue 52%);
+    background-repeat: no-repeat;
+    filter: saturate(1) sepia(0) grayscale(0.3);
     background-size: 200vh 200vh;
-    background-position: 13% 0%;
+    background-position: -0vh 80vh;
+    background-color: lightskyblue;
+    opacity: 0.4;
+  }
+  75% {
+    background: radial-gradient(yellow 2%, white 24%, lightskyblue 52%);
+    background-repeat: no-repeat;
+    filter: saturate(0.6) sepia(1);
+    background-size: 400vh 400vh;
+    background-position: -50vh 30vh;
+    background-color: lightskyblue;
+    opacity: 1;
   }
   100% {
     filter: none;
+    background: radial-gradient(yellow 7%, white 24%, lightskyblue 52%);
     background-size: 100vh 100vh;
     background-position: 50% 50%;
+    background-color: lightskyblue;
+    background-repeat: no-repeat;
+    opacity: 1;
   }
 }
 
@@ -318,4 +347,30 @@ div#wave2{
   position: absolute;
   left: 15%;
   top: 15%;
+}
+
+#stars {
+  position: absolute;
+  left: 0; right: 0; top: 0; bottom: 0;
+  background: url('bilder/stars.jpg');
+  background-size: cover;
+  opacity: 0;
+  animation: night 30s ease infinite;
+}
+@keyframes night {
+  0% {
+    opacity: 0;
+  }
+  30% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  75% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
 }
