@@ -72,6 +72,6 @@ h1, h2 { text-align: center; }
 h1 { margin-top: 15vh; }
 
 body {
-  background: url(../bilder/gallery.jpg) no-repeat;
+  background: url('../bilder/gallery.jpg') no-repeat;
   background-size: cover;
 }

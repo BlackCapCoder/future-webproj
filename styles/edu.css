@@ -84,7 +84,7 @@ body {
 }
 
 #blur {
-  background: url("bilder/TwoRoads2.jpg");
+  background: url("../bilder/TwoRoads2.jpg");
   width: 100vw;
   height: 200vw;
   background-position: 50% 100%;

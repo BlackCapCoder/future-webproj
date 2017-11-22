@@ -10,13 +10,13 @@ body {
 }
 .tl {
   clip-path: polygon(0 0, 0 100%, 100% 0);
-  background: url(bilder/day.jpg);
+  background: url(../bilder/day.jpg);
   background-size: cover;
   background-position: 100% 0%;
 }
 .br {
   clip-path: polygon(0 100%, 100% 100%, 100% 0);
-  background: url(bilder/night.jpg);
+  background: url(../bilder/night.jpg);
   background-size: cover;
   background-position: 0% 100%;
 }

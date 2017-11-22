@@ -2,7 +2,7 @@
   margin-left: -10px;
   margin-top: -10px;
   width: calc(100% + 20px);
-  background-image: url(bilder/code.jpg);
+  background-image: url(../bilder/code.jpg);
   background-size: cover;
   max-height: 30vh;
   box-shadow: 0 0 12px black;
@@ -23,7 +23,7 @@ body.two { filter: none; }
 body:before {
   content: '';
   z-index: -1;
-  background: url(bilder/binary.jpg);
+  background: url(../bilder/binary.jpg);
   position: absolute;
   left: 0; right: 0; top: 0; bottom: 0;
   opacity: 0.08;

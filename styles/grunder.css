@@ -31,7 +31,7 @@ body {
   left: 0; right: 0;
   height: 47vh;
   transition: height 0.5s;
-  background: url(bilder/EntrepreneurshipJourney.jpg) no-repeat;
+  background: url(../bilder/EntrepreneurshipJourney.jpg) no-repeat;
   background-size: auto 100vh;
   clip-path: polygon( 0% 0%, 100% 0%, 100% 89%, 97.6% 87%, 92.6% 87%, 87% 96%, 83% 90%, 75.2% 93%
                     , 69% 87%, 60.5% 94%, 52.5% 90%, 46.5% 96%, 39.8% 90%, 30% 99%, 23.3% 90%
@@ -122,7 +122,7 @@ body {
 
 /*START OF konkurs2*/
 #k2background{
-    background-image: url(bilder/domstol.jpg);
+    background-image: url(../bilder/domstol.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
@@ -179,7 +179,7 @@ body {
   height: 10%;
 }
 #waveCont > div{
-  background-image: url(bilder/wave-hi.png);
+  background-image: url(../bilder/wave-hi.png);
   background-repeat: repeat-x;
   background-size: contain;
   height: 100%;
@@ -213,7 +213,7 @@ div#wave2{
 
 #person{
   position: absolute;
-  background-image: url(bilder/champagne-toast-animated-gif-2.gif);
+  background-image: url(../bilder/champagne-toast-animated-gif-2.gif);
   background-size: cover;
   border-radius: 25%;
   left: 50px;
@@ -358,7 +358,7 @@ div#wave2{
 #stars {
   position: absolute;
   left: 0; right: 0; top: 0; bottom: 0;
-  background: url('bilder/stars.jpg');
+  background: url('../bilder/stars.jpg');
   background-size: cover;
   opacity: 0;
   animation: night 60s ease infinite;
