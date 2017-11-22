@@ -1,3 +1,19 @@
+.canvas, .eclipse, body {
+  height: 100%;
+}
+
+.cloud::after, .cloud::before {
+  content: '';
+}
+
+.canvas, .cloud, .eclipse, .star {
+  animation-iteration-count: infinite;
+}
+
+.canvas, .eclipse, .wind {
+  animation-timing-function: linear;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -5,278 +21,347 @@
 
 body {
   font-family: Arial,Helvetica,sans-serif;
-  height: 100%;
   background: rgba(32,128,255,.1);
   overflow-y: hidden;
 }
 
 .canvas {
-    width: 100%;
-    height: 100%;
-    border: 1px solid #000;
-    margin: 0 auto;
-    position: absolute;
-    animation-delay: 1s;
-    background: #70c4c6;
-    animation-name: daylight;
-    animation-duration: 20s;
-    animation-iteration-count: infinite;
-    overflow: hidden;
-    animation-timing-function: linear;
+  width: 100%;
+  border: 1px solid #000;
+  margin: 0 auto;
+  position: absolute;
+  animation-delay: 1s;
+  background: #70c4c6;
+  animation-name: daylight;
+  animation-duration: 20s;
+  overflow: hidden;
 }
-#leftfield{
-    left: -5%;
-    bottom: -7%;
-    position: absolute;
-    width: 80%;
-    filter: grayscale(0.5);
+
+#leftfield, #rightfield {
+  position: absolute;
+  width: 80%;
 }
-#rightfield{
-    transform: scaleX(-1);
-    right: -11%;
-    bottom: -12%;
-    position: absolute;
-    width: 80%;
-    z-index: 5;
+
+#leftfield {
+  left: -5%;
+  bottom: -7%;
+  filter: grayscale(.5);
 }
-#buttons{
-    top: 50%;
+
+#rightfield {
+  transform: scaleX(-1);
+  right: -11%;
+  bottom: -12%;
+  z-index: 5;
 }
+
+#buttons {
+  top: 50%;
+}
+
 .eclipse {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    left:60%;
-    top:20%;
-    animation-name: time;
-    animation-duration: 40s;
-    animation-iteration-count: infinite;
-    z-index: 0;
-    animation-timing-function: linear;
+  width: 100%;
+  position: absolute;
+  left: 60%;
+  top: 20%;
+  animation-name: time;
+  animation-duration: 40s;
+  z-index: 0;
 }
+
+.moon, .sun {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+}
+
 .sun {
-    width:70px;
-    height:70px;
-    border-radius: 50%;
-    background-color: #ffa;
-    position: absolute;
-    top: -35px;
-    left: -35px;
+  border-radius: 50%;
+  background-color: #ffa;
+  top: -35px;
+  left: -35px;
 }
+
+.cloud, .cloud::after, .cloud::before, .moon, .star {
+  border-radius: 50%;
+  background-color: #fff;
+}
+
 .sun.a {
-    bottom: -35px;
-    right: -35px;
-    left: auto;
-    top:auto;
+  bottom: -35px;
+  right: -35px;
+  left: auto;
+  top: auto;
 }
+
 .moon {
-    position: absolute;
-    top: -35px;
-    right: -35px;
-    width:70px;
-    height:70px;
-    border-radius: 50%;
-    background-color: #fff;
+  top: -35px;
+  right: -35px;
 }
+
 .moon.a {
-    bottom: -35px;
-    left: -35px;
-    top:auto;
-    right: auto;
+  bottom: -35px;
+  left: -35px;
+  top: auto;
+  right: auto;
 }
+
 .cloud {
-    width: 50px;
-    height: 45px;
-    border-radius: 50%;
-    background-color: #fff;
-    position: absolute;
-    top:20px;
-    left: -5%;
-    animation-name: cloud;
-    animation-duration: 70s;
-    animation-iteration-count: infinite;
-    z-index: 1;
+  width: 50px;
+  height: 45px;
+  position: absolute;
+  top: 20px;
+  left: -5%;
+  animation-name: cloud;
+  animation-duration: 70s;
+  z-index: 1;
 }
+
 .cloud::before {
-    content:'';
-    width: 35px;
-    height: 30px;
-    background-color: #fff;
-    margin-left: -20px;
-    margin-top: 10px;
-    display: block;
-    border-radius: 50%;
+  width: 35px;
+  height: 30px;
+  margin-left: -20px;
+  margin-top: 10px;
+  display: block;
 }
+
 .cloud::after {
-    content:'';
-    width: 20px;
-    height: 20px;
-    background-color: #fff;
-    position: absolute;
-    right: -10px;
-    top: 17px;
-    border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  right: -10px;
+  top: 17px;
 }
+
 .cloud.a {
-    top:150px;
-    animation-duration: 55s;
+  top: 150px;
+  animation-duration: 55s;
 }
+
 .cloud.b {
-    top:100px;
-    left:-15%;
-    animation-duration: 38s;
+  top: 100px;
+  left: -15%;
+  animation-duration: 38s;
 }
+
 .cloud.c {
-    top:250px;
-    left:-10%;
-    animation-duration: 25s;
+  top: 250px;
+  left: -10%;
+  animation-duration: 25s;
 }
+
 .star {
-    width: 4px;
-    height: 4px;
-    border-radius: 50%;
-    background-color: #fff;
-    position: absolute;
-    top: 50px;
-    left: 100px;
-    animation-name: fader;
-    animation-duration: 20s;
-    animation-iteration-count: infinite;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+  top: 50px;
+  left: 100px;
+  animation-name: fader;
+  animation-duration: 20s;
 }
+
+.star::after, .star::before {
+  content: '';
+  border-radius: 50%;
+  background-color: #fff;
+  position: absolute;
+  animation-name: blinker;
+  animation-duration: 20s;
+}
+
 .star::before {
-    content: '';
-    width:3px;
-    height:3px;
-    border-radius: 50%;
-    background-color: #fff;
-    position: absolute;
-    left:20px;
-    top:20px;
-    animation-name: blinker;
-    animation-duration: 20s;
-    animation-iteration-count: infinite;
+  width: 3px;
+  height: 3px;
+  left: 20px;
+  top: 20px;
+  animation-iteration-count: infinite;
 }
+
+.star::after, .wind {
+  height: 2px;
+  animation-iteration-count: infinite;
+}
+
 .star::after {
-    content: '';
-    width:2px;
-    height:2px;
-    border-radius: 50%;
-    background-color: #fff;
-    position: absolute;
-    left:-200px;
-    top:50px;
-    animation-name: blinker;
-    animation-duration: 20s;
-    animation-iteration-count: infinite;    
+  width: 2px;
+  left: -200px;
+  top: 50px;
 }
+
 .star.a {
-    top:30px;
-    left:90%;
+  top: 30px;
+  left: 90%;
 }
+
 .star.b {
-    top:120px;
-    left:70%;
+  top: 120px;
+  left: 70%;
 }
+
 .star.c {
-    top:100px;
-    left:65%;
+  top: 100px;
+  left: 65%;
 }
+
 .star.d {
-    top:200px;
-    left:15%;
+  top: 200px;
+  left: 15%;
 }
+
 .wind {
-    width: 150px;
-    background-color: #eee;
-    height: 2px;
-    position: absolute;
-    top:30%;
-    animation-name: wind;
-    animation-duration: 8s;
-    animation-iteration-count: infinite;    
-    animation-timing-function: linear;
+  width: 150px;
+  background-color: #eee;
+  position: absolute;
+  top: 30%;
+  animation-name: wind;
+  animation-duration: 8s;
 }
+
+.wind::after, .wind::before {
+  content: '';
+  height: 1px;
+  background-color: #eee;
+  position: absolute;
+}
+
 .wind::before {
-    content: '';
-    position: absolute;
-    left: 200px;
-    width: 100px;
-    height: 1px;
-    background-color: #eee;
-    top:100px;
+  left: 200px;
+  width: 100px;
+  top: 100px;
 }
+
 .wind::after {
-    content: '';
-    position: absolute;
-    left: 400px;
-    width: 180px;
-    height: 1px;
-    background-color: #eee;
-    top:30px;
+  left: 400px;
+  width: 180px;
+  top: 30px;
 }
+
 @keyframes time {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
+  0% {
+    transform: rotate(0);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
 }
+
 @keyframes daylight {
-    0% {  background-color: #70c4c6; }
-    15% {  background-color: #524b64; }
-    40% { background-color: #354a4a; }
-    70% { background-color: #354a4a; }
-    80% {  background-color: #e2b553; }
-    100% {  background-color: #70c4c6;}
+  0%, 100% {
+    background-color: #70c4c6;
+    filter: sepia(0);
+  }
+
+  15% {
+    background-color: #524b64;
+    filter: sepia(0.0);
+  }
+
+  40%, 70% {
+    background-color: #354a4a;
+  }
+
+  80% {
+    background-color: #e2b553;
+    filter: sepia(0.4);
+  }
 }
+
 @keyframes cloud {
-    0% { transform: translateX(0); }
-    100% { transform: translateX(150vh); }
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(120vw);
+  }
 }
+
 @keyframes rotate {
-    0% { transform: rotate(0); }
-    100% { transform: rotate(360deg); }
+  0% {
+    transform: rotate(0);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
 }
+
 @keyframes fader {
-    0% { opacity: 0; }
-    15% { opacity: 0; }
-    40% { opacity: 1; }
-    60% { opacity: 0.4; }
-    70% { opacity: 1; }
-    80% {  opacity: 0; }
-    100% { opacity: 0; }
+  0%, 100%, 15%, 80% {
+    opacity: 0;
+  }
+
+  40%, 70% {
+    opacity: 1;
+  }
+
+  60% {
+    opacity: .4;
+  }
 }
+
 @keyframes blinker {
-    0% { opacity: 0; }
-    18% { opacity: 0; }
-    25% { opacity: 1; }
-    40% { opacity: 0; }
-    60% { opacity: 1; }
-    70% {  opacity: 0; }
-    100% { opacity: 0; }    
+  0%, 100%, 18%, 40%, 70% {
+    opacity: 0;
+  }
+
+  25%, 60% {
+    opacity: 1;
+  }
 }
+
 @keyframes blinker-1 {
-    0% { opacity: 0; }
-    30% { opacity: 0; }
-    40% { opacity: 1; }
-    60% { opacity: 1; }
-    80% {  opacity: 0; }
-    100% { opacity: 0; }    
+  0%, 100%, 30%, 80% {
+    opacity: 0;
+  }
+
+  40%, 60% {
+    opacity: 1;
+  }
 }
+
 @keyframes windy {
-    15% {  transform: translateX(5px); transform: rotate(5deg); }
-    80% {  transform: translateX(7px); transform: rotate(7deg);}
-    80% {  transform: translateX(5px); transform: rotate(5deg);}
+  15%, 80% {
+    transform: translateX(5px);
+    transform: rotate(5deg);
+  }
 }
+
 @keyframes wind {
-    0% {  left: -8%; opacity: 0 }
-    15% { opacity: 1; }
-    70% { left: 30%; opacity: 1;}
-    80% {  left: 70%; opacity: 0;}
-    90% {  left: 90%; opacity: 0;}
-    100% {  left: -1000px; opacity: 0;}
+  0% {
+    left: -8%;
+    opacity: 0;
+  }
+
+  15% {
+    opacity: 1;
+  }
+
+  70% {
+    left: 30%;
+    opacity: 1;
+  }
+
+  80% {
+    left: 70%;
+    opacity: 0;
+  }
+
+  90% {
+    left: 90%;
+    opacity: 0;
+  }
+
+  100% {
+    left: -1000px;
+    opacity: 0;
+  }
 }
 
 .wrapper {
-  /* color: white; */
-  background: rgba(255,255,255,0.6);
+  display: none;
+  background: rgba(255,255,255,0.95);
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
@@ -284,4 +369,14 @@ body {
   top: 10vh;
   padding: 20px;
   z-index: 5;
+  text-align: center;
+  border-radius: 6px;
+}
+
+.title {
+  text-transform: uppercase;
+  padding-bottom: 20px;
+}
+.text {
+  padding-bottom: 10px;
 }
