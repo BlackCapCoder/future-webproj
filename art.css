@@ -1,3 +1,5 @@
+body { overflow-x: hidden; }
+
 .tumble {
   width: 25vh;
   position: absolute;
