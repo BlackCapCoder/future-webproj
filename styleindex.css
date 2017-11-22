@@ -85,5 +85,5 @@ p {
   width: 200px;
   z-index: 2;
   left: 200px;
-  top: 300px;
+  bottom: 300px;
 }
