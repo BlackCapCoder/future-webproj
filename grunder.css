@@ -401,13 +401,12 @@ div#wave2{
   }
 }
 
-#options a:hover:after {
-  content: 'Nikolai';
-  color: red;
-}
 #options {
   position: absolute;
   top: 25vh;
   left: 50%;
   transform: translateX(-50%);
 }
+
+#options a:hover:after { content: 'Nikolai'; }
+#options a:hover span { display: none; }
