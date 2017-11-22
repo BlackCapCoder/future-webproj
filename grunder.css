@@ -150,7 +150,7 @@ body {
   font-family: monospace;
   font-size: 30px;
 }
-#k2h2 .menu > ul { padding-left: 0; }
+#k2wrapper .menu > ul { padding-left: 0; }
 #k2button2 {
   position: relative;
 }
