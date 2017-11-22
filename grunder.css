@@ -140,9 +140,10 @@ body {
     background-color: white;
     position: fixed;
     opacity: 0.9;
+   text-align: center;
 }
 
-#h2{
+#k2h2{
   left: 50%;
   margin: 10px;
   padding: 8px;
