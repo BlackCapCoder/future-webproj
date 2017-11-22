@@ -1,33 +1,42 @@
+#romskip, .br, .tl {
+  bottom: 0;
+  position: absolute;
+}
+
+#romskip, #text, .br, .tl {
+  position: absolute;
+}
+
 body {
-  background: black;
+  background: #000;
   overflow: hidden;
 }
 
-.tl, .br {
-  position: absolute;
-  top: 0; bottom: 0; left: 0; right: 0;
-  opacity: 0.5;
-  transition: 0.5s;
-}
-.tl {
-  clip-path: polygon(0 0, 0 100%, 100% 0);
-  background: url(../bilder/day.jpg);
-  background-size: cover;
-  background-position: 100% 0%;
-}
-.br {
-  clip-path: polygon(0 100%, 100% 100%, 100% 0);
-  background: url(../bilder/night.jpg);
-  background-size: cover;
-  background-position: 0% 100%;
+.br, .tl {
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: .5;
+  transition: .5s;
 }
 
-.tl:hover, .br:hover {
-  opacity: 1 !important;
+.tl {
+  clip-path: polygon(0 0,0 100%,100% 0);
+  background: url(../bilder/day.jpg) 100% 0;
+  background-size: cover;
+}
+
+.br {
+  clip-path: polygon(0 100%,100% 100%,100% 0);
+  background: url(../bilder/night.jpg) 0 100%;
+  background-size: cover;
+}
+
+.br:hover, .tl:hover {
+  opacity: 1!important;
 }
 
 #romskip {
-  position: absolute;
   width: 20%;
   -moz-transform: scaleX(-1);
   -o-transform: scaleX(-1);
@@ -35,29 +44,28 @@ body {
   transform: scaleX(-1);
   filter: FlipH;
   -ms-filter: "FlipH";
-  bottom: 0%;
   left: 25%;
   animation: romskipFly 5s 1 forwards;
 }
 
 #text {
-  position: absolute;
-  color: white;
+  color: #fff;
   font-family: monospace;
   text-transform: uppercase;
   font-size: 3vw;
   left: 50%;
   top: 50%;
-  transform: translate(-50%, -50%);
-  text-shadow: 0 0 10px black;
+  transform: translate(-50%,-50%);
+  text-shadow: 0 0 10px #000;
   pointer-events: none;
 }
 
 @keyframes romskipFly {
   from {
-    bottom: 0%;
+    bottom: 0;
     left: 25%;
   }
+
   to {
     bottom: 100%;
     left: 150%;

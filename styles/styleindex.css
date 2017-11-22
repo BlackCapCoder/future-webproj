@@ -1,12 +1,16 @@
+#hat, #hill {
+  position: absolute;
+}
+
 * {
   margin: 0;
   padding: 0;
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial,Helvetica,sans-serif;
   height: 100%;
-  background: rgba(32, 128, 255, 0.1);
+  background: rgba(32,128,255,.1);
   overflow-y: hidden;
 }
 
@@ -14,11 +18,12 @@ p {
   padding: 5px;
 }
 
-#taxinatt {
-  /* Full height */
-  height: 100%; 
+.title, .wrapper {
+  padding-bottom: 20px;
+}
 
-  /* Center and scale the image nicely */
+#taxinatt {
+  height: 100%;
   background-position: right;
   background-repeat: no-repeat;
   background-size: cover;
@@ -28,42 +33,42 @@ p {
   text-transform: uppercase;
   text-align: center;
   font-size: 40px;
-  padding-bottom: 20px;
 }
 
 .wrapper {
   width: 70vw;
   margin-left: 15%;
   padding-top: 50px;
-  padding-bottom: 20px;
 }
 
 .root {
-  background: rgba(230, 230, 230, 0.2);
+  background: rgba(230,230,230,.2);
   padding-bottom: 7vh;
 }
 
 #hat {
-  position: absolute;
   right: 7vw;
-  bottom: 0px;
+  bottom: 0;
   height: 20vh;
-  transition: 0.3s ease;
+  transition: .3s ease;
 }
+
+#trans-bot, #trans-top {
+  width: 100%;
+  height: 4vh;
+}
+
 #hat:hover {
   transform: rotate(14deg) scale(1.07);
 }
 
 #trans-bot {
-  background: linear-gradient(rgb(230, 230, 230, 0.2), white);
-  width: 100%;
-  height: 4vh;
+  background: linear-gradient(rgb(230,230,230,.2),#fff);
   border-radius: 0 0 20% 20%;
 }
+
 #trans-top {
-  background: linear-gradient(white, rgb(230, 230, 230, 0.2));
-  width: 100%;
-  height: 4vh;
+  background: linear-gradient(white,rgb(230,230,230,.2));
   margin-top: 4vh;
   border-radius: 20% 20% 0 0;
 }
@@ -73,10 +78,8 @@ p {
 }
 
 #hill {
-  position: absolute;
   left: -10%;
   bottom: -12vh;
   width: 50vw;
   transform: rotate(6deg);
 }
-

@@ -1,182 +1,156 @@
-body{
-    background-color: rgb(34, 167, 240);
-    overflow: hidden;
-    margin: 0;
-    padding: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 1rem;
-  }
-  
-  #header-dagjobb{
-    color: white;
-    text-align: justify;
-    position: absolute;
-    top: 10%;
-    left: 15%;
-    text-decoration-line: none;
-    border: 5px; 
-    letter-spacing: 3px;
-    font-size: 2em;
-  }
-  
-  #lykkebar {
-    width: 211px;
-    height: 25px;
-    /* bottom: -50px; */
-    background-color: rgba(0,0,0,0.3);
-    border: solid dimgray 1px;
-    overflow: hidden;
-    border-radius: 4px;
-  }
-  
-  #lykkebar-header {
-    color: white;
-    position: absolute;
-    bottom: 50px;
-    left: 440px;
-    text-align: center;
-  }
-  
-  #redbar{
-    position: absolute;
-    width: 0px;
-    height: 18px;
-    left: 21%;
-    bottom: 15%;
-    background: lime;
-    clip-path: url(#prgClip);
-    animation: redbarMoves 7.5s ease-out forwards;
-  }
-  
-  @keyframes redbarMoves{
-    100%{
-      width: 110px;
-      background: red;
-      box-shadow: 0 0 30px red;
-    }
-    0%{
-      width: 204px;
-      background: lime;
-      box-shadow: 0 0 30px lime;
-    }
-  }
-  
-  main {
-    width: 100vw;
-    height: 100vh;
-    background: url('../bilder/matbutikk.png');
-    background-size: auto 100%;
-    background-position: right;
-    background-repeat: no-repeat;
-  }
-  
-  #bar {
-    position: absolute;
-    left: 5%;
-    bottom: 50%;
-  }
-  #luck-label {
-    color: #bbb;
-    font-family: monospace;
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 14px;
-    margin-right: 3px;
-    text-shadow: 1px 1px 1px #222;
-  }
-  #luck-label, #lykkebar {
-    display: inline-block;
-    vertical-align: middle;
-  }
-  
-  
-  
-  #bar2 {
-    position: absolute;
-    left: 25%;
-    bottom: 50%;
-  }
-  
-  #successbar {
-      overflow: hidden;
-    width: 211px;
-    height: 25px;
-    /* bottom: -50px; */
-    background-color: rgba(0,0,0,0.3);
-    border: solid dimgray 1px;
-    overflow: hidden;
-    border-radius: 4px;
-  }
-  
-  #yellowbar{
-    position: absolute;
-    width: 211px;
-    height: 18px;
-    left: 26%;
-    bottom: 4.5px;
-    background: lime;
-    clip-path: url(#prgClip);
-    animation: yellowbarMoves 5s ease-out forwards;
-  }
-  
-  @keyframes yellowbarMoves{
-    0%{
-      width: 0px;
-      background: red;
-      box-shadow: 0 0 30px red;
-    }
-    100%{
-      width: 94px;
-      background: lime;
-      box-shadow: 0 0 30px lime;
-    }
+#redbar, #yellowbar {
+  clip-path: url(#prgClip);
+}
+
+body {
+  background-color: #22a7f0;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 1rem;
+}
+
+#header-dagjobb {
+  color: #fff;
+  text-align: justify;
+  position: absolute;
+  top: 10%;
+  left: 15%;
+  text-decoration-line: none;
+  border: 5px;
+  letter-spacing: 3px;
+  font-size: 2em;
+}
+
+#lykkebar, #successbar {
+  width: 211px;
+  height: 25px;
+  background-color: rgba(0,0,0,.3);
+  border: 1px solid #696969;
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+#lykkebar-header {
+  color: #fff;
+  position: absolute;
+  bottom: 50px;
+  left: 440px;
+  text-align: center;
+}
+
+#redbar {
+  position: absolute;
+  width: 0;
+  height: 18px;
+  left: 21%;
+  bottom: 15%;
+  background: #0f0;
+  animation: redbarMoves 7.5s ease-out forwards;
+}
+
+#bar, #bar2 {
+  bottom: 50%;
+  position: absolute;
+}
+
+@keyframes redbarMoves {
+  100% {
+    width: 110px;
+    background: red;
+    box-shadow: 0 0 30px red;
   }
 
-  @keyframes visibility {
-      from{
-          visibility: hidden;
-      }
-      to {
-          visibility: visible;
-      }
+  0% {
+    width: 204px;
+    background: #0f0;
+    box-shadow: 0 0 30px #0f0;
   }
-  
-  #success-label {
-    color: #bbb;
-    font-family: monospace;
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 14px;
-    margin-right: 3px;
-    text-shadow: 1px 1px 1px #222;
-  }
-  #success-label, #successbar {
-    display: inline-block;
-    vertical-align: middle;
+}
+
+main {
+  width: 100vw;
+  height: 100vh;
+  background: url(../bilder/matbutikk.png) right no-repeat;
+  background-size: auto 100%;
+}
+
+#bar {
+  left: 5%;
+}
+
+#luck-label, #success-label {
+  color: #bbb;
+  font-family: monospace;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 14px;
+  margin-right: 3px;
+  text-shadow: 1px 1px 1px #222;
+}
+
+#luck-label, #lykkebar, #success-label, #successbar {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+#bar2 {
+  left: 25%;
+}
+
+#yellowbar {
+  position: absolute;
+  width: 211px;
+  height: 18px;
+  left: 26%;
+  bottom: 4.5px;
+  background: #0f0;
+  animation: yellowbarMoves 5s ease-out forwards;
+}
+
+#tekstBtn, #text {
+  color: #fff;
+  text-align: justify;
+  position: absolute;
+  left: 5%;
+  text-decoration-line: none;
+  border: 5px;
+  letter-spacing: 3px;
+}
+
+@keyframes yellowbarMoves {
+  0% {
+    width: 0;
+    background: red;
+    box-shadow: 0 0 30px red;
   }
 
-  #text {
-    color: white;
-    text-align: justify;
-    position: absolute;
-    top: 25%;
-    left: 5%;
-    text-decoration-line: none;
-    border: 5px; 
-    letter-spacing: 3px;
+  100% {
+    width: 94px;
+    background: #0f0;
+    box-shadow: 0 0 30px #0f0;
   }
+}
 
-  #tekstBtn {
-    color: white;
-    text-align: justify;
-    position: absolute;
-    bottom: 15%;
-    left: 5%;
-    width: 50%;
-    text-decoration-line: none;
-    border: 5px; 
-    letter-spacing: 3px;
-    font-size: 1em;
+@keyframes visibility {
+  from {
     visibility: hidden;
-    animation: visibility 1s 7.5s 1 forwards;
   }
+
+  to {
+    visibility: visible;
+  }
+}
+
+#text {
+  top: 25%;
+}
+
+#tekstBtn {
+  bottom: 15%;
+  width: 50%;
+  font-size: 1em;
+  visibility: hidden;
+  animation: visibility 1s 7.5s 1 forwards;
+}

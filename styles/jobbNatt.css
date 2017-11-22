@@ -1,217 +1,197 @@
-body{
-  background-color: rgb(60,60,60);
+#bar, #header-nattjobb, #lykkebar-header, #redbar {
+  position: absolute;
+}
+
+#header-nattjobb, #luck-label, #success-label {
+  text-shadow: 1px 1px 1px #222;
+  font-family: monospace;
+}
+
+#redbar, #yellowbar {
+  clip-path: url(#prgClip);
+}
+
+body {
+  background-color: #3c3c3c;
   overflow: hidden;
   margin: 0;
 }
 
-#header-nattjobb{
-  color: white;
+#header-nattjobb {
+  color: #fff;
   text-align: justify;
-  position: absolute;
   top: 60px;
   left: 400px;
   text-decoration-line: underline;
-  border: 5px; 
+  border: 5px;
   letter-spacing: 3px;
-  text-shadow: 1px 1px 1px #222;
-  font-family: monospace;
   font-size: 40px;
 }
 
-#lykkebar {
+#lykkebar, #successbar {
   width: 211px;
   height: 25px;
-  /* bottom: -50px; */
-  background-color: rgba(0,0,0,0.3);
-  border: solid dimgray 1px;
+  background-color: rgba(0,0,0,.3);
+  border: 1px solid #696969;
   overflow: hidden;
   border-radius: 4px;
 }
 
 #lykkebar-header {
-  color: white;
-  position: absolute;
+  color: #fff;
   bottom: 50px;
   left: 440px;
   text-align: center;
 }
 
-#redbar{
-  position: absolute;
-  width: 0px;
+#redbar {
+  width: 0;
   height: 18px;
   left: 53.5px;
   bottom: 4.5px;
-  background: lime;
-  clip-path: url(#prgClip);
+  background: #0f0;
   animation: redbarMoves 600s ease-out;
 }
 
-@keyframes redbarMoves{
-  100%{
+#bar, #bar2 {
+  bottom: 15px;
+}
+
+@keyframes redbarMoves {
+  100% {
     width: 0;
     background: red;
     box-shadow: 0 0 30px red;
   }
-  0%{
+
+  0% {
     width: 204px;
-    background: lime;
-    box-shadow: 0 0 30px lime;
+    background: #0f0;
+    box-shadow: 0 0 30px #0f0;
   }
 }
 
 main {
   width: 100vw;
   height: 100vh;
-  background: url('../bilder/taxiNatt.png');
+  background: url(../bilder/taxiNatt.png) no-repeat;
   background-size: auto 100%;
-  background-repeat: no-repeat;
   background-position-x: 100%;
 }
 
 #bar {
-  position: absolute;
   left: 20px;
-  bottom: 15px;
 }
-#luck-label {
+
+#luck-label, #success-label {
   color: #bbb;
-  font-family: monospace;
   text-transform: uppercase;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 14px;
   margin-right: 3px;
-  text-shadow: 1px 1px 1px #222;
 }
-#luck-label, #lykkebar {
+
+#workinfo, #workinfo2 {
+  color: #b4b4b4;
+  text-align: center;
+  position: absolute;
+}
+
+#luck-label, #lykkebar, #success-label, #successbar {
   display: inline-block;
   vertical-align: middle;
 }
 
-
-
 #bar2 {
   position: absolute;
   left: 300px;
-  bottom: 15px;
 }
 
-#successbar {
-    overflow: hidden;
-  width: 211px;
-  height: 25px;
-  /* bottom: -50px; */
-  background-color: rgba(0,0,0,0.3);
-  border: solid dimgray 1px;
-  overflow: hidden;
-  border-radius: 4px;
-}
-
-#yellowbar{
+#yellowbar {
   position: absolute;
   width: 211px;
   height: 18px;
   left: 69.5px;
   bottom: 4.5px;
-  background: lime;
-  clip-path: url(#prgClip);
+  background: #0f0;
   animation: yellowbarMoves 400s ease-out;
 }
 
-@keyframes yellowbarMoves{
-  0%{
+@keyframes yellowbarMoves {
+  0% {
     width: 0;
     background: red;
     box-shadow: 0 0 30px red;
   }
-  100%{
+
+  100% {
     width: 204px;
-    background: lime;
-    box-shadow: 0 0 30px lime;
+    background: #0f0;
+    box-shadow: 0 0 30px #0f0;
   }
 }
 
-#success-label {
-  color: #bbb;
-  font-family: monospace;
-  text-transform: uppercase;
-  font-weight: bold;
-  font-size: 14px;
-  margin-right: 3px;
-  text-shadow: 1px 1px 1px #222;
-}
-#success-label, #successbar {
-  display: inline-block;
-  vertical-align: middle;
+#workinfo {
+  left: 300px;
+  top: 150px;
+  animation: workinfoFadein 3s ease-in;
 }
 
-#workinfo{
-    position: absolute;
-    left: 300px;
-    top: 150px;
-    color: rgb(180,180,180);
-    text-align: center;
-    animation: workinfoFadein 3s ease-in;
+#workinfo2 {
+  left: 370px;
+  top: 350px;
+  animation: workinfoFadein2 8s ease-in;
 }
 
-#workinfo2{
-    position: absolute;
-    left: 370px;
-    top: 350px;
-    color: rgb(180,180,180);
-    text-align: center;
-    animation: workinfoFadein2 8s ease-in;
+.menu, .menu a:hover, .menu ul li a {
+  animation: menuFadein 10s ease-in;
 }
 
-@keyframes workinfoFadein{
-    0%{
-        color: rgb(60,60,60);
-    }
-    100%{
-        color: rgb(180,180,180);
-        text-shadow: 1px 1px 1px #222;
-    }
+@keyframes workinfoFadein {
+  0% {
+    color: #3c3c3c;
+  }
+
+  100% {
+    color: #b4b4b4;
+    text-shadow: 1px 1px 1px #222;
+  }
 }
 
-@keyframes workinfoFadein2{
-    0%{
-        color: rgb(60,60,60);
-    }
-    80%{
-        color: rgb(60,60,60);
-    }
-    100%{
-        color: rgb(180,180,180);
-        text-shadow: 1px 1px 1px #222;
-    }
+@keyframes workinfoFadein2 {
+  0%, 80% {
+    color: #3c3c3c;
+  }
+
+  100% {
+    color: #b4b4b4;
+    text-shadow: 1px 1px 1px #222;
+  }
 }
-
-
-/* Buttons */
 
 .menu {
-    text-align: center;
-    position: absolute;
-    left: 280px;
-    bottom: 100px;
-    animation: menuFadein 10s ease-in;
+  text-align: center;
+  position: absolute;
+  left: 280px;
+  bottom: 100px;
 }
-.menu > ul {
+
+.menu>ul {
   display: flex;
   justify-content: center;
 }
+
 .menu ul li a {
   list-style: none;
   text-decoration: none;
-  color: white;
+  color: #fff;
   padding: 14px 20px;
   display: inline-block;
-  transition: 0.3s ease;
-  background-color: rgb(60,60,60);
+  transition: .3s ease;
+  background-color: #3c3c3c;
   margin: 10px;
   border-radius: 3px;
   font-family: monospace;
-  animation: menuFadein 10s ease-in;
 }
 
 .menu ul li {
@@ -219,34 +199,33 @@ main {
 }
 
 .menu a:hover {
-  box-shadow: 0 0 12px lightskyblue;
+  box-shadow: 0 0 12px #87cefa;
   font-size: 18px;
   padding: 17px 24px;
   transform: translateY(1.5px);
   margin: 4.5px;
-    animation: menuFadein 10s ease-in;
 }
 
-@keyframes menuFadein{
-    0%{
-        color: rgb(60,60,60);
-    }
-    80%{
-       color: rgb(60,60,60);
-    }
-    100%{
-        display: block;
-    }
+@keyframes menuFadein {
+  0%, 80% {
+    color: #3c3c3c;
+  }
+
+  100% {
+    display: block;
+  }
 }
 
 #headlights {
   position: absolute;
-  top: 47.5%; right: 4vh;
+  top: 47.5%;
+  right: 4vh;
   width: 72vh;
   height: 9vh;
   transform: rotate(3deg);
 }
-#headlights > #left, #headlights > #right {
+
+#headlights>#left, #headlights>#right {
   background: red;
   width: 10%;
   height: 100%;
@@ -255,22 +234,23 @@ main {
   box-shadow: 0 0 50px tomato;
   animation: headlights 2s ease infinite;
 }
-#headlights > #left {
+
+#headlights>#left {
   left: 0;
 }
-#headlights > #right {
+
+#headlights>#right {
   right: 0;
 }
+
 @keyframes headlights {
-  0%{
+  0%, 100% {
     filter: blur(3.3vh);
   }
-  50%{
+
+  50% {
     filter: blur(3.5vh);
     width: 13%;
     height: 110%;
-  }
-  100%{
-    filter: blur(3.3vh);
   }
 }
