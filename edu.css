@@ -68,7 +68,7 @@ body {
   position: absolute;
   z-index: 5;
   width: 17%;
-  top: 33%;
+  top: 29%;
   left: 75%;
   transition: width 3s ease;
 }
@@ -100,6 +100,6 @@ body {
     font-size: 2rem;
     border-radius: 20px;
     left: 67%;
-    top: 5%;
+    top: 10%;
     display:none;
 }
