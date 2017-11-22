@@ -65,3 +65,6 @@
     width: 15vh;
   }
 }
+
+h1, h2 { text-align: center; }
+h1 { margin-top: 15vh; }
