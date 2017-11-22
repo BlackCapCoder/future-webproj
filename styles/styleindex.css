@@ -273,3 +273,15 @@ body {
     90% {  left: 90%; opacity: 0;}
     100% {  left: -1000px; opacity: 0;}
 }
+
+.wrapper {
+  /* color: white; */
+  background: rgba(255,255,255,0.6);
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 70vw;
+  top: 10vh;
+  padding: 20px;
+  z-index: 5;
+}
