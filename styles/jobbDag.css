@@ -64,7 +64,7 @@ body{
   main {
     width: 100vw;
     height: 100vh;
-    background: url('bilder/matbutikk.png');
+    background: url('../bilder/matbutikk.png');
     background-size: auto 100%;
     background-position: right;
     background-repeat: no-repeat;
