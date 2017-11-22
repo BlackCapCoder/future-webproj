@@ -80,10 +80,3 @@ p {
   transform: rotate(6deg);
 }
 
-#heinrich{
-  position: absolute;
-  width: 200px;
-  z-index: 2;
-  left: 200px;
-  bottom: 300px;
-}
