@@ -247,7 +247,7 @@ div#wave2{
   width: 100%;
   background-size: 100vh 100vh;
   background-color: lightskyblue;
-  animation: sunset 30s ease infinite;
+  animation: sunset 60s ease infinite;
 }
 
 @keyframes sunset{
@@ -359,7 +359,7 @@ div#wave2{
   background: url('bilder/stars.jpg');
   background-size: cover;
   opacity: 0;
-  animation: night 30s ease infinite;
+  animation: night 60s ease infinite;
 }
 @keyframes night {
   0% {
