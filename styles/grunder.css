@@ -400,10 +400,6 @@ div#wave2 {
   transform: translateX(-50%);
 }
 
-#options a:hover:after {
-  content: 'Nicolai';
-}
-
 #options a:hover span {
   display: none;
 }
