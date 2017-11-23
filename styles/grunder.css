@@ -23,6 +23,8 @@
 body {
   margin: auto;
   background: #000;
+  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 #bodyIdG1 {
