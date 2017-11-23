@@ -1,0 +1,3471 @@
+commit 72b75209a930317c6c31829cc2d98f2188a08de0
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Thu Nov 23 15:32:17 2017 +0100
+
+    Added overflow-x: hidden;
+
+commit 9fa7af1439c423b2df22a71e645b7cfa5cebdfbc
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 23 15:15:57 2017 +0100
+
+    lorem
+
+commit 52acba8c3b9690ceee29d9295488c7edac36a5e2
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Thu Nov 23 14:33:09 2017 +0100
+
+    Moved down leftfield
+
+commit f5b0c8bd1e8722efd81fd573a280da0ec728189f
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 23 14:29:18 2017 +0100
+
+    Update grunder.css
+
+commit 08d89a9e664b278de144c8b0b27207ed64bb71eb
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Thu Nov 23 14:28:24 2017 +0100
+
+    Delete note.md
+
+commit e9be1c1bcd610f28df7c2778fae870ec8c6c4ed5
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 23 14:06:32 2017 +0100
+
+    Update suksess.html
+
+commit 3d17f32718903fbc1569169bed9939945e92d98f
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Thu Nov 23 14:03:10 2017 +0100
+
+    Delete heinrich.jpg
+
+commit ac4bf46705557e5ce1b92fe93b9f67502997ca94
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Thu Nov 23 14:02:27 2017 +0100
+
+    Add files via upload
+
+commit 2b0ce5ddc9c72ca043d478bcabf99171113a73e6
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Thu Nov 23 13:58:38 2017 +0100
+
+    Add files via upload
+
+commit 885b59ac37e95138f893d544001d9386dca66b01
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Thu Nov 23 13:55:15 2017 +0100
+
+    Removed :hover display none
+
+commit fab3c85f27d8bc1779753953ce4264781e4596a9
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Thu Nov 23 13:52:44 2017 +0100
+
+    Removed :hover nicolai
+
+commit 7ed4140fda3de3b0e3146afb4b750ce42fc6a0cd
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Thu Nov 23 13:44:54 2017 +0100
+
+    Update note.md
+
+commit b1fa7d3320f4ad4bace72a5112c29358799d8201
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Thu Nov 23 13:40:17 2017 +0100
+
+    Delete mal for refleksjonsnotat gruppe PRO100 h17.docx
+
+commit 839f08854398f631b83c3f65139f2f1d9906616d
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Thu Nov 23 13:39:52 2017 +0100
+
+    Add files via upload
+
+commit 9949911df6dbe3d75c59009770731d7fdeb667ee
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Thu Nov 23 13:34:33 2017 +0100
+
+    Changed cloud sizes
+
+commit 3401303bd3cb320029dd7248203fa7dc7313d0b9
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Thu Nov 23 13:25:02 2017 +0100
+
+    smaler sun with different yellow.
+
+commit bb8778dd892288da8ad4453070721e03ada13539
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 23 12:44:20 2017 +0100
+
+    Update suksess.html
+
+commit 6ec3364a77afeb154f88778e7b62288031f87eed
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 23 12:28:30 2017 +0100
+
+    Update grunder2.html
+
+commit 90a2aafe381ff133abddef546be0fceafa14596a
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 20:35:34 2017 +0100
+
+    frontpage
+
+commit 944e222d33bfbba4a13e343b2ebfe48854f1affd
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 20:26:11 2017 +0100
+
+    frontpage
+
+commit 2c2f2838d31eef3a5c46e8dd75bf870209ca2305
+Merge: dd1ecf1 a730f79
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 20:19:52 2017 +0100
+
+    Merge branch 'master' of github.com:BlackCapCoder/future-webproj
+
+commit dd1ecf18b9ef8f1727e52706f91dc8d68c5a5ab1
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 20:19:44 2017 +0100
+
+    frontpage
+
+commit a730f790d183dfb85c5d10ea69e9f867f2718eda
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 22 20:19:43 2017 +0100
+
+    k2wrapper rounded corners
+
+commit 5ba62ea613cfef33e1e5e5cd94a5373a73aa348e
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 20:13:52 2017 +0100
+
+    frontpage
+
+commit ea1a4a16e796a3503a8dd9fe12a736d357cd95e1
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 20:03:40 2017 +0100
+
+    positioned box
+
+commit cdf02f420089083c6146a83972bbf8d320eb2d12
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 22 19:58:52 2017 +0100
+
+    Add files via upload
+
+commit c976bef30ab1f2e8e6101c84bc24e16ca6160c82
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 22 19:58:27 2017 +0100
+
+    Add files via upload
+
+commit ec128df149295743238af64c2f460a98d5c783e1
+Author: BlackCap <mailhph@gmail.com>
+Date:   Wed Nov 22 19:02:23 2017 +0100
+
+    Update note.md
+
+commit 4b6008e23969a97a926b3483f889d4d3018ccd0b
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 19:01:15 2017 +0100
+
+    added note
+
+commit 66a67c0a74f3556654004ab9aa1a13c8545cdd6b
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:27:24 2017 +0100
+
+    spam
+
+commit 7f4047ac7130990973a6d08747398842035a46fe
+Merge: af2968c 8e201a9
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:26:56 2017 +0100
+
+    Merge branch 'master' of github.com:BlackCapCoder/future-webproj
+
+commit af2968cf85702b3e929c2e97b4e9bdd9d49853f9
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:26:45 2017 +0100
+
+    spam
+
+commit 8e201a960dfafaf431f021f828f8e20a2a30faab
+Author: BlackCap <mailhph@gmail.com>
+Date:   Wed Nov 22 18:24:58 2017 +0100
+
+    Update grunder.css
+
+commit b287bc6106c1f0703c0c39a14bfb73de3d998957
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 22 18:22:48 2017 +0100
+
+    Update suksess.html
+
+commit bae541920f6737c2d9779b2b93d7a9312e9ed5ba
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:20:11 2017 +0100
+
+    spam
+
+commit 311b970d8ffb61a39746fa42683bd2dd9ba30c46
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:20:03 2017 +0100
+
+    spam
+
+commit 2223cf9678be02168e5def2f30d50f427241f7a2
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:19:58 2017 +0100
+
+    spam
+
+commit 3c55fc5a88f524d7ff03a6935748537b5659f4f4
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:19:55 2017 +0100
+
+    spam
+
+commit f1eafda8701ba3bb32fae40964e90f8f6e3a90b4
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:19:51 2017 +0100
+
+    spam
+
+commit 77bc0e77dbdf8fd435578214d16bde8cf931e248
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:19:47 2017 +0100
+
+    spam
+
+commit 5228220bc2f48c3901e34df295fba049667b80c4
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:19:43 2017 +0100
+
+    spam
+
+commit 70283e05a1068a6c82f737fda94fa07ee365d720
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:19:39 2017 +0100
+
+    spam
+
+commit 8fb6311a8999d05928d3746aded9f6f4a97f0b9e
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:19:34 2017 +0100
+
+    spam
+
+commit f622ae52acab509ab4e70b6bfe8784eb680f33f3
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:19:29 2017 +0100
+
+    spam
+
+commit f7239ea689ad81e23b91d918613962f624c58212
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:19:26 2017 +0100
+
+    spam
+
+commit ef5439c2fd0a1b6f31e9120dbfabe7df91bbe596
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:19:21 2017 +0100
+
+    spam
+
+commit f876d1700826d1452c3b9933ba0e0d84c1e34ea8
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:19:17 2017 +0100
+
+    spam
+
+commit f7b2db45371b85a7a13ef64425793d05478d2dd2
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:19:14 2017 +0100
+
+    spam
+
+commit c25036c4bbc95455c72505094bc941926eacef11
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:19:11 2017 +0100
+
+    spam
+
+commit 481735118548ff4ea4e3030ed0fce41bbc285fab
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:19:07 2017 +0100
+
+    spam
+
+commit c29866d945b8c18c25bf211907f4b95d2353a916
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:19:01 2017 +0100
+
+    spam
+
+commit d710f83e02c4d4f399e081d0dbdc5894bae38bbf
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:18:58 2017 +0100
+
+    spam
+
+commit 9ed1d501fad6a616ca6c2f058698028a7a1aae10
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:18:54 2017 +0100
+
+    spam
+
+commit b6670f719d53aaca9d8262eb1ac766d23bbcc153
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:18:51 2017 +0100
+
+    spam
+
+commit a43bc1489e6454b465dedb5c17fecbc0362e5f2c
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:18:47 2017 +0100
+
+    spam
+
+commit 94cb218dc320057920445bb0aae52e01def4384f
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:18:43 2017 +0100
+
+    spam
+
+commit 29b18cf86be9268950dba86270fe21cd504948ea
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:18:39 2017 +0100
+
+    spam
+
+commit e8bc137f37b815ebb835bb6b1b95e5b18f7e575b
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:18:36 2017 +0100
+
+    spam
+
+commit 7a3a293f7fcc88025aa44ea7f53522158eebac1c
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:18:31 2017 +0100
+
+    spam
+
+commit 69233ce9fdc344ea3a9a6da7265b1460ddea1ba6
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:18:28 2017 +0100
+
+    spam
+
+commit 536189b1fd8c707b9ae5d18cbfe165bf111272af
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:18:25 2017 +0100
+
+    spam
+
+commit 14fbf5614fc0626c8c97650e6ab75926fc6f6b96
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:18:21 2017 +0100
+
+    spam
+
+commit 1ad8a17554f3eeb6c6cabe0423e7286d4b7e3ce5
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:18:16 2017 +0100
+
+    spam
+
+commit 2692b9b7771c59e954383750bc68c5a2ec25a85f
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:18:13 2017 +0100
+
+    spam
+
+commit 69ca5ebfff9a56ecbb4f0c77f834301fa1a9aa25
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:18:09 2017 +0100
+
+    spam
+
+commit 3d2efd59f5237f642a676a5bdac1acf13c37e00f
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:18:03 2017 +0100
+
+    spam
+
+commit d7a6a12002028f44c51ae336ff903e84b6f03381
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:17:58 2017 +0100
+
+    spam
+
+commit 82c2e0561369651ade4e9f7068b3954128d78592
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:17:55 2017 +0100
+
+    spam
+
+commit 7126750fe61291d2d50f81f86d809c4b7ccad30a
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:17:50 2017 +0100
+
+    spam
+
+commit 5fc889e9691dd99835758b6169a6a59c705209d7
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:17:46 2017 +0100
+
+    spam
+
+commit 6aca5a5b4fcc3d3c2f84ed2a8dd3f9c53cde10c2
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:17:43 2017 +0100
+
+    spam
+
+commit 10247d2df5fcb0df96a1653050783e3b5ca2c829
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:17:39 2017 +0100
+
+    spam
+
+commit f1d1ce66193113220fdcdee9326c48aeb897f55b
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:17:35 2017 +0100
+
+    spam
+
+commit 6b16193a95f7c7e9ddeaa38e2ec9c8f0fdd122be
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:17:30 2017 +0100
+
+    spam
+
+commit 262f9e994d959ed045e3268f1f214a0fb1bbcd97
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:17:27 2017 +0100
+
+    spam
+
+commit ab9ce6059b0becce0f29cb5aace006b9f9b27732
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 18:17:22 2017 +0100
+
+    spam
+
+commit 80866caf9f5483e296df945c369b62922099e735
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 22 18:14:07 2017 +0100
+
+    Sexy k2wrapper
+
+commit bc3bf27fc0a2dfdc7989be5ec950da3465427b5e
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 22 18:12:34 2017 +0100
+
+    Added more text
+
+commit a65ffba3f7c8b61f4615fedd3b2d71beed1d14f5
+Merge: b4ea841 1a76970
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 17:57:26 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit b4ea8412a32ec0117db8a8bae7df5536f073a882
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 17:57:16 2017 +0100
+
+    cleaned html
+
+commit 1a76970932191c4c3d385e54bd1eff3ff6d004a9
+Author: BlackCap <mailhph@gmail.com>
+Date:   Wed Nov 22 17:54:15 2017 +0100
+
+    Update edu.html
+
+commit 0496015fa4dca10b5084166c3b6621fd5484f623
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 17:52:55 2017 +0100
+
+    lorem
+
+commit 896f5423ffbd9d5db3fb7d7eed76fe2e85915017
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 17:44:27 2017 +0100
+
+    cleaned css
+
+commit 9253545fa98aeffcf1b9a2dd7ce69ffa019d5842
+Author: BlackCap <mailhph@gmail.com>
+Date:   Wed Nov 22 17:37:37 2017 +0100
+
+    Update grunder.css
+
+commit 4046925df30108a28b8c2650b9cb8f3176db3d67
+Author: BlackCap <mailhph@gmail.com>
+Date:   Wed Nov 22 16:58:01 2017 +0100
+
+    Update edu.html
+
+commit befc29de6a25cd7ad39a83fa5eabd5e0a8ad46fd
+Author: BlackCap <mailhph@gmail.com>
+Date:   Wed Nov 22 16:57:44 2017 +0100
+
+    Update suksess.html
+
+commit 5a0d2f5513f6d3ebbb86144b49431bb109b12a3e
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Wed Nov 22 16:55:42 2017 +0100
+
+    Update edu.css
+
+commit b74d0d6367e8b1dbdc9b4cacd8376f5b72660a01
+Author: BlackCap <mailhph@gmail.com>
+Date:   Wed Nov 22 16:51:05 2017 +0100
+
+    Update grunder.css
+
+commit 29cf2d22d4cc183241e46256bc4d7881d495e0f7
+Author: BlackCap <mailhph@gmail.com>
+Date:   Wed Nov 22 16:48:47 2017 +0100
+
+    Update suksess.html
+
+commit 3d482106d502b4bcb5fbf136f24a85a67a390dae
+Author: BlackCap <mailhph@gmail.com>
+Date:   Wed Nov 22 16:42:37 2017 +0100
+
+    Update grunder.css
+
+commit 69506d6d1ff091ae107e8eec04f938fcb9bcd69c
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 22 16:42:01 2017 +0100
+
+    Moved g1button2 more up
+
+commit d557a5fc0806dc903bf172f8e018f6f610aabb16
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 22 16:38:50 2017 +0100
+
+    Moved up g1button2
+
+commit 7a65867bb96760c5b25335a8428dc7a685f5502d
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Wed Nov 22 16:24:45 2017 +0100
+
+    Delete TwoRoads.jpg
+
+commit e036accd6deb9ec6eb6c707c07c8756ed60be06a
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Wed Nov 22 15:50:45 2017 +0100
+
+    Update workstyle.css
+
+commit 6fd8558825d1b3defd1a9ef3164ba8da82ae6a1e
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Wed Nov 22 15:47:16 2017 +0100
+
+    Update jobb.html
+
+commit 14716b58b25cf0eb4a92db2b28e2c1598d73407e
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Wed Nov 22 15:46:05 2017 +0100
+
+    Update workstyle.css
+
+commit ae7532a8bbc6efebfb0fde5a13b3cd27a2f097a2
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Wed Nov 22 15:45:16 2017 +0100
+
+    Update jobb.html
+
+commit 82511c84f0ba63ee9ca4b411011b962c77024f93
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Wed Nov 22 15:44:57 2017 +0100
+
+    Update workstyle.css
+
+commit 35a977696bca2ee9195ff890ca15cd286952450c
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Wed Nov 22 15:44:32 2017 +0100
+
+    Update jobb.html
+
+commit 6a09f76e5c8d18e699db684c727007c49e525e61
+Merge: 78cdabe 309d673
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 15:43:24 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 78cdabefa1477d4df983a1781d82b64df97f3f58
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 15:43:11 2017 +0100
+
+    added keylogger source
+
+commit 309d6731331bcd325b9976d3dcf92b362b88e112
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Wed Nov 22 15:36:02 2017 +0100
+
+    Add files via upload
+
+commit a2e496c94bc2f0069d51203f1f24820463bcac8e
+Merge: e20b44b bdd83ba
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 15:32:38 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit e20b44b2365394665ab3dea3a7016be2d6ed4f5b
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 15:32:26 2017 +0100
+
+    moved css files
+
+commit bdd83ba4ee1a92c67d3d2d4e842fb56085537910
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Wed Nov 22 15:32:24 2017 +0100
+
+    Update jobbNatt.css
+
+commit f94efdb6f4b5d9ae023dc70d0e547df7351e5b52
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Wed Nov 22 15:30:25 2017 +0100
+
+    Update jobbDag.css
+
+commit b1f6e7379d2e20ed1a6314d476deb22e976bd9a2
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Wed Nov 22 15:27:48 2017 +0100
+
+    Update jobbDag.html
+
+commit 9b77fb5d87fd03d40191cf2e61e05f3818752b43
+Merge: be535e8 944870e
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 15:27:00 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit be535e8636e3d9d9fa686090014e73398465a147
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 15:26:54 2017 +0100
+
+    moved css files
+
+commit 944870e7f0a5913c42aceba00db8191925cd40b7
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Wed Nov 22 15:26:37 2017 +0100
+
+    Add files via upload
+
+commit 60cca9b127e00802e6b1c7ef06c7c5b141cb274b
+Merge: 9835b30 3865f13
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 15:23:19 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 9835b3085067ea913f7bc081423d37781055ca6c
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 15:23:11 2017 +0100
+
+    art gallery
+
+commit 3865f13b7de6edfb60601da2672c3d1514640526
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Wed Nov 22 15:20:11 2017 +0100
+
+    Update art.html
+
+commit c2f9e9ed7ebb9b95c44ccfde58a69713173c37ac
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Wed Nov 22 15:19:31 2017 +0100
+
+    Update art.html
+
+commit 0df2f2615c5109d3b33ce119afb2e09761b1f5e8
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Wed Nov 22 15:18:56 2017 +0100
+
+    Update art.html
+
+commit 70318a40639cfa10ac6927ef6cbc45fdb3870e09
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Wed Nov 22 15:17:38 2017 +0100
+
+    Add files via upload
+
+commit 77c8ac9960177a6fcf9f7761814f1fa60e5243e3
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Wed Nov 22 15:15:57 2017 +0100
+
+    Update edu.css
+
+commit 69a9719d99ce0d1d6287e6232d8a9c28d8280391
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 15:11:53 2017 +0100
+
+    compress
+
+commit 6ff068fa1cc44b8c775242303aa1e49283deeca1
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 15:05:54 2017 +0100
+
+    btns
+
+commit 00500a844e67811bb06968e3ecd28488ef55ddc1
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 15:02:11 2017 +0100
+
+    sound
+
+commit edcea3a477332af6d0b61b1d35fa2b13e673a7a9
+Merge: 682079c 5a6f054
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 15:00:56 2017 +0100
+
+    btns
+
+commit 682079c35fe4fc3401c76968b48e6d14ee9e43c8
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 14:59:59 2017 +0100
+
+    btns
+
+commit 5a6f0549f2be2614ace6d373f7394775eaa08c9e
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Wed Nov 22 14:59:35 2017 +0100
+
+    Update suksess.html
+
+commit befdd7992892e5c6a3eb44357f75467f4559a5cf
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Wed Nov 22 14:58:44 2017 +0100
+
+    Update edu.html
+
+commit bf9eebd6f81253d3bc12634f1eda66418d753cc9
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 22 14:55:15 2017 +0100
+
+    Added buttons for continue play
+
+commit e9d50922512b4125655af4fc53e82446a3638153
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Wed Nov 22 14:54:00 2017 +0100
+
+    Add files via upload
+
+commit df68bf0f1a72729fe4824e2804c499018abc6fc7
+Author: BlackCap <mailhph@gmail.com>
+Date:   Wed Nov 22 14:39:52 2017 +0100
+
+    Update art.css
+
+commit 32cf4c8aff519febfb75720b345d32ba6b5fa50f
+Author: BlackCap <mailhph@gmail.com>
+Date:   Wed Nov 22 14:38:42 2017 +0100
+
+    Update grunder.css
+
+commit 702762dc0f39afcc5abfa25af36fbb8cd8ff809a
+Author: BlackCap <mailhph@gmail.com>
+Date:   Wed Nov 22 14:32:50 2017 +0100
+
+    Update grunder.css
+
+commit fd367076b050e349658b8d55054f87e37006adce
+Merge: 57fe730 2a10e54
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 14:29:53 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 57fe7304b8d602d01cf3dcb9761a3615fc563813
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 14:29:48 2017 +0100
+
+    night text
+
+commit 2a10e5458c4b9377fb35abf73e7963dd0e2f3382
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 22 14:29:18 2017 +0100
+
+    updated k2wrapper 2.0
+
+commit 71d6bb25b1942723f12350034a8804205b74a200
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 22 14:27:45 2017 +0100
+
+    updated k2wrapper
+
+commit 79680c503b2eb38727152271641578f7c53a5f07
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 22 14:24:11 2017 +0100
+
+    center text 2
+
+commit 4d5bc9923b986253c1026ba06bafd6f571eefca2
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 22 14:23:04 2017 +0100
+
+    added tag to h2
+
+commit 114dd487f4358a47190807952384e59f23454b6c
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Wed Nov 22 14:22:41 2017 +0100
+
+    Update edu.html
+
+commit ab1afe9162f318bed57f094253c7de2cbc47799b
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 22 14:21:30 2017 +0100
+
+    center text k2
+
+commit 03f4d436b97b4406c162d15b89ac2f7f3aa644de
+Author: BlackCap <mailhph@gmail.com>
+Date:   Wed Nov 22 14:19:34 2017 +0100
+
+    Update grunder.css
+
+commit 030a28d1d437429595eb408b7f61bfc593fa0746
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 22 14:17:24 2017 +0100
+
+    g2 -margin
+
+commit d5b995f8a7cfd33dce20485160b04330f924fbde
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Wed Nov 22 14:16:50 2017 +0100
+
+    Update edu.css
+
+commit 6049431ee8deb237c2e0c10f4258dfa6ac0f0d9c
+Author: BlackCap <mailhph@gmail.com>
+Date:   Wed Nov 22 14:15:22 2017 +0100
+
+    Update common.css
+
+commit b23eb23202cc270f927a0f700741a2159d658a8d
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Wed Nov 22 14:14:22 2017 +0100
+
+    Update grunder.css
+
+commit 1cc8c7579ee6a9d8d85f4f6ca9c5ad65437d08c9
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Wed Nov 22 14:11:47 2017 +0100
+
+    Update grunder.css
+
+commit d87d1275e624d86316029509cc44b48c1345d508
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Wed Nov 22 14:11:43 2017 +0100
+
+    Update edu.css
+
+commit c51adf893b1e2ee581ee9089ddc5e7b990128120
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Wed Nov 22 14:11:19 2017 +0100
+
+    Update styleindex.css
+
+commit 1d3aa0354842475cb9c240b350afdfc0c13d4ce2
+Author: BlackCap <mailhph@gmail.com>
+Date:   Wed Nov 22 14:11:17 2017 +0100
+
+    Update common.css
+
+commit 45b6dbb232b98f7849c004702001fc82de62f2fb
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Wed Nov 22 14:10:53 2017 +0100
+
+    Update forside.html
+
+commit 85a098fb86fab028b3c21b71ca01d2dc18412d3b
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Wed Nov 22 14:09:27 2017 +0100
+
+    Update edu.html
+
+commit dec963b12a680c2c277dbd501f5c39816eb5c1b8
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Wed Nov 22 14:09:24 2017 +0100
+
+    Update styleindex.css
+
+commit 2c637fa47cd0cd6a274d1508b9a81024d6cfff41
+Merge: 95a381f 932b9c7
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 14:08:41 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 932b9c7e2c04adad00d9d6c195ab50e0bc5f953c
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Wed Nov 22 14:08:34 2017 +0100
+
+    Update styleindex.css
+
+commit 95a381f775a4150c9e8c17a36ca058dfbc6e7aeb
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 14:08:33 2017 +0100
+
+    night
+
+commit b29da1a898d8b60a0eec587dec79d4e81fe431d6
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Wed Nov 22 14:07:55 2017 +0100
+
+    Update grunder.css
+
+commit 77c82f86a4ca69fc906d6b5aa700c3b725af2aa4
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Wed Nov 22 14:07:45 2017 +0100
+
+    Update styleindex.css
+
+commit 3b83a6fee6c56116cbbd9218292647533808491d
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Wed Nov 22 14:06:22 2017 +0100
+
+    Update forside.html
+
+commit 0cb8ffa06bc8973ec8553ce6d172b800a3c2817f
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Wed Nov 22 14:05:57 2017 +0100
+
+    Update grunder2.html
+
+commit 94ee41e31c7cbdc3108e0ffa09493587765ab255
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Wed Nov 22 14:04:51 2017 +0100
+
+    Update forside.html
+
+commit 7631beaf93e137475eae5a67794266dcef15ea4e
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Wed Nov 22 14:04:33 2017 +0100
+
+    Update grunder.css
+
+commit c2eda611691870e65d2e96ed5ad944d803797536
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Wed Nov 22 14:04:31 2017 +0100
+
+    Add files via upload
+
+commit b4fa6044ebfcc3a27b33827d3d8c9637c940faed
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Wed Nov 22 14:03:57 2017 +0100
+
+    Add files via upload
+
+commit 407099a65574ce2819391c3b776a89348aad8878
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 22 14:00:57 2017 +0100
+
+    Changed k2wrapper
+
+commit e245bc9692b4f709720dc2ee9d19592a427c7934
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Wed Nov 22 13:57:34 2017 +0100
+
+    Update edu.css
+
+commit 3bb4161ca1c650627da4b3aabf713d0dcc73fa7f
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Wed Nov 22 13:55:59 2017 +0100
+
+    Update edu.css
+
+commit 7a10ea9d08559f5d1b5e7e00fb66fdc1051bca42
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Wed Nov 22 13:49:36 2017 +0100
+
+    Update edu.css
+
+commit 452ed77b2ce904470148c801d96d1487f45f509d
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Wed Nov 22 13:48:17 2017 +0100
+
+    Update edu.css
+
+commit d25901ffd2d15ebeb2cbd48c87dda6fbe260edd8
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Wed Nov 22 13:47:14 2017 +0100
+
+    Update edu.html
+
+commit ec1baaf189faae83a4ef8cf186bce6a80e94d19a
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Wed Nov 22 13:42:45 2017 +0100
+
+    Update konkurs2.html
+
+commit 43ea3e4b07f33ffaba90af69986cb9a95f1de337
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Wed Nov 22 13:36:48 2017 +0100
+
+    Add files via upload
+
+commit 010dd91a2b246f5973db239ca1d5fbcf84c3b5dc
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 22 13:35:44 2017 +0100
+
+    More rounded corners on person
+
+commit 447a064534e539087eecb99167d399b07df2654c
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 13:35:25 2017 +0100
+
+    moved text
+
+commit 1cd7700779e8b152284fdccdcf979ad7f32def5b
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 22 13:32:20 2017 +0100
+
+    Made round corners on person
+
+commit 559d45c6deb5eed04fe138db80111acf3b54c0b0
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Wed Nov 22 13:32:03 2017 +0100
+
+    Delete domstol.png
+
+commit 12b051322eaba771fa748fd1953d850cc9eb98cf
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 13:31:24 2017 +0100
+
+    bugfix
+
+commit dc21237e8ac68b634ee4eb164a46b76c68ed06aa
+Merge: 323918c 7596adb
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 13:30:36 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 7596adbf4114a19de5d520f71cae338872479764
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Wed Nov 22 13:30:14 2017 +0100
+
+    Update grunder.css
+
+commit 323918c329cecd6ebf23e8c5e84ae742299c7739
+Merge: c418c27 9e67e14
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 13:30:13 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit c418c272e6a44a438de4f9e7e8c754dea747ab84
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 22 13:29:51 2017 +0100
+
+    tumbleweed
+
+commit 9e67e14235679e8382a773c723f72d8fcf8af956
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Wed Nov 22 13:29:28 2017 +0100
+
+    Update IT.html
+
+commit eda1ce8c0b858ee3338b7c87e5c95ec1e7fcef59
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Wed Nov 22 13:29:12 2017 +0100
+
+    Add files via upload
+
+commit d08ef88302ef7723fcdacfbb27c3aa1d2120c439
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 22:33:38 2017 +0100
+
+    Update common.css
+
+commit 319d17dd85a426ca6510c1b2589245e3d9bf44fe
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 22:29:40 2017 +0100
+
+    Update common.css
+
+commit d408116303db1bb6663b805a612dea3e1af37924
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 22:26:29 2017 +0100
+
+    Update common.css
+
+commit 2d44df70ccff74760cf1839e40fae4e084d32659
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 22:25:43 2017 +0100
+
+    Update common.css
+
+commit ccf15a6dda2e85d038b6d25a5d9efa0c665393f8
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 22:21:02 2017 +0100
+
+    Update common.css
+
+commit d8cd0ff2f226a827a59e8642f2b88dd0ff7f6148
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 22:13:57 2017 +0100
+
+    opinionated design changes
+
+commit a1c89352fe4783f84b1660cc67e9b43d1b2de1d1
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 21:50:44 2017 +0100
+
+    opinionated design changes
+
+commit 146f1577762ee4382ea83ee4f530af5c146b8913
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 21:47:39 2017 +0100
+
+    opinionated design changes
+
+commit db63e01b504c74653a7f2056bf30ae83d03f9467
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 21:15:27 2017 +0100
+
+    opinionated design changes
+
+commit b29a94dae49a08b5506cfb1c8718d11c937a4ae6
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 20:53:02 2017 +0100
+
+    opinionated design changes
+
+commit ec1837f924ed0da84e5952eeabe5de0d5657f75f
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 20:49:03 2017 +0100
+
+    opinionated design changes
+
+commit 8164d5178b216ee0e6ddc9100b322181c4ff907a
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 20:30:05 2017 +0100
+
+    opinionated design changes
+
+commit 48bcd7b398d0231fc73e45e4df2affc8d05f4531
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 20:28:28 2017 +0100
+
+    opinionated design changes
+
+commit 870b47f109bed80b1441fce17de80ccebfec7811
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 20:26:05 2017 +0100
+
+    opinionated design changes
+
+commit d3dcae201ffe1034682fb8a957ba750fda34edfd
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 20:14:18 2017 +0100
+
+    thumbs
+
+commit f79860804f1df2e9c4062a813e82b62ffbf64b6a
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 20:08:14 2017 +0100
+
+    Removed bottom on g1button2
+
+commit 83cfdefe94d55673ae4747144287c790490b66de
+Merge: 56159cc 705e1b0
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 20:04:26 2017 +0100
+
+    sunset
+
+commit 56159cc0f557e42f983a8beb05b172c2008a020a
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 20:03:42 2017 +0100
+
+    sunset
+
+commit 705e1b001634a5e90d5670753b39428174819c83
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 20:02:52 2017 +0100
+
+    Removed comments and move g1button2 to the left
+
+commit ca5c1ed2e129ef784a4f283faf57594acde36da4
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 19:55:43 2017 +0100
+
+    fixed konkurs2
+    
+    added k2background
+
+commit 9bb1aecab12a5176ce2b8b6db87431ac41569b27
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 19:54:04 2017 +0100
+
+    added k2background
+
+commit 535a0b68b6d8f90b6eba8801c1e50950903296b5
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 19:46:43 2017 +0100
+
+    lorem
+
+commit 5ab86a8ee8cf2b8243127c854fb2a7461c9fe4c9
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 19:41:31 2017 +0100
+
+    lorem
+
+commit 02468585dd7c9015cf487479b6b1fc01ee6dfa9c
+Merge: ea641ae ec1f7b1
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 19:39:17 2017 +0100
+
+    lorem
+
+commit ea641ae8a0776a3e72aa5717eb900b2a12867792
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 19:38:00 2017 +0100
+
+    lorem
+
+commit ec1f7b11798d6c6881d1c8ea3e8d9d19a5695681
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 19:36:36 2017 +0100
+
+    added sbackground
+
+commit 4ceb7d65ace85c9de0a34198d4c6fb0224f4d594
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 19:35:27 2017 +0100
+
+    added tag sbackground
+
+commit 21bcf8d0a7e4ed5d62b40d8439d64d2e53d3a5b6
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 19:23:59 2017 +0100
+
+    clip-path galore
+
+commit aaaff01ddb47465ff19332f021c56980000f13fe
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 18:53:08 2017 +0100
+
+    design fix
+
+commit d21c33a5cda4d1960628541f40cf1fe43dcf3985
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 18:49:42 2017 +0100
+
+    design fix
+
+commit 797a68e57d9c63c4d886a19610427195fae08a34
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 18:47:58 2017 +0100
+
+    deduped code
+
+commit 3cae41a30c9e803190dffa164619bf277cf8dedf
+Merge: 47814ed 11c3251
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 18:41:33 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 47814ed67b8b0c15e2fd2643cdfa96665d3c2dc8
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 18:41:30 2017 +0100
+
+    button designchange
+
+commit 11c32514d6f9d800410c322e624fec4da015087f
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 18:39:02 2017 +0100
+
+    Update edu.html
+
+commit 62e166710f4f2e18d4f9ed5ddbb123ee0e259737
+Merge: dae5fce d5e404a
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 18:35:15 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit dae5fce25da09affb407ef1263fafe15e0207f71
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 18:35:06 2017 +0100
+
+    fontchange in common
+
+commit d5e404a4e67f0ed542085cbb700ab0a1996995ba
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 18:34:13 2017 +0100
+
+    fixed computer and bobross
+
+commit 8fc0de6d4b17dfcf73e6d94c6bdd978b8169ff76
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 18:33:37 2017 +0100
+
+    working on the it branch
+
+commit 7c53721ef0b7341e02676c369a4bb35d1c34ed70
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 18:32:00 2017 +0100
+
+    working on the it branch
+
+commit 78a8ae7d2be6c6a189279ceb209a84031e5ed38f
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 18:30:07 2017 +0100
+
+    lorem
+
+commit 8bc1089266a8f7ccf1be8629c73516033d468944
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 18:27:57 2017 +0100
+
+    lorem
+
+commit 95cd59744115024178b115abf05f5d76180c09cb
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 18:24:49 2017 +0100
+
+    Update edu.html
+
+commit 2886b2190aba29719768863c256a4f99e6986ca6
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 18:17:29 2017 +0100
+
+    Update common.css
+
+commit a831647d22570815f17f0b1564c59c3344ae0b81
+Merge: 20abe75 8f9e987
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 18:14:42 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 20abe75f8852bdcb3dbfe5143ff2baf48dbc904f
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 18:11:04 2017 +0100
+
+    Revert "Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj"
+    
+    This reverts commit 3842036c3ba62ecb44770215aa8c715c8a1d2dee, reversing
+    changes made to 20681e6a099677ea3c193f254a307ffb15665af5.
+
+commit 8f9e987564db1673c3f1f2fa0ff144fc37accbe1
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 18:08:48 2017 +0100
+
+    fixed waves
+
+commit 3842036c3ba62ecb44770215aa8c715c8a1d2dee
+Merge: 20681e6 1c09837
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 18:02:08 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 1c09837bc484ac7ebbc09f87e59125c5ef6ac002
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 17:54:43 2017 +0100
+
+    lorem 2
+
+commit 31b698679c090d13bdf59df07193b48f49e10415
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 17:51:39 2017 +0100
+
+    lorem
+
+commit f0488be98a2330ee624f39b7107a3f2b98cf697c
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 17:47:15 2017 +0100
+
+    computer:hover
+
+commit c1de1d764a4d8c4525a273bd3b056e9b40e1c6c0
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 17:43:06 2017 +0100
+
+    Update edu.css
+
+commit 20681e6a099677ea3c193f254a307ffb15665af5
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 16:08:10 2017 +0100
+
+    lorem
+
+commit 117f94317c66d7f7d255ce5d55d0dd6063c6950e
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 15:33:54 2017 +0100
+
+    Update edu.css
+
+commit 9313fb5f9316f218eff877881ce1acfe8a50707d
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 15:30:28 2017 +0100
+
+    lorem
+
+commit 859851ba050eed8a359bf01534eee3542d2136f4
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 15:28:35 2017 +0100
+
+    gif image to suksess
+
+commit e56c73dca815af7f9494b59250634f03300b2ee6
+Merge: 53f2f96 9ab9c22
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 15:27:06 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 53f2f963827f6cf0156cb112d0c8480c9df8d959
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 15:26:55 2017 +0100
+
+    lorem
+
+commit 9ab9c22b958dde6303723f5452067a5954b4316f
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 15:25:45 2017 +0100
+
+    suksess fgif
+
+commit 19686923329251861f82cde1c4deb7da0a9804b0
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 15:22:41 2017 +0100
+
+    lorem
+
+commit 657155fa699f6d8fdbe701fdfe89234b4d134c81
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 15:18:39 2017 +0100
+
+    Update edu.css
+
+commit 81df000f875cfd54c7d3a9ba759f3219974e4bfc
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 15:18:22 2017 +0100
+
+    Update grunder.css
+
+commit 6bdb3e402fb18916ec4b4ab8a274d6f9a3d4752d
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 15:16:00 2017 +0100
+
+    Update edu.css
+
+commit 4b806964dc293fce29e32cf44e13b80816f65284
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 15:14:32 2017 +0100
+
+    Update edu.css
+
+commit 230d05e1178f68dc3d47266f97650d08b4513bf1
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 15:14:19 2017 +0100
+
+    Update grunder.css
+
+commit e29165bf6c7bc2e24ba5ac6e1a554a5f032607b5
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 15:12:37 2017 +0100
+
+    Update edu.css
+
+commit 75c9c053e2b687451be8f9d60de10848c65ad736
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 15:12:33 2017 +0100
+
+    Update grunder.css
+
+commit 1b153f3d334ad4533bab2e07886e7dfedc4bc80e
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 15:11:48 2017 +0100
+
+    Update edu.css
+
+commit d296f26e0e025334c18e2a95843393b9c7c15b23
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 15:10:41 2017 +0100
+
+    Update edu.css
+
+commit 6c074ebb919cdb236b070c9b9550855af9ac6e34
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 15:09:27 2017 +0100
+
+    Update it1.css
+
+commit ac8f08766150616ee88345ed6b3bf99ac238a175
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 15:09:16 2017 +0100
+
+    Update edu.css
+
+commit 3ccd6e4f9ce0fd7c584294b45be1e05b5e755f78
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 15:08:03 2017 +0100
+
+    Update it1.css
+
+commit 55394b2f2e8fa81311547ef8bff166509336fe52
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 15:06:41 2017 +0100
+
+    Update it1.css
+
+commit 7d2afe8203ae2bea5c669c17129bad29627bdcff
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 15:04:43 2017 +0100
+
+    Update edu.css
+
+commit ef4036f54880c44d0c4f4e3aafa4876236f904a3
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 15:04:22 2017 +0100
+
+    Update IT.html
+
+commit bd457af181e4b73b66ac462927e5307f6d74d78b
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 15:04:14 2017 +0100
+
+    fixed tags
+
+commit 224dc53afc10783d62fde8dffe8bb304da29fd95
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 15:03:49 2017 +0100
+
+    Update it1.css
+
+commit a7b1b3e0e449b9bedad6b3904fc5362b10a66f77
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 15:02:34 2017 +0100
+
+    Update edu.css
+
+commit a5f4673ce03603308609be55db64629ad824406f
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 15:01:15 2017 +0100
+
+    Update it1.css
+
+commit 40968e6e0e48abb921a3a18ccffc141c884e9895
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 15:01:12 2017 +0100
+
+    removed -webkit
+
+commit a6f97b3c85aba6a35c32ff9b2347974980ae13ef
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Tue Nov 21 15:00:59 2017 +0100
+
+    Update edu.css
+
+commit cf9cd39013e20395c26c182ad69c3b8eddad4275
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 14:59:42 2017 +0100
+
+    Update edu.css
+
+commit c3457590400058ee09309d732fe0501035284937
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 14:58:19 2017 +0100
+
+    Update edu.html
+
+commit 9d042c1ebd6bcb75f54bffd8f21d7afe6728add2
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 14:57:56 2017 +0100
+
+    Update IT.html
+
+commit 0f0e51341a229f7a2de1e9bb610d0a3c677f98ba
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Tue Nov 21 14:56:40 2017 +0100
+
+    Delete Bankruptcypng.png
+
+commit 2fbe30fa761160057d8a7122f3f2b5b2e2523a25
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Tue Nov 21 14:56:30 2017 +0100
+
+    Delete Bob Ross.png
+
+commit 3db029adbffcff9d4b0946f7f050b04ef6359f45
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 14:55:16 2017 +0100
+
+    Update edu.css
+
+commit 44bf45e7e5c431d74fa7135439a948d459153b21
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 14:53:07 2017 +0100
+
+    updated button k1
+
+commit 8cae064d89de571e97b61be1d937091224ad18f1
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 14:52:32 2017 +0100
+
+    Update edu.html
+
+commit fd3f31be8d99b581d08693c2c77412abb5123e98
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 14:52:18 2017 +0100
+
+    Update it1.css
+
+commit 24ee90b7895f6d6cce558c76be605a3a8a61a6a0
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 14:51:43 2017 +0100
+
+    Update IT.html
+
+commit a61b6813c48a52d4b6f61b4d6fb0d8d24e1b0900
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 14:50:52 2017 +0100
+
+    Updated k1
+
+commit 9d9295f100bbc244750dc1c816b94caf3941dfc6
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 14:50:50 2017 +0100
+
+    Add files via upload
+
+commit b807a880d5554dd73c29635a043e60808f7894ce
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 14:49:44 2017 +0100
+
+    Add files via upload
+
+commit a63355ff548132a6a836b8b9b896af4ae7669107
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 14:47:08 2017 +0100
+
+    Update grunder.css
+
+commit f8d370097ca9aad3aa1c9a82dd8990e10e00f414
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 14:46:42 2017 +0100
+
+    Update grunder2.html
+
+commit 578f23389f37d0019ca559d3cf8247454b137087
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Tue Nov 21 14:44:33 2017 +0100
+
+    Update grunder.css
+
+commit f83617e587d3162d085eb4905b6d3cea640b5d6d
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 14:43:51 2017 +0100
+
+    changed button location grunder1
+
+commit a734069bc6cb728c40ce0e338f5cc90403b40589
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Tue Nov 21 14:40:08 2017 +0100
+
+    Update grunder.css
+
+commit c82ae57e4993dcabf8676b19b9939f6ed80379f3
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 14:38:22 2017 +0100
+
+    Update edu.css
+
+commit 3dff26e5ce1e143358ee74275d06475f3a8502e6
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 14:38:01 2017 +0100
+
+    grunder1 updated teamtalk
+
+commit a725b3f61203f5f12ee0e46f9461c27443736a71
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Tue Nov 21 14:36:32 2017 +0100
+
+    Update grunder1.html
+
+commit 988b0a7e97a291b93745b85ac989107faf5c9bbd
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Tue Nov 21 14:35:29 2017 +0100
+
+    Update grunder.css
+
+commit c1904bcc023590ab5bd5bfa42468db4da7280b96
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Tue Nov 21 14:35:25 2017 +0100
+
+    Update grunder2.html
+
+commit 80a248b84839849d10f704331c5c0ef34e169ecc
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 14:01:14 2017 +0100
+
+    Update edu.css
+
+commit 800bd18202dcb08b7c4e7ab067c8f9204f5bc361
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 13:58:13 2017 +0100
+
+    Update edu.css
+
+commit 481c81492a79a09c0b2793e18a8e91116e2945e2
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Tue Nov 21 13:56:19 2017 +0100
+
+    Update konkurs1.html
+
+commit 84a0ddedb9d2304c90e9903a2b0192573b9a6510
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Tue Nov 21 13:55:52 2017 +0100
+
+    Update grunder2.html
+
+commit 42f83916b3d36a2b5b7b44c452be884906e2a46e
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Tue Nov 21 13:55:26 2017 +0100
+
+    Update grunder1.html
+
+commit 7cbfeafa33e1f3cf3c0737f48e89a959b3b15526
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 13:55:23 2017 +0100
+
+    Update edu.css
+
+commit 7740c9cbd984d9ea496421b45d9523a26b4d6bd0
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 13:54:16 2017 +0100
+
+    Update common.css
+
+commit 7d7383308c352d50d5f0792d196a9c7da1cf0c56
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 13:51:59 2017 +0100
+
+    Update common.css
+
+commit 71f2b89c6d92344dc82fb0b06ce408da3366b1ea
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Tue Nov 21 13:50:08 2017 +0100
+
+    Update edu.css
+
+commit ed16d2680965ef20bc56babd9d824a49b542e39d
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Tue Nov 21 13:48:19 2017 +0100
+
+    Update edu.css
+
+commit 563272b0a99afe1c03d998f100e37bafb5df5212
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 13:46:28 2017 +0100
+
+    added image konkurs2
+
+commit 7c6204fea0eb84000f42caf8fa2e9783327d40cc
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 13:45:20 2017 +0100
+
+    added image
+
+commit 024e9a6094cb1b91e5e47ddf5b2fd2efe2691562
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 13:44:24 2017 +0100
+
+    konkurs2 image
+
+commit 3d02e71e06eea0e79378a08b40a526e2f0cb2dd9
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 13:43:05 2017 +0100
+
+    Update edu.css
+
+commit 6f97419c3737b435a8ec97bfc0d24ff0b1dc197f
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Tue Nov 21 13:40:53 2017 +0100
+
+    Update edu.css
+
+commit ebe1a781bb2337aaea6ffc3c43179c7a88b65e75
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Tue Nov 21 13:40:23 2017 +0100
+
+    Update edu.css
+
+commit 808cc423e8a589d59c02949232cf22ca5f659e47
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 13:40:03 2017 +0100
+
+    Update edu.css
+
+commit 0975f768e3638f04de7a54dffefdb6ab16f97f85
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Tue Nov 21 13:38:46 2017 +0100
+
+    Update edu.css
+
+commit 76bae66f71db539d9b4a80590407ad9ee9dd50b7
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 13:38:03 2017 +0100
+
+    Update edu.css
+
+commit 0b04350c46ce23e55ad1de283b5145319aeab70d
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 13:37:02 2017 +0100
+
+    Update edu.css
+
+commit 66286854fcf64980c4ae617bcfe86fbbce89d0cc
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 13:35:38 2017 +0100
+
+    Update edu.css
+
+commit 6354bf7b481e33233595873924df2b86ae317e4d
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 13:34:57 2017 +0100
+
+    Update edu.css
+
+commit e25cde9b992215a1a0924ed4de9f89370f1fd7ed
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Tue Nov 21 13:33:28 2017 +0100
+
+    Update edu.css
+
+commit b21984f18e2945e2d9bfc62e6620a7f9f59a64c6
+Author: BlackCap <mailhph@gmail.com>
+Date:   Tue Nov 21 13:32:26 2017 +0100
+
+    Update grunder.css
+
+commit 5290fd2cd83d3a030e1f69a861696eb08406f3f2
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 13:23:36 2017 +0100
+
+    Added animation to the yacht
+
+commit f936cabbb15d766d2e1e385cc4c36ff9f4c2844c
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Tue Nov 21 13:18:16 2017 +0100
+
+    Update grunder.css
+
+commit e743b727950ac34a48fdbc6850dda0b55b972e18
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Tue Nov 21 13:16:48 2017 +0100
+
+    Update konkurs1.html
+
+commit 644c345a650f7342f4f5582cc566e217e59ee6fa
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 13:15:36 2017 +0100
+
+    correct image
+
+commit c169806125bff01ade9c5b54fa2d6460eb14d091
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 13:12:40 2017 +0100
+
+    Removed background color on konkurs1
+
+commit 685344e524f3047f16a69312d8b5505fc63dce79
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 13:11:47 2017 +0100
+
+    added back full picture konkurs1
+
+commit 3e5e1bace8e47512618e0d0acfa2b0933e6358a0
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Tue Nov 21 13:11:06 2017 +0100
+
+    Go back to first version without diagonal picture
+
+commit d98c474b5f63bd32ccf7941316dd8605038402e4
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Tue Nov 21 12:19:48 2017 +0100
+
+    inverted images
+
+commit 8faba22e7e00563b2e89d3c98207d7a74e74c934
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Mon Nov 20 15:37:43 2017 +0100
+
+    Update jobbDag.css
+
+commit 9ad263e675c66c975ea9463d835766eb6c439604
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 15:37:28 2017 +0100
+
+    Update grunder.css
+
+commit 0ed5bf8cca803ab879779b250e600d82931dce54
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 15:36:47 2017 +0100
+
+    Update grunder.css
+
+commit 3f9bad4333030ac9d6aa8db3eb3a876ac3f4462e
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 15:36:19 2017 +0100
+
+    Update grunder1.html
+
+commit 9e697786c2f714b7f9132c21ecd30d86ce79ff8e
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Mon Nov 20 15:34:48 2017 +0100
+
+    Update edu.css
+
+commit f2e19742b41d2d53796508caa0a307e77b173416
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 15:33:27 2017 +0100
+
+    Update grunder.css
+
+commit cca23d5eb2aece5e48f451d12a0787087f5551de
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Mon Nov 20 15:33:07 2017 +0100
+
+    Update edu.html
+
+commit cf60fa7673a3dc137b79f0d78bdcbaac095b3fd3
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Mon Nov 20 15:31:33 2017 +0100
+
+    Update edu.css
+
+commit 051d2b80f55f590247669b319318305455f35253
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 15:30:28 2017 +0100
+
+    Update grunder.css
+
+commit 71d781ea1adecbeab05dd064c87efc7cac83db56
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Mon Nov 20 15:30:22 2017 +0100
+
+    Update edu.html
+
+commit d4752f92c585e3950abc054d49cb288a3889dcc9
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 15:29:39 2017 +0100
+
+    Update grunder.css
+
+commit 5468cedeb47461b2505a4a6e34ea384ab2d67fbd
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Mon Nov 20 15:29:10 2017 +0100
+
+    Update edu.html
+
+commit b394e41ee58c0718a1a42d5d6cb68f5c2b192c98
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Mon Nov 20 15:28:17 2017 +0100
+
+    Update jobbDag.html
+
+commit fbc0fd051c3c6554930797901a1b57a8b5f18273
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Mon Nov 20 15:28:03 2017 +0100
+
+    Update edu.html
+
+commit be95f46cec77fc7968b9b7358a11d6a10e76b682
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Mon Nov 20 15:27:55 2017 +0100
+
+    Update jobbDag.css
+
+commit d7821ad1481ab3045f49ed490084efe2c8604f86
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Mon Nov 20 15:26:23 2017 +0100
+
+    Add files via upload
+
+commit d4e90d02747f9c01aadf77503290f7106fe97843
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 15:25:47 2017 +0100
+
+    Update grunder.css
+
+commit f361d7bdd87ba12ec48045d46a1530e19ed4a635
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 15:25:07 2017 +0100
+
+    Update grunder.css
+
+commit ca4d1f4f483b8182ee8b65cd49ff37ea735afd2a
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 15:23:31 2017 +0100
+
+    Update konkurs1.html
+
+commit 0363c1d2c3b31e27e1d361f877c5d910e46ba83e
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 15:23:06 2017 +0100
+
+    Update grunder.css
+
+commit 9f494745a6da630ae7674cb3eed0d8a6f5ed37ef
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 15:21:30 2017 +0100
+
+    Update grunder.css
+
+commit 9e9606a62048e5360a98679a9384ebe385bacf2e
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 15:16:46 2017 +0100
+
+    Update konkurs1.html
+
+commit 0bcee50c27c38621ceb359ce05c42dbe78ab341f
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Mon Nov 20 15:12:52 2017 +0100
+
+    Add files via upload
+
+commit 578deb61a6da79de4880e508a5f4e4cf41a62300
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Mon Nov 20 15:01:07 2017 +0100
+
+    Add files via upload
+
+commit 68413c241ac91eb41746a9efd8a86eebfb8b0d37
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 14:58:22 2017 +0100
+
+    Update grunder1.html
+
+commit fe3361f1e39dccef052c305519abed14d582755d
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Mon Nov 20 14:56:52 2017 +0100
+
+    fixed grunder.css
+
+commit b2213d0ec98cc70b68739883b9da937d1a07a9ae
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Mon Nov 20 14:53:52 2017 +0100
+
+    added # to tags
+
+commit 2b17e39261bfbea984cf3c9cd8dfbc9c0f0d1835
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Mon Nov 20 14:49:10 2017 +0100
+
+    added image to grunder.css and suksess.html
+
+commit cc5005092b79294e79fb6f8cf5f7308a92d40d7e
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Mon Nov 20 14:48:14 2017 +0100
+
+    Added tags for css
+
+commit 74626c96e66a3662d857fc106fa2c7415e82cebb
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Mon Nov 20 14:47:14 2017 +0100
+
+    waves and yacht + animation
+
+commit a43aef4503866ddeb220cae29d96ba35c6584ab4
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Mon Nov 20 14:44:09 2017 +0100
+
+    lorem
+
+commit bef412d1f65393f9529a4b40364cfa83c0142954
+Merge: c15dfc1 2460af0
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Mon Nov 20 14:34:34 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit c15dfc1af83cad064bfdca339dd25d6876ed8206
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Mon Nov 20 14:33:11 2017 +0100
+
+    lorem
+
+commit 2460af0eecc51de1c290f2f3514e195f81c6cd7c
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Mon Nov 20 14:28:05 2017 +0100
+
+    Add files via upload
+
+commit 392512f591a68792f5eb511ce000dd2be38fb197
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Mon Nov 20 14:22:05 2017 +0100
+
+    Update edu.css
+
+commit 8a82ad2e0076bb17bf3195bcfe2b7cbe28c274eb
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Mon Nov 20 14:21:07 2017 +0100
+
+    Update edu.css
+
+commit dc9b69d9a6b6191032332823d126e73434b1a18e
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Mon Nov 20 14:19:57 2017 +0100
+
+    Update edu.html
+
+commit bbf0d4eee71c3c2928302e081f5752fef6e963d5
+Merge: 7f96ca9 0391ede
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Mon Nov 20 14:19:42 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 7f96ca976727eee21623729de8ca037a54405f69
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Mon Nov 20 14:19:38 2017 +0100
+
+    lorem
+
+commit 0391ede5bfff9e0c22203bd37fd14851afbf4d78
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Mon Nov 20 14:18:00 2017 +0100
+
+    Update edu.css
+
+commit 7ce7e2ca8b13220f8d85a242c6123b308132faab
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 14:14:14 2017 +0100
+
+    Update grunder2.html
+
+commit 3b93fcff861a2c41b205fe49c3c3d15271291080
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Mon Nov 20 14:09:59 2017 +0100
+
+    Update edu.css
+
+commit 32ae46a23055e74a30a2bfc9499d253b07ffe860
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Mon Nov 20 14:09:38 2017 +0100
+
+    Update jobbDag.html
+
+commit cf18cde88705fa74f0373e9e11ea59c5f29b033c
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Mon Nov 20 14:08:09 2017 +0100
+
+    Update edu.css
+
+commit ab2b9984a44ff0bff3bb176ec6bf59182aa8eebd
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 14:06:26 2017 +0100
+
+    Delete milkpic.jpg
+
+commit 75053c48208c395cac1ad5271c8a03a715c78d0c
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Mon Nov 20 14:04:45 2017 +0100
+
+    Update jobbDag.css
+
+commit 07e110310e94b92c336076a0b63e0a89f4c43684
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 14:01:08 2017 +0100
+
+    Update grunder2.html
+
+commit 36d742b8d2107fa71810ecc1a2c2bbc6dff29407
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 14:00:13 2017 +0100
+
+    Update grunder2.html
+
+commit b43419d919db65e93766e6760005b20bebe5547e
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Mon Nov 20 13:58:54 2017 +0100
+
+    Add files via upload
+
+commit 44e1a09f115505f9e9ee325c8505b44cc7a4485d
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Mon Nov 20 13:57:32 2017 +0100
+
+    Update edu.css
+
+commit b16ad68b0c758134ad146bed355efb7162cbf7c2
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 13:57:11 2017 +0100
+
+    Add files via upload
+
+commit 94ffcc7792a6d898560a10a5f5de349e350c0fae
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 13:55:59 2017 +0100
+
+    Add files via upload
+
+commit d9e281954b87c7da8c5f6552225ae94873879b6d
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Mon Nov 20 13:55:48 2017 +0100
+
+    Update edu.css
+
+commit 817dd7d9de5adae26bd441b61f387e6c9a083375
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Mon Nov 20 13:53:20 2017 +0100
+
+    Add files via upload
+
+commit f6285ff4b132d527050cec5fd897a6d1660ba7f9
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 13:51:58 2017 +0100
+
+    Update grunder2.html
+
+commit 02ea50546dfdbc68fc89fa2928cb06fce8c0fa5e
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Mon Nov 20 13:51:14 2017 +0100
+
+    Add files via upload
+
+commit 57c9dceca8f29a2c49edc17434c15963fc027328
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Mon Nov 20 13:48:53 2017 +0100
+
+    sounds
+
+commit 0f7a5854ea814b4417e9b4ca5ac0681941932468
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 13:41:04 2017 +0100
+
+    Update grunder2.html
+
+commit 231a4cdb7128a6a11bcd73d3c5d65b6b5e5c5e79
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 13:40:15 2017 +0100
+
+    Update grunder2.html
+
+commit b4493ca52d5b2e5920c1dac05c59f1cdd321bd09
+Merge: e27b010 17bea24
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Mon Nov 20 13:37:44 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit e27b010175ee145d906d88d3c438f55d025a5de1
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Mon Nov 20 13:37:20 2017 +0100
+
+    sounds
+
+commit 17bea24565592fd6a8973dc1b05e243899b8dc06
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Mon Nov 20 13:37:05 2017 +0100
+
+    Add files via upload
+
+commit 2191ccca4f9a654b8fee020ce70a814ceee7c98f
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Mon Nov 20 13:36:20 2017 +0100
+
+    Add files via upload
+
+commit 51dbf751b571a00be8dd2ab4dd53a29756f95700
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Mon Nov 20 13:36:04 2017 +0100
+
+    sounds
+
+commit b79f0affe22eef351795e559603f0df57efd3012
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Mon Nov 20 13:35:31 2017 +0100
+
+    lorem
+
+commit 548d47ad49aa2d4f174fe5b50c164b4627a9aa29
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 13:34:23 2017 +0100
+
+    Add files via upload
+
+commit 7a37ad606637d655a1ac0628f33423c611689ca3
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 13:30:29 2017 +0100
+
+    Update grunder2.html
+
+commit de3034562765c73e5582350f674a3d18525f6a2d
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Mon Nov 20 13:23:25 2017 +0100
+
+    Update jobbDag.css
+
+commit 8bb91e8bf3a16400e06b9f4dcef710dc5e911a4a
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 13:23:10 2017 +0100
+
+    Update edu.css
+
+commit 9e14a062d0d87efdbed8e0b3062a345edc92466a
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Mon Nov 20 13:18:08 2017 +0100
+
+    Update edu.css
+
+commit 45606d57557b55ead8dfb7eb157cc9d4dd64ce72
+Author: BlackCap <mailhph@gmail.com>
+Date:   Mon Nov 20 13:13:26 2017 +0100
+
+    Update README.md
+
+commit ede0cdc46ffbeb1ba5bb0a80d4202226ab1792e9
+Author: BlackCap <mailhph@gmail.com>
+Date:   Mon Nov 20 13:02:45 2017 +0100
+
+    Update README.md
+
+commit 61b09126550a47dd0557de27b64be638a4377411
+Author: BlackCap <mailhph@gmail.com>
+Date:   Mon Nov 20 12:52:48 2017 +0100
+
+    Update README.md
+
+commit 23561dbc5d1be2a0c11f9710e76351b74937d4b4
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 16:16:48 2017 +0100
+
+    Update edu.css
+
+commit 16ee6ab3772cf1a5e722d1b448469993bb98a78c
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 16:11:05 2017 +0100
+
+    Update edu.css
+
+commit c4f998d3bbe9dd1e7a522fd7a747f6e4399bd2b4
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 16:10:34 2017 +0100
+
+    Update edu.css
+
+commit 9e9b29d6144be84373b4e79e1cf1b5bfdc769463
+Author: BlackCapCoder <mailhph@gmail.com>
+Date:   Thu Nov 16 16:10:16 2017 +0100
+
+    Delete dinfil.exe
+
+commit 9389a00f92e820a7b0f2374a0ab646ed093815de
+Merge: cf86c33 054a379
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 16:08:32 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 054a37939618ea615cfdbb3687ee75abaa7210b0
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 16:08:17 2017 +0100
+
+    Update edu.css
+
+commit cf86c33e205b03cb8a619dffd161f56ed5962499
+Merge: ef1e334 d6f3414
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 16:08:09 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit ef1e334ce94625b5b7d223dff9bdbb975efd39b3
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 16:07:55 2017 +0100
+
+    lorem
+
+commit d6f3414e5abba4f60f53dc00329e884df81fa839
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 16:06:41 2017 +0100
+
+    Update edu.html
+
+commit d56b20063859dfdcc1e7be022df3f381345c277b
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 16:06:12 2017 +0100
+
+    Add files via upload
+
+commit 3680678ae743f31fb9f99cfa669cc412726efe29
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 16:05:49 2017 +0100
+
+    lorem
+
+commit 61017f743b07d02fc25fbc7b1ee889049f03d4d8
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:58:32 2017 +0100
+
+    lorem
+
+commit 4f32503af1d96a080394921272c4ca4a36472611
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 15:58:19 2017 +0100
+
+    Update README.md
+
+commit c219386fa2cbc5a02da46d45f42a8d9c95a41dca
+Author: BlackCapCoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:57:20 2017 +0100
+
+    Update README.md
+
+commit 952961661f6184fd6f94e88591190f547b628042
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:54:45 2017 +0100
+
+    lorem
+
+commit e797b3fff1768a81ceb40d2c8e7b2fe7e92f6abb
+Merge: e348fd4 11b8ce1
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:48:47 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit e348fd42dc68cf9bc297ea273da7bcb4a1ff7539
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:48:42 2017 +0100
+
+    lorem
+
+commit 11b8ce13d0873f5c9fd7aac7d3ade9a8d07f2067
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Thu Nov 16 15:48:40 2017 +0100
+
+    added wikipdia entry
+
+commit 9710661b7425427a2056379e6d2c9b8a39efe1c5
+Merge: a84d7ac 5e8c415
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:46:29 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit a84d7ac9fd98f831322c254d811741825c3bfed5
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:46:24 2017 +0100
+
+    lorem
+
+commit 5e8c415db8d5f26488221c42b704cb33199643e0
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Thu Nov 16 15:45:24 2017 +0100
+
+    Update jobbDag.css
+
+commit ad2775cba01f57e1a3ff1d54c5d56c777a4da5a0
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:44:04 2017 +0100
+
+    lorem
+
+commit cd4a04ca79d383619b35827a276707b1d4151e6c
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Thu Nov 16 15:43:11 2017 +0100
+
+    Update jobbDag.css
+
+commit f455423a925f53f5943dcd29b5971806776dfc2e
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 15:42:39 2017 +0100
+
+    Update README.md
+
+commit d62ed4d17719450d32255336b5e8713d4b11e528
+Merge: 0b47572 d6e1c62
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:40:32 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 0b4757209ee1d0c43bbeeea5c1fefacf4681344f
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:40:27 2017 +0100
+
+    lorem
+
+commit d6e1c62a7cd0250179b42797f0556039b6aa1633
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Thu Nov 16 15:39:46 2017 +0100
+
+    Update jobbDag.css
+
+commit a0fb5c4e23bc61de996712a55890aee485afcd07
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 16 15:34:55 2017 +0100
+
+    Update grunder.css
+
+commit fa0e72f102f9866516a4e51e3634c18bebe38cf8
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 15:32:47 2017 +0100
+
+    Update README.md
+
+commit 19b0357f70915e882dfc2084b830963d4ea05a51
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 15:30:40 2017 +0100
+
+    Update README.md
+
+commit 8d64517d72148605edbbd3bc2de065130d9fbfc0
+Merge: bcc298c e9b816f
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:30:18 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit e9b816f020ca8ee0f24d63065f548d91b10ca091
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 15:29:54 2017 +0100
+
+    Update README.md
+
+commit bcc298c423ca28cca44f7058cac4e8d379c66a9e
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:29:50 2017 +0100
+
+    lorem
+
+commit 8f70c36f1bb37303d287a82e604ae55f223a8e6f
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 15:29:22 2017 +0100
+
+    Update README.md
+
+commit 1c895be36b8ceb40fe04067e0f9517d9f209ac4f
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 15:28:32 2017 +0100
+
+    Update README.md
+
+commit 7d9d50d66f0c95deed814ebacaaf720a86f615fd
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 15:28:07 2017 +0100
+
+    Update README.md
+
+commit 1e5fa183e16cad009e23781982d868a8611d1004
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Thu Nov 16 15:27:57 2017 +0100
+
+    Update jobbDag.css
+
+commit 60db62225e6d6c0d97a39414878b65c45058481c
+Merge: deab428 9dcc9b8
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:27:18 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 9dcc9b80fa297ce1f8423eb91266155ac07a71a7
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Thu Nov 16 15:27:03 2017 +0100
+
+    Update jobbDag.css
+
+commit deab42819717cbd72f337ab5ccb2ce2b8c8d9c1a
+Merge: bb00075 3a53e3d
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:26:49 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit bb00075827351cb1d9b25f55e1a16c23f7714912
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:26:46 2017 +0100
+
+    lorem
+
+commit 3a53e3d7e0b3cc6219b6fe4086b483dffcd3f1eb
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Thu Nov 16 15:26:35 2017 +0100
+
+    Add files via upload
+
+commit cfca32fa80fa81388132e9179d7be2f4e052ea8b
+Merge: ad1b596 65d1fbf
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:25:49 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 65d1fbf07c06f31bc88e5fba0b63faf500a3de30
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Thu Nov 16 15:25:39 2017 +0100
+
+    Update jobbDag.css
+
+commit ad1b596eda7dc07ba4f5c4831bd76c021115c486
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:25:29 2017 +0100
+
+    lorem
+
+commit 1970ba1602ab43cae270762283e8f87e488c3d99
+Author: BlackCapCoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:24:25 2017 +0100
+
+    Delete Scan to custom email (1).pdf
+
+commit 3591b347dd6e27e711ccf2a449e56ef1333b0723
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Thu Nov 16 15:24:03 2017 +0100
+
+    Add files via upload
+
+commit 0051396a134f6cab9872b50aa92cc5df0c4d5bb7
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:23:38 2017 +0100
+
+    lorem
+
+commit daf6b5529012a7cee76ee6d971d148b670f3fd8c
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:23:20 2017 +0100
+
+    flipped images
+
+commit ccb4ce6a59a852a1a5bf486106bf9d3322672eb8
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 15:22:28 2017 +0100
+
+    Update README.md
+
+commit a7be88be2f27e35d1effc964458c19d974cea0da
+Merge: f04afad 5e21b05
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:20:55 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 5e21b05ffb46545167af0f38d7f5e70d4c6368f2
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Thu Nov 16 15:20:11 2017 +0100
+
+    Add files via upload
+
+commit f04afadced61cec2d10cccb42c13a443e1babb02
+Merge: 04d136d 520db83
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:19:57 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 520db83579e4d457eec10d8e36f7a3a5865e210d
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Thu Nov 16 15:19:40 2017 +0100
+
+    Add files via upload
+
+commit 04d136db17c7dce42ed6fe5e5ae35313ae41b783
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:19:39 2017 +0100
+
+    flipped images
+
+commit f16c586ee7f80c09df95460a1d6d9f087a5aaffa
+Merge: a8efe8a ad24d50
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:16:57 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit ad24d50387ef1647edd14b8db715eb7f24cedb90
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Thu Nov 16 15:16:45 2017 +0100
+
+    Add files via upload
+
+commit 422ef191064bd7ab208c23f853e4baf034648ba5
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 16 15:16:25 2017 +0100
+
+    update på arbeid
+
+commit a8efe8af4dccbc12369fd704d3d404a9376d6f4e
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:15:39 2017 +0100
+
+    lorem
+
+commit 52cf1f1ff5fac5362a0115b61e238bf812a3f153
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 16 15:13:23 2017 +0100
+
+    Deleted unneccessary CSS button JS buttoncodes
+
+commit 8dc6ecfe8cfc71c111ff8de614791e7a4f402eea
+Merge: 7bca3d9 6930ada
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:10:44 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 7bca3d98643c2a76884031bc74fc45d9384b5737
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:09:31 2017 +0100
+
+    lorem
+
+commit 6930ada918e0c272af676ca8192cb992600a8daf
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 15:08:26 2017 +0100
+
+    Add files via upload
+    
+    Henrik FIX np
+
+commit cc62176d59b06cd106c698b5ce6a7f1e12c3b8c1
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:05:07 2017 +0100
+
+    lorem
+
+commit 7ca4f5329ec8b4f3c035777a396c9d5ae0480950
+Merge: fe6cec3 dfd4b58
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:03:55 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit fe6cec36329b6a22c1a3090e9a7bdee0264f5b66
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 15:03:42 2017 +0100
+
+    lorem
+
+commit dfd4b58a4c047e4b3dc0559f5ed01ace4e379266
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Thu Nov 16 14:59:06 2017 +0100
+
+    dysleksi strikes again
+
+commit 3d848398718d3561e64460a9df50b2d6548dbedb
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Thu Nov 16 14:55:26 2017 +0100
+
+    Add files via upload
+
+commit 0cb79ea2ef33da3cfb1bddc75d670ec68f61c11a
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 16 14:48:34 2017 +0100
+
+    test. victorbutton css hovereffects
+
+commit de87fb7329b05de6282b67ebb13b00b4a4c9a3a5
+Merge: 225251b 11bdfae
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 14:46:14 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 225251b6d5fa4ecc6949aa89156e94a649cd891f
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 14:45:51 2017 +0100
+
+    added image to it
+
+commit 11bdfae6a77cead5886bc1623a369358e9ca9aba
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Thu Nov 16 14:45:29 2017 +0100
+
+    removed important
+
+commit 6001419a57dc43580ac0985e27d79741748fb1d0
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Thu Nov 16 14:43:59 2017 +0100
+
+    bug fix
+
+commit a043c63b697eb4d490b26963ff24341f65fdfd18
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Thu Nov 16 14:42:22 2017 +0100
+
+    Fixed 0.3s ease for g1button2
+
+commit 5962a4ee8b567ead4523cb18ee16d800c85db3b8
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 16 14:41:09 2017 +0100
+
+    unødvendig fil.
+
+commit 4431a7d0b05d08d9a66e05f3d817f44c32e723ba
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 16 14:38:28 2017 +0100
+
+    rettskrevet Yacht
+
+commit f4185c6d54a4d361e85f4707fec34f74c809f434
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Thu Nov 16 14:29:47 2017 +0100
+
+    removed :link
+
+commit dbe2fdc705a537a2133a721c114b0f2f13b91a64
+Merge: 4ad0b17 2ad0df7
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 14:27:43 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 4ad0b17454447595eaf8c374662f9aa23ab38229
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 14:27:14 2017 +0100
+
+    removed unused img
+
+commit 2ad0df730633ebe44e1f47f6bce14938e3727258
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Thu Nov 16 14:26:41 2017 +0100
+
+    reduced size of text in grunder1
+
+commit f292f24eb3482ea7f791d37ddcbf5a798764b7df
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Thu Nov 16 14:21:01 2017 +0100
+
+    updated font-family: monospace;
+
+commit bef4a7b7c43c1ea90810b007070eefdea707acce
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Thu Nov 16 14:17:39 2017 +0100
+
+    Add files via upload
+
+commit 61ea01d10df8419b1e62efe3499144a144cdf9be
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Thu Nov 16 14:16:10 2017 +0100
+
+    bug fixes
+
+commit ded0d2d3ea26a8419718ce98da20609c248ed08e
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Thu Nov 16 14:13:20 2017 +0100
+
+    Updated button to fit the rest of prj
+
+commit f4280a521065b301856d0e4c66b0d55e3e1bcbb6
+Merge: 34dbf02 f2e126d
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 13:48:51 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 34dbf02cb65b13e8e39affa1b83fa7d84b2e4fc6
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 13:48:26 2017 +0100
+
+    css fix
+
+commit f2e126d8cfe218298a56e630d06dcb396517b33e
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Thu Nov 16 13:47:22 2017 +0100
+
+    Add files via upload
+    
+    Komprimert
+
+commit e862c6eafd23b9fe89cb16579e349dd34a85661e
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 13:45:37 2017 +0100
+
+    Update edu.css
+
+commit dfb4364c87a999241be54c1e2589df4f48c62f92
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 13:45:11 2017 +0100
+
+    Update edu.html
+
+commit a483f0709293a213bed4d761ae4dcd95e4081ce4
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 16 13:43:08 2017 +0100
+
+    Update grunder.css
+
+commit 5f09a7c09b086d3b46d8b8c95aa4aa8ea0edb895
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 16 13:41:33 2017 +0100
+
+    Update grunder.css
+
+commit 5626a74f495a046a92d6611dd61c0f83e634a27c
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Thu Nov 16 13:40:20 2017 +0100
+
+    Komprimert
+
+commit b3dbad8bb5272463a13f466a5617ac86686851b5
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 13:39:24 2017 +0100
+
+    Update edu.html
+
+commit f44e3dcbabdb1c70cfac993324127c8b63b8df18
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 16 13:37:57 2017 +0100
+
+    Update konkurs2.html
+
+commit aa276a9bd07f653dca3d33fa7cfabfb36feb865c
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Thu Nov 16 13:37:45 2017 +0100
+
+    Add files via upload
+    
+    Komprimert. 4mb -> 99kb
+
+commit 670f9f379012c70067207a7d361be522e1e1c755
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 13:36:29 2017 +0100
+
+    design fix
+
+commit 8939fccf79bf3bb8dacec22f0a449256f3821879
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 16 13:30:17 2017 +0100
+
+    Update grunder2.html
+
+commit f07f68e7036132688bfd4be0998b349546a8bcbf
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 16 13:29:41 2017 +0100
+
+    Update grunder.css
+
+commit 5364bff9774fd6bf60123e388039f73ae7f455f1
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Thu Nov 16 13:29:31 2017 +0100
+
+    Add files via upload
+
+commit d0e102421495b3176ae0e72216f9bade70030a16
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 13:25:48 2017 +0100
+
+    Update edu.html
+
+commit af6dd61a5bbaeebdf18af063d06dbe57c5ab9ac3
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 13:25:24 2017 +0100
+
+    common font
+
+commit 6760ad1299acd15b8a61c07a470a44377c41478f
+Merge: eb246e6 31dc1cd
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 13:21:31 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 31dc1cd1f54fcddbd1c2bbb1dafcb611de03d59e
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 16 13:21:18 2017 +0100
+
+    Update grunder2.html
+
+commit eb246e6a0427eeae0c3ffd1cc57aeea508a4f172
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 13:21:12 2017 +0100
+
+    btn font
+
+commit e2e65d128fa940dad7dfa9d009067e470d2550f3
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 16 13:19:37 2017 +0100
+
+    Update grundercss.css
+
+commit 371f58e450f4b2a5a4a9db1046d6f22208cd1ece
+Merge: 94238f1 4a99695
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 13:16:53 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit 4a99695a9ca121ced00d853118f6784c2712d499
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Thu Nov 16 13:16:43 2017 +0100
+
+    Add files via upload
+
+commit 94238f199cee54737def4f53eb215f9d08d5a59a
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Thu Nov 16 13:16:31 2017 +0100
+
+    art site
+
+commit 2cc9e69eac77ace783ab273b9fbfbe06e3dcddc7
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Thu Nov 16 13:16:21 2017 +0100
+
+    Update jobbDag.html
+
+commit 50dc174ff8fbe4c749ae2c4ed11360eadf955ba1
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 16 13:15:41 2017 +0100
+
+    Add files via upload
+
+commit 2b0282a1abce28d0b92121fbe1eb276ede295cb9
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 16 13:14:16 2017 +0100
+
+    Add files via upload
+
+commit 7c33334bb327ec7f731df698c170a8398ca009d2
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 16 13:11:19 2017 +0100
+
+    Add files via upload
+
+commit 31d852822d57074dc3058238701e424a4d7f76c9
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 16 13:09:07 2017 +0100
+
+    Add files via upload
+
+commit ca9a0d0216d5d8c48ee090bcd68a2c6a356e5237
+Author: vefvic17 <31289099+vefvic17@users.noreply.github.com>
+Date:   Thu Nov 16 13:05:54 2017 +0100
+
+    Add files via upload
+
+commit 79e05703f97c208c092a20463af272cf1abafdec
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Thu Nov 16 13:01:33 2017 +0100
+
+    Add files via upload
+
+commit 6fd123e366fee807283647ac62fa28ad69ad659a
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 22:21:58 2017 +0100
+
+    fancier progressbar
+
+commit 7822b1394be45612130800655e3f744429e6c431
+Merge: b072b99 86cf29b
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 20:36:52 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit b072b99ae94cd4edf40d1bf68ff47703c77f49ff
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 20:36:39 2017 +0100
+
+    fancier progressbar
+
+commit 86cf29b4ba6cdc9c0db68001cf51c9a82fff3009
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 15 20:30:59 2017 +0100
+
+    Updated buttons to project design
+
+commit c80ecf0f81b27009ff789e6d1e3e76a55129cff3
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 20:15:04 2017 +0100
+
+    bugfix
+
+commit 405a84618047163ba395e0ee9edadef9859be72c
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 15 20:05:06 2017 +0100
+
+    Changed the :hover format for k2text2
+
+commit b50e8ddcc9c545fd1013c4306908d72af0a96cc6
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 15 20:03:51 2017 +0100
+
+    Changed location of k2text2
+
+commit 75290fda220bb9e4d99103e5fbce591e21c9127a
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 19:53:34 2017 +0100
+
+    fancier frontpage
+
+commit 67fe2b568b27d4c8d24cd1962adfb1bbc1c7cb30
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 15 19:53:22 2017 +0100
+
+    Added k2text with transition
+
+commit 533eff5f3c00a61ceae85895ec130df71ded57dd
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 15 19:51:00 2017 +0100
+
+    Added text for k2text
+
+commit 3e12f807b4270bb0d852e6f371963a7ec9a74d84
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 15 19:49:07 2017 +0100
+
+    Added comments and :hover for k2button2
+
+commit a1898c54e02612b6b27218bed933bc0fdefe8c1d
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 15 19:45:08 2017 +0100
+
+    New id for button 2
+
+commit 1df2b48bc5db992995fbd2b85f849ce4a1a14d7c
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 19:43:10 2017 +0100
+
+    fanciiier buttons
+
+commit f8717a8631da4f793425760ddc02578540f018b3
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 19:32:29 2017 +0100
+
+    fancier buttons
+
+commit 4f305a9cef08edda81a01b2a9e126519d29a6d21
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 15 19:21:31 2017 +0100
+
+    Update suksess.html
+
+commit 21331ae500d11ded38253a97151925e6ac530d90
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 19:18:33 2017 +0100
+
+    fix
+
+commit 9b7181f35df1edd15f5d40a11bb14ef977211c97
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 19:16:20 2017 +0100
+
+    day/night
+
+commit d23176b3157d59492fb25587d4d2dd692e2cee34
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 15 18:45:00 2017 +0100
+
+    Add files via upload
+
+commit 66606eaa433491383f46913fab8ff579ffe21045
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 15 18:43:45 2017 +0100
+
+    Må redusere størrelse
+    
+    4.51 MB
+
+commit f03aba1e524e89231d74aac20cf2f2e17919ca14
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 17:47:01 2017 +0100
+
+    styling
+
+commit d053fffa43b4de7af193a1639aa3d9edc06add7c
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 17:45:09 2017 +0100
+
+    styling
+
+commit dd1b8c0f0cbe50d3f073a70af6581d6103c11be7
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 17:43:49 2017 +0100
+
+    styling
+
+commit b34d593c51adcae3837258282c06ec9033828060
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 17:25:03 2017 +0100
+
+    styling
+
+commit 3a645b739a2848ab2120df2be19ebc08ef4395e1
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 15 16:46:01 2017 +0100
+
+    Add files via upload
+
+commit e23c3eab6384d5af9fecb22c97e80889d0714b37
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 15 16:45:17 2017 +0100
+
+    Add files via upload
+
+commit f986aaa4e0f7dcd251773e129c7ea102dd995faa
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 16:13:49 2017 +0100
+
+    styling
+
+commit 3ed54610bb0031b62caa2f5056bc3137c1e79b9c
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 16:05:02 2017 +0100
+
+    styling
+
+commit abd758a7c37ec920dd5c0a74584ffa9619340101
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 16:03:30 2017 +0100
+
+    styling
+
+commit 80b9bfc0ad6ed426e48c355942a6746f7b0167a5
+Author: BlackCapCoder <mailhph@gmail.com>
+Date:   Wed Nov 15 15:56:19 2017 +0100
+
+    Update jobbNatt.css
+
+commit dfc9d32abe3776e6b7b59a4e525221bc75e4df79
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Wed Nov 15 15:51:47 2017 +0100
+
+    Add files via upload
+
+commit 8a1c5633a7017e242e347448b86a09e484606307
+Author: NicolaiBakken <31101110+NicolaiBakken@users.noreply.github.com>
+Date:   Wed Nov 15 15:48:04 2017 +0100
+
+    Add files via upload
+
+commit 177e0d72b1359299a28edeaa5fe18f93d2ee6c2e
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 15:41:22 2017 +0100
+
+    link back home
+
+commit e9d07c7d60323cbc16c226d63ba8451eec940f6d
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 15:38:07 2017 +0100
+
+    docs
+
+commit a158e8700c6355aa96d021f4fb29b6d60a5056d0
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 15:37:22 2017 +0100
+
+    flipped images
+
+commit bef2a02af11d0e0672428db6d0075188aecd8019
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 15:35:10 2017 +0100
+
+    flipped images
+
+commit 0afd57450ca190cefd918bd169539b13433fadf3
+Merge: c36dfbc e65c534
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 15:33:40 2017 +0100
+
+    Merge branch 'master' of https://github.com/BlackCapCoder/future-webproj
+
+commit c36dfbcb4419113e695b60f238bffdc754f9eb2d
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 15:33:23 2017 +0100
+
+    flipped images
+
+commit e65c534d90ec037bbb31b4a084358cec9300170a
+Author: BlackCapCoder <mailhph@gmail.com>
+Date:   Wed Nov 15 15:32:00 2017 +0100
+
+    Delete Scan to custom email.pdf
+
+commit 43dd1db822f2502e01c4f73e0e125cf96c053ffc
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 15:31:30 2017 +0100
+
+    docs
+
+commit 80e53d06341b0614e6e3489a276c955279a050fb
+Author: iThoza <31341244+iThoza@users.noreply.github.com>
+Date:   Wed Nov 15 15:27:17 2017 +0100
+
+    Add files via upload
+
+commit 995d3064297eda8019d5f811ffbd7b5d49fcf1f7
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 15:26:31 2017 +0100
+
+    common css
+
+commit f1fe025e56dcb167678779f38fb5c38567bf15ca
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 15:20:34 2017 +0100
+
+    fancybuttons
+
+commit 7280460f0354f74042a8f106c6653c0df2473244
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 15:17:55 2017 +0100
+
+    fancybuttons
+
+commit 1aee3176e0a2997f3af5643539239298933bbc35
+Author: BlackCapCoder <mailhph@gmail.com>
+Date:   Wed Nov 15 15:04:28 2017 +0100
+
+    Update IT.html
+
+commit e49ae719ccfb9f507a4fa46fc03af537dce81456
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 15:03:39 2017 +0100
+
+    keylogger joke
+
+commit a9b0a96ea1308383b589c0f19ab66d496195155b
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 15:00:27 2017 +0100
+
+    styled frontpage
+
+commit 8072fe92b07c7a52e4e53fa6d7e29b242f9b5dd5
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 14:56:00 2017 +0100
+
+    fixed broken link
+
+commit bd29b71eb8992d42145540f2b076e621af9a7c33
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 14:52:44 2017 +0100
+
+    moved sign image
+
+commit 5a9effb23a6a048db1a517c2a1242443147aa71b
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 14:50:58 2017 +0100
+
+    styled frontpage
+
+commit 357ac49147b08ee49182d9cec9241fd5067822c1
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 14:36:27 2017 +0100
+
+    moved sign image
+
+commit a0adde943e9919982f0c98ae2a90c2c749f46140
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 14:34:50 2017 +0100
+
+    lorem
+
+commit 05b088e8f26bb2c6afd5d1e1d6814ecd11285f33
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 14:33:42 2017 +0100
+
+    lorem
+
+commit 43cf0a279afe99924469cd2829849c5b370ab127
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 14:31:37 2017 +0100
+
+    lorem
+
+commit 32163ccca7aa02a893a55009f8c32e5ff124b7f0
+Author: evjjan17 <31191841+evjjan17@users.noreply.github.com>
+Date:   Wed Nov 15 14:30:35 2017 +0100
+
+    Add files via upload
+
+commit 7bc889b952ce6f8725e21ea87691b58b2adf34b9
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 14:21:16 2017 +0100
+
+    template
+
+commit 3c47d2f3c427246704ae76662914e1d567dac89e
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 14:15:24 2017 +0100
+
+    removed files
+
+commit fd094b1b815a0ffd618918157049028e5a0217e5
+Author: BlackCapCoder <mailhph@gmail.com>
+Date:   Wed Nov 15 14:14:53 2017 +0100
+
+    Update README.md
+
+commit 14dcd2226a28ebbbeba139cec785aeafba9985a3
+Author: BlackCapCoder <mailhph@gmail.com>
+Date:   Wed Nov 15 14:14:26 2017 +0100
+
+    Update README.md
+
+commit 22056059e41d9a1049c3dfc7572f16ec2e181bc4
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 14:12:36 2017 +0100
+
+    docs
+
+commit 708890df7f4c6760b801c2bf1887776b6938980a
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 15 14:10:57 2017 +0100
+
+    Add files via upload
+
+commit cbdcb92a96eccb8eac7b6ea073fa3d315511a20b
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 14:03:15 2017 +0100
+
+    added templates
+
+commit 188696352fe60e9f3a9feccf55567f4f7f2041d9
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 14:01:44 2017 +0100
+
+    added templates
+
+commit cbc2caf591e69e897ae32656c6289395852e1e18
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 15 13:58:55 2017 +0100
+
+    Add files via upload
+
+commit f9359c6eff01214539ebaba940c10c00266b0e2b
+Author: Sander Sjøthun <31255348+sjosan17@users.noreply.github.com>
+Date:   Wed Nov 15 13:55:07 2017 +0100
+
+    Add files via upload
+    
+    grunder delen
+
+commit 60ac0b1ab940ae9cfb03dc46541ba4dcf0c7f3b4
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 13:43:40 2017 +0100
+
+    docs
+
+commit eb850fb8ade7bd75ec870cebc2b4ae7b261ea291
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 13:42:48 2017 +0100
+
+    dos
+
+commit e9762cbf9eb8f5ee11c8447e6af2acee362db5be
+Author: blackcapcoder <mailhph@gmail.com>
+Date:   Wed Nov 15 13:39:58 2017 +0100
+
+    init
