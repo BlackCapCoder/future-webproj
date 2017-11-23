@@ -1,0 +1,1 @@
+For å være kreative har vi benyttet oss av alkohol og idemyldring. Vi har hatt en ny drink hver dag, og har gått flere ganger igjennom prosjektet vårt i fellesskap og det har vært lav terskel for å kommentere.
