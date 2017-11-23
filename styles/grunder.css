@@ -399,7 +399,3 @@ div#wave2 {
   left: 50%;
   transform: translateX(-50%);
 }
-
-#options a:hover span {
-  display: none;
-}
